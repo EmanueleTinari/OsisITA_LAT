@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" 
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+<osisText osisIDWork="tilc" osisRefWork="Bible" xml:lang="it">
+	<header>
+		<work osisWork="tilc">
+			<title>La Sacra Bibbia nella Traduzione Interconfessionale in Lingua Corrente</title>
+		</work>
+	</header>
+
+	<div type="bookGroup" bookTitle="ANTICO.TESTAMENTO">
+
+		<div type="book" bookTitle="GENESI" osisID="Gen" canonical="true">
+
+			<chapter sID="Gen.1" osisID="Gen.1" chapterTitle="CAPITOLO 1."/>
+
+					<verse sID="Gen.1.1" osisID="Gen.1.1"/><verse eID="Gen.1.1"/>
+					<verse sID="Gen.1.2" osisID="Gen.1.2"/><verse eID="Gen.1.2"/>
+					<verse sID="Gen.1.3" osisID="Gen.1.3"/><verse eID="Gen.1.3"/>
+					<verse sID="Gen.1.4" osisID="Gen.1.4"/><verse eID="Gen.1.4"/>
+					<verse sID="Gen.1.5" osisID="Gen.1.5"/><verse eID="Gen.1.5"/>
+					<verse sID="Gen.1.6" osisID="Gen.1.6"/><verse eID="Gen.1.6"/>
+					<verse sID="Gen.1.7" osisID="Gen.1.7"/><verse eID="Gen.1.7"/>
+					<verse sID="Gen.1.8" osisID="Gen.1.8"/><verse eID="Gen.1.8"/>
+					<verse sID="Gen.1.9" osisID="Gen.1.9"/><verse eID="Gen.1.9"/>
+					<verse sID="Gen.1.10" osisID="Gen.1.10"/><verse eID="Gen.1.10"/>
+					<verse sID="Gen.1.11" osisID="Gen.1.11"/><verse eID="Gen.1.11"/>
+					<verse sID="Gen.1.12" osisID="Gen.1.12"/><verse eID="Gen.1.12"/>
+					<verse sID="Gen.1.13" osisID="Gen.1.13"/><verse eID="Gen.1.13"/>
+					<verse sID="Gen.1.14" osisID="Gen.1.14"/><verse eID="Gen.1.14"/>
+					<verse sID="Gen.1.15" osisID="Gen.1.15"/><verse eID="Gen.1.15"/>
+					<verse sID="Gen.1.16" osisID="Gen.1.16"/><verse eID="Gen.1.16"/>
+					<verse sID="Gen.1.17" osisID="Gen.1.17"/><verse eID="Gen.1.17"/>
+					<verse sID="Gen.1.18" osisID="Gen.1.18"/><verse eID="Gen.1.18"/>
+					<verse sID="Gen.1.19" osisID="Gen.1.19"/><verse eID="Gen.1.19"/>
+					<verse sID="Gen.1.20" osisID="Gen.1.20"/><verse eID="Gen.1.20"/>
+					<verse sID="Gen.1.21" osisID="Gen.1.21"/><verse eID="Gen.1.21"/>
+					<verse sID="Gen.1.22" osisID="Gen.1.22"/><verse eID="Gen.1.22"/>
+					<verse sID="Gen.1.23" osisID="Gen.1.23"/><verse eID="Gen.1.23"/>
+					<verse sID="Gen.1.24" osisID="Gen.1.24"/><verse eID="Gen.1.24"/>
+					<verse sID="Gen.1.25" osisID="Gen.1.25"/><verse eID="Gen.1.25"/>
+					<verse sID="Gen.1.26" osisID="Gen.1.26"/><verse eID="Gen.1.26"/>
+					<verse sID="Gen.1.27" osisID="Gen.1.27"/><verse eID="Gen.1.27"/>
+					<verse sID="Gen.1.28" osisID="Gen.1.28"/><verse eID="Gen.1.28"/>
+					<verse sID="Gen.1.29" osisID="Gen.1.29"/><verse eID="Gen.1.29"/>
+					<verse sID="Gen.1.30" osisID="Gen.1.30"/><verse eID="Gen.1.30"/>
+					<verse sID="Gen.1.31" osisID="Gen.1.31"/><verse eID="Gen.1.31"/>
+
+			<chapter eID="Rev.1"/>
+
+		</div>
+
+	</div>
+
+	<div type="bookGroup" bookTitle="NUOVO.TESTAMENTO">
+
+		<div type="book" bookTitle="APOCALISSE" osisID="Rev" canonical="true">
+
+			<chapter sID="Rev.1" osisID="Rev.1" chapterTitle="CAPITOLO 1."/>
+
+					<verse sID="Rev.1.1" osisID="Rev.1.1"/><verse eID="Rev.1.1"/>
+					<verse sID="Rev.1.2" osisID="Rev.1.2"/><verse eID="Rev.1.2"/>
+					<verse sID="Rev.1.3" osisID="Rev.1.3"/><verse eID="Rev.1.3"/>
+					<verse sID="Rev.1.4" osisID="Rev.1.4"/><verse eID="Rev.1.4"/>
+					<verse sID="Rev.1.5" osisID="Rev.1.5"/><verse eID="Rev.1.5"/>
+					<verse sID="Rev.1.6" osisID="Rev.1.6"/><verse eID="Rev.1.6"/>
+					<verse sID="Rev.1.7" osisID="Rev.1.7"/><verse eID="Rev.1.7"/>
+					<verse sID="Rev.1.8" osisID="Rev.1.8"/><verse eID="Rev.1.8"/>
+					<verse sID="Rev.1.9" osisID="Rev.1.9"/><verse eID="Rev.1.9"/>
+					<verse sID="Rev.1.10" osisID="Rev.1.10"/><verse eID="Rev.1.10"/>
+					<verse sID="Rev.1.11" osisID="Rev.1.11"/><verse eID="Rev.1.11"/>
+					<verse sID="Rev.1.12" osisID="Rev.1.12"/><verse eID="Rev.1.12"/>
+					<verse sID="Rev.1.13" osisID="Rev.1.13"/><verse eID="Rev.1.13"/>
+					<verse sID="Rev.1.14" osisID="Rev.1.14"/><verse eID="Rev.1.14"/>
+					<verse sID="Rev.1.15" osisID="Rev.1.15"/><verse eID="Rev.1.15"/>
+					<verse sID="Rev.1.16" osisID="Rev.1.16"/><verse eID="Rev.1.16"/>
+					<verse sID="Rev.1.17" osisID="Rev.1.17"/><verse eID="Rev.1.17"/>
+					<verse sID="Rev.1.18" osisID="Rev.1.18"/><verse eID="Rev.1.18"/>
+					<verse sID="Rev.1.19" osisID="Rev.1.19"/><verse eID="Rev.1.19"/>
+					<verse sID="Rev.1.20" osisID="Rev.1.20"/><verse eID="Rev.1.20"/>
+
+			<chapter eID="Rev.1"/>
+
+		</div>
+
+	</div>
+</osisText>
+</osis>
