@@ -14,9 +14,9 @@ cei2008.conf -----------------> Il file di configurazione per la nova editio del
 
 cei2008.osis.xml -------------> Il file contenente la nova editio del 2008
 
-interconfessionale.conf ------> Il file di configurazione per l'edizione interconfessionale del 2008
+tilc.conf --------------------> Il file di configurazione per l'edizione interconfessionale del 2008
 
-interconfessionale.osis.xml --> Il file contenente l'edizione interconfessionale del 2008
+tilc.osis.xml ----------------> Il file contenente l'edizione interconfessionale del 2008
 
 novavulgata.conf -------------> Il file di configurazione per l'editio Nova Vulgata
 
