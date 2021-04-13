@@ -1,23 +1,18 @@
-# La Sacra Bibbia versioni in italiano della Conferenza Episcopale Italiana 1971, 1974, 2008, Interconfessionale, Nova Vulgata
+# La Sacra Bibbia versioni in italiano della Conferenza Episcopale Italiana 1971, 1974, 2008 e Interconfessionale
+# La Sacra Bibbia versione in latino Nova Vulgata
 
-### I files
+### Le cartelle:
 
-cei1971.conf -----------------> Il file di configurazione per l'editio princeps del 1971
+cei1971 -----------------> Cartella contenente il file cei1971.osis.xml del libro La Sacra Bibbia, versione C.E.I. 1971
 
-cei1971.osis.xml -------------> Il file contenente l'editio princeps del 1971
+cei1974 -----------------> Cartella contenente il file cei1974.osis.xml del libro La Sacra Bibbia, versione C.E.I. 1974
 
-cei1974.conf -----------------> Il file di configurazione per l'editio minor del 1974
+cei2008 -----------------> Cartella contenente il file cei2008.osis.xml del libro La Sacra Bibbia, versione C.E.I. 2008
 
-cei1974.osis.xml -------------> Il file contenente l'editio minor del 1974
+mods.d ------------------> Cartella contenente i 4 file di configurazione per le 4 versioni della Bibbia
 
-cei2008.conf -----------------> Il file di configurazione per la nova editio del 2008
+novavulgata -------------> Cartella contenente il file novav.osis.xml del libro La Sacra Bibbia, versione in latino
 
-cei2008.osis.xml -------------> Il file contenente la nova editio del 2008
+tilc --------------------> Cartella contenente il file tilc.osis.xml del libro La Sacra Bibbia, versione Interconfessionale
 
-tilc.conf --------------------> Il file di configurazione per l'edizione interconfessionale del 2008
-
-tilc.osis.xml ----------------> Il file contenente l'edizione interconfessionale del 2008
-
-novavulgata.conf -------------> Il file di configurazione per l'editio Nova Vulgata
-
-novavulgata.osis -------------> Il file contenente l'edizione Nova Vulgata
+README.md ---------------> Questo file che stai leggendo
