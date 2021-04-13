@@ -11,7 +11,7 @@ cei2008 -------------------------->Cartella contenente il file cei2008.osis.xml 
 
 mods.d -------------------------->Cartella contenente i 4 file di configurazione per le 4 versioni della Bibbia
 
-novavulgata --------------------->Cartella contenente il file novav.osis.xml del libro La Sacra Bibbia, versione in latino
+novavulgata -(Non ancora online)-->Cartella contenente il file novav.osis.xml del libro La Sacra Bibbia, versione in latino
 
 tilc ------------------------------->Cartella contenente il file tilc.osis.xml del libro La Sacra Bibbia, versione Interconfessionale
 
