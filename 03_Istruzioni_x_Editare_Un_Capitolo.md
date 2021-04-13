@@ -105,7 +105,7 @@ poi uno spazio il numero di capitolo, una virgola, e i numeri dei versetti a cui
 
 Tutto chiaro fino a questo punto? Spero di si, io comunque sono disponibilissimo fin da ora a fornirti ogni spiegazione che vorrai chiedermi.
 
-Naturalmente le spiegazioni qui sopra sono valide **per ogni riferimento, anche quelli che troverai nel capitolo inserite nelle note di piè pagina !***
+Naturalmente le spiegazioni qui sopra sono valide **per ogni riferimento, anche quelli che troverai nel capitolo inserite nelle note di piè pagina !**
 
 DALLA RIGA 15 ALLA RIGA 17
 
