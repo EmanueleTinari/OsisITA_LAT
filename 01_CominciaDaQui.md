@@ -1,0 +1,44 @@
+Questo è un progetto, totalmente gratuito, che mira a rendere disponibili,
+in un formato compatibile con alcuni programmi per la lettura/studio della Bibbia,
+alcune versioni della Sacra Bibbia in italiano e latino edite dalla Conferenza
+Episcopale Italiana (la C.E.I.).
+
+Per fare ciò sono necessari volontari, ecco perchè **TI** sto cercando!
+Non è necessario saper programmare in chissà quale maniera, ma sicuramente avere
+un buon spirito d'iniziativa e, naturalmente, il desiderio di partecipare ad un progetto così.
+
+Comincia collegandoti al foglio di Google Sheet da me approntato all'indirizzo
+https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing
+In tale foglio sono elencati, dal primo all'ultimo, tutti i capitoli di ogni libro di cui si compone
+la Sacra Bibbia.
+
+La colonna **Stato**, le cui celle sono di colore rosso, indica per il capitolo descritto a sinistra lo stato attuale.
+
+### Rosso vuol dire: ANCORA DA EDITARE.
+
+Scegli un capitolo per iniziare, di qualsiasi libro, e una volta scelto cambia il colore della relativa cella di **Stato**.
+Da Rosso a Giallo in questa prima fase.
+
+### Giallo vuol dire: QUALCUNO LO STA EDITANDO!
+
+In questo caso nessun'altro (si spera!) comincerà con quel capitolo, poichè l'hai già scelto tu.
+
+Una volta completato di editare il capitolo da te scelto, me lo invierai all'indirizzo mail emanuele.tinari@hotmail.com
+con Oggetto: LIBRO-CAPITOLO (usando naturalmente il nome del libro, esempio: ISAIA 4).
+
+Una volta che avrò controllato che sia effettivamente ben formattato, camberò la cella di stato in verde ed aggiornerò la cella
+**Versetti** col numero di versetti di cui è composto il capitolo.
+
+### Verde vuol dire: CAPITOLO COMPLETATO
+
+e provvederò ad aggiornare il file .osis.xml relativo alla versione.
+
+Nel foglio di Google sono anche presenti tre colonne (Nome, Cognome, Pseudonimo) che verranno riempiti **SOLO** se tu mi darai tali dati!
+Nome e Cognome sono preferiti ma **NON** obbligatori, come pure lo Pseudonimo.
+In caso comunque di Pseudonimo, se non conforme allo "spirito" del lavoro che sto compiendo ed organizzando, non verrà inserito (quindi no
+a pseudonimi tipo Dio, Nazzareno, Gesù1964 o peggio...
+
+Ognuno di coloro che vorranno darmi il Nome ed il Cognome o lo Pseudonimo, troveranno alla fine del libro che sto assemblando una sezione
+**CREDITS** in cui verranno esposti e ringraziati e che rimarranno ad memoriam nel file .osis.xml della Bibbia.
+
+Hai scelto il capitolo e ora vuoi sapere come proseguire? Continua col 
