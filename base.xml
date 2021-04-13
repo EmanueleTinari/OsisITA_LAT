@@ -1,0 +1,33 @@
+		<div type="book" bookTitle="@@@@" osisID="@@@@" canonical="true">
+
+		<title type="main">@@@@</title>
+
+		<div type="section">
+
+			<title osisID="Intro_@@@@">Introduzione</title>
+
+			<hi type="italic">
+				<p>(<reference osisRef="@@@@.n.n">@@@@ n, n</reference>)</p>
+			</hi>
+
+		</div>
+
+			<chapter sID="@@@@.n" osisID="@@@@.n" chapterTitle="CAPITOLO n."/>
+
+			<title type="chapter">Capitolo n</title>
+
+				<verse sID="@@@@.n.n" osisID="@@@@.n.n"/><verse eID="@@@@.n.n"/>
+				<verse sID="@@@@.n.n" osisID="@@@@.n.n"/><verse eID="@@@@.n.n"/>
+
+			<div type="section">
+
+				<title>@@@@.</title>
+
+				<verse sID="@@@@.n.n" osisID="@@@@.n.n"/><note type="x-footnote" n="1">Cfr. <reference osisRef="@@@@.n.n">@@@@ n,n</reference>; <reference osisRef="@@@@.n.n">@@@@ n,n</reference>.</note><verse eID="@@@@.n.n"/>
+				<verse sID="@@@@.n.n" osisID="@@@@.n.n"/><verse eID="@@@@.n.n"/>
+
+			</div>
+
+			<chapter eID="@@@@.n"/>
+
+		</div>
