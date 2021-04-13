@@ -13,6 +13,6 @@ mods.d -----------------> Cartella contenente i 4 file di configurazione per le 
 
 novavulgata -------------> Cartella contenente il file novav.osis.xml del libro La Sacra Bibbia, versione in latino
 
-tilc -------------------> Cartella contenente il file tilc.osis.xml del libro La Sacra Bibbia, versione Interconfessionale
+tilc ----------------------> Cartella contenente il file tilc.osis.xml del libro La Sacra Bibbia, versione Interconfessionale
 
 README.md --------------> Questo file che stai leggendo
