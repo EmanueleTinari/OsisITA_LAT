@@ -4,19 +4,35 @@
       xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
 <osisText osisIDWork="cei1974" osisRefWork="Bible" xml:lang="it">
-    <header>
-        <work osisWork="cei1974">
-            <title>La Sacra Bibbia versione Conferenza Episcopale Italiana editio minor 1974</title>
-        </work>
-    </header>
+	<header>
+		<work osisWork="cei1974">
+			<title>La Sacra Bibbia versione Conferenza Episcopale Italiana editio minor 1974</title>
+		</work>
+	</header>
 
 	<div type="bookGroup" bookTitle="ANTICO.TESTAMENTO">
 
+	<title>Antico Testamento</title>
+
 		<div type="book" bookTitle="GENESI" osisID="Gen" canonical="true">
+
+		<title type="main">GENESI</title>
+
+			<div type="section">
+
+				<title osisID="Intro_Gen">Introduzione</title>
+
+				<hi type="italic">
+				<p>Le verità divinamente rilevate, che nei libri della Sacra Scrittura sono contenute ed espresse, furono scritte per ispirazione dello Spirito Santo. La Santa Madre Chiesa, per fede apostolica, ritiene sacri e canonici tutti interi i libri sia dell'Antico che del Nuovo Testamento, con tutte le loro parti, perché scritti per ispirazione dello Spirito Santo, hanno Dio per autore e come tali sono stati consegnati alla Chiesa. Per la composizione dei Libri Sacri, Dio scelse e si servì di uomini nel possesso delle loro facoltà e capacità, affinché, agendo Egli in essi e per loro mezzo, scrivessero, come veri autori, tutte e soltanto quelle cose che Egli voleva fossero scritte. Poiché dunque tutto ciò che gli autori ispirati o agiografi asseriscono è da ritenersi asserito dallo Spirito Santo, è da ritenersi anche, per conseguenza, che i libri della Scrittura insegnano con certezza, fedelmente e senza errore la verità, che Dio per la nostra salvezza volle fosse consegnata nelle Sacre Lettere. Pertanto "ogni scrittura divinamente ispirata è anche utile per insegnare, per convincere, per correggere, per educare alla giustizia, affinché l'uomo di Dio sia perfetto, addestrato a ogni opera buona.</p>
+				</hi>
+
+			</div>
 
 			<chapter sID="Gen.1" osisID="Gen.1" chapterTitle="CAPITOLO 1."/>
 
-					<verse sID="Gen.1.1" osisID="Gen.1.1"/><note type="x-footnote" n="1">Poiché la Sacra Scrittura non ha lo scopo di dare informazioni scientifiche sulle origini dell’universo e dell’uomo, prima in 1,1 e 2,4a in maniera schematica, poi in 2,4b-25 con un racconto più arcaico e vivace, sono inculcate alcune verità fondamentali: unicità di Dio che crea tutto ed è distinto dal mondo, bontà di tutte le cose create, particolare dignità della creatura umana.</note>In principio Dio creò il cielo e la terra.<verse eID="Gen.1.1"/>
+			<title type="chapter">Capitolo 1</title>
+
+					<verse sID="Gen.1.1" osisID="Gen.1.1"/><note type="x-footnote" n="1">Poiché la Sacra Scrittura non ha lo scopo di dare informazioni scientifiche sulle origini dell’universo e dell’uomo, prima in <reference osisRef="Gen.1.11">Gn 1,1</reference> e <reference osisRef="Gen.2.4a">Gn 2,4a</reference> in maniera schematica, poi in <reference osisRef="Gen.2.4b-25">Gn 2,4b-25</reference> con un racconto più arcaico e vivace, sono inculcate alcune verità fondamentali: unicità di Dio che crea tutto ed è distinto dal mondo, bontà di tutte le cose create, particolare dignità della creatura umana.</note>In principio Dio creò il cielo e la terra.<verse eID="Gen.1.1"/>
 					<verse sID="Gen.1.2" osisID="Gen.1.2"/>La terra era informe e deserta e le tenebre ricoprivano l`abisso e lo spirito di Dio aleggiava sulle acque.<verse eID="Gen.1.2"/>
 					<verse sID="Gen.1.3" osisID="Gen.1.3"/>Dio disse:<q who="Jesus">Sia la luce!</q>. E la luce fu.<verse eID="Gen.1.3"/>
 					<verse sID="Gen.1.4" osisID="Gen.1.4"/>Dio vide che la luce era cosa buona e separò la luce dalle tenebre<verse eID="Gen.1.4"/>
@@ -54,12 +70,11 @@
 					<title>Creazione dell`uomo.</title>
 
 					<verse sID="Gen.1.26" osisID="Gen.1.26"/>
-					<note type="x-footnote" n="2">Dio si consiglia con se stesso o con la core celeste, per creare un essere che gli somigli per le sue doti spirituali e lo rappresenti come dominatore delle creature inferiori. Cfr. <reference osisRef="Sal.8.6-7">Sal 8,6-7</reference>.</note>E Dio disse:<q who="Jesus">Facciamo l`uomo a nostra immagine, a nostra somiglianza, e domini sui pesci del mare e sugli uccelli del cielo, sul bestiame, su tutte le bestie selvatiche e su tutti i rettili che strisciano sulla terra</q>.<verse eID="Gen.1.26"/>
+					<note type="x-footnote" n="2">Dio si consiglia con se stesso o con la core celeste, per creare un essere che gli somigli per le sue doti spirituali e lo rappresenti come dominatore delle creature inferiori.<br />Cfr. <reference osisRef="Ps.8.6-7">Sal 8,6-7</reference>.</note>E Dio disse:<q who="Jesus">Facciamo l`uomo a nostra immagine, a nostra somiglianza, e domini sui pesci del mare e sugli uccelli del cielo, sul bestiame, su tutte le bestie selvatiche e su tutti i rettili che strisciano sulla terra</q>.<verse eID="Gen.1.26"/>
 
 					<lg>
 					<verse sID="Gen.1.27" osisID="Gen.1.27"/>
-					<note type="x-footnote" n="3">Cfr. <reference osisRef="Mt.19.4"> Mt 19,4</reference> Cfr. <reference osisRef="Mc.10.6">Mc 10,6</reference>.</note>
-					<l level="1">Dio creò l`uomo a sua immagine;</l>
+					<l level="1"><note type="x-footnote" n="3">Cfr. <reference osisRef="Matt.19.4">Mt 19,4</reference>; <reference osisRef="Mark.10.6">Mc 10,6</reference>.</note>Dio creò l`uomo a sua immagine;</l>
 					<l level="1">a immagine di Dio lo creò;</l>
 					<l level="1">maschio e femmina li creò.</l>
 					<verse eID="Gen.1.27"/>
@@ -88,31 +103,136 @@
 
 	<div type="bookGroup" bookTitle="NUOVO.TESTAMENTO">
 
+	<title>Nuovo Testamento</title>
+
+		<div type="book" bookTitle="LETTERA DI GIUDA" osisID="Jude" canonical="true">
+
+		<title type="main">LETTERA DI GIUDA</title>
+
+		<div type="section">
+
+			<title osisID="Intro_Jude">Introduzione</title>
+
+			<hi type="italic">
+				<p>Il Giuda autore di questa lettera è «fratello di Giacomo» (<reference osisRef="Jude.1.1">v. 1</reference>); più probabilmente di Giacomo parente di Gesù (<reference osisRef="Matt.13.55">Mt 13,55</reference>) e venerato capo della Chiesa madre di Gerusalemme. Egli quindi non sarebbe l'apostolo Giuda Taddeo, detto «di Giacomo» (<reference osisRef="Luke.6.16">Lc 6,16</reference>; <reference osisRef="Acts.1.13">At 1,13</reference>) nel senso di figlio di Giacomo. La lettera vuole far fronte al pericolo dei falsi profeti che devastano la comunità cristiana con i loro errori di dottrina e di morale. E’ un documento prezioso della fede delle origini, perché richiama le principali verità cristiane. I destinatari sono vagamente indicati e lo scritto ha piuttosto un andamento omiletico, con uno stile vivo e pittoresco. Poiché la <reference osisRef="2Pet">2Pt</reference> utilizza una notevole parte di <reference osisRef="Jude">Gd</reference>, la data della lettera può essere fusata agli anni 62-67 o 70-80 (Cfr. <reference osisRef="Intro_2Pet">Introduzione a 2Pt</reference>).</p>
+			</hi>
+
+		</div>
+
+			<chapter sID="Jude.1" osisID="Jude.1" chapterTitle="CAPITOLO 1."/>
+
+			<title type="chapter">Capitolo 1</title>
+
+				<verse sID="Jude.1.1" osisID="Jude.1.1"/>Giuda, servo di Gesù Cristo, fratello di Giacomo, agli eletti che vivono nell`amore di Dio Padre e sono stati preservati per Gesù Cristo:<verse eID="Jude.1.1"/>
+				<verse sID="Jude.1.2" osisID="Jude.1.2"/>misericordia a voi e pace e carità in abbondanza.<verse eID="Jude.1.2"/>
+
+			<div type="section">
+
+				<title>Scopo della lettera.</title>
+
+				<verse sID="Jude.1.3" osisID="Jude.1.3"/><note type="x-footnote" n="1">La fede deve essere conservata intatta per sempre, come un sacro deposito: Cfr. <reference osisRef="1Cor.11.2">1Cor 11,2</reference>; <reference osisRef="1Tim.6.20">1Tm 6,20</reference>.</note>Carissimi, avevo un gran desiderio di scrivervi riguardo alla nostra salvezza, ma sono stato costretto a farlo per esortarvi a combattere per la fede, che fu trasmessa ai credenti una volta per tutte.<verse eID="Jude.1.3"/>
+				<verse sID="Jude.1.4" osisID="Jude.1.4"/>Si sono infiltrati infatti tra voi alcuni individui - i quali sono già stati segnati da tempo per questa condanna - empi che trovano pretesto alla loro dissolutezza nella grazia del nostro Dio, rinnegando il nostro unico padrone e signore Gesù Cristo.<verse eID="Jude.1.4"/>
+
+			</div>
+
+			<div type="section">
+
+				<title>I falsi dottori.</title>
+
+				<verse sID="Jude.1.5" osisID="Jude.1.5"/><note type="x-footnote" n="2">La Bibbia dimostra che per gli empi non c’è scampo: Cfr. <reference osisRef="Num.14.3">Nm 14,3</reference>;  <reference osisRef="1Cor.10.5">1Cor 10,5</reference>.</note>Ora io voglio ricordare a voi, che già conoscete tutte queste cose, che il Signore dopo aver salvato il popolo dalla terra d`Egitto, fece perire in seguito quelli che non vollero credere,<verse eID="Jude.1.5"/>
+				<verse sID="Jude.1.6" osisID="Jude.1.6"/><note type="x-footnote" n="3">Come in <reference osisRef="2Pet.2.4; 2Pet.2.9">2Pt 2,4.9</reference>, l’affermazione sul peccato degli angeli non è accompagnata da alcuna precisazione.</note>e che gli angeli che non conservarono la loro dignità ma lasciarono la propria dimora, egli li tiene in catene eterne, nelle tenebre, per il giudizio del gran giorno.<verse eID="Jude.1.6"/>
+				<verse sID="Jude.1.7" osisID="Jude.1.7"/><note type="x-footnote" n="4">Cfr. <reference osisRef="Gen.19.4-25">Gn 19,4-25</reference>; <reference osisRef="2Pet.2.6; 2Pet.2.9">2Pt 2,6.9</reference>.</note>Così Sòdoma e Gomorra e le città vicine, che si sono abbandonate all`impudicizia allo stesso modo e sono andate dietro a vizi contro natura, stanno come esempio subendo le pene di un fuoco eterno.<verse eID="Jude.1.7"/>
+				<verse sID="Jude.1.8" osisID="Jude.1.8"/>Ugualmente, anche costoro, come sotto la spinta dei loro sogni, contaminano il proprio corpo, disprezzano il Signore e insultano gli esseri gloriosi<note type="x-footnote" n="5">Cfr <reference osisRef="2Pet.2.10">2Pt 2,10</reference>. Gli esseri gloriosi sono gli angeli.</note>.<verse eID="Jude.1.8"/>
+				<verse sID="Jude.1.9" osisID="Jude.1.9"/><note type="x-footnote" n="6">Michele è il principe degli angeli: Cfr. <reference osisRef="Dan.10.13; Dan.10.21">Dn 10,13.21</reference>; <reference osisRef="Dan.12.1">Dn 12,1</reference>; <reference osisRef="Rev.12.7">Ap 12,7</reference>. L’Antico Testamento ignora questo fatto (Cfr. <reference osisRef="Deut.34.1-6">Dt 34,1-6</reference>) né si sa con precisione per quale via sia arrivato a Giuda. La frase in corsivo è presa da <reference osisRef="Zech.3.2">Zc 3,2</reference>.</note>L`arcangelo Michele quando, in contesa con il diavolo, disputava per il corpo di Mosè, non osò accusarlo con parole offensive, ma disse: <hi type="italic">Ti condanni il Signore!</hi><verse eID="Jude.1.9"/>
+				<verse sID="Jude.1.10" osisID="Jude.1.10"/>Costoro invece bestemmiano tutto ciò che ignorano; tutto ciò che essi conoscono per mezzo dei sensi, come animali senza ragione, questo serve a loro rovina.<verse eID="Jude.1.10"/>
+				<verse sID="Jude.1.11" osisID="Jude.1.11"/><note type="x-footnote" n="7">Caino, nella tradizione ebraica, era il simbolo dell’empio: Cfr. <reference osisRef="Gen.4.8">Gn 4,8</reference>. Balaam era il simbolo dell’uomo avido: Cfr. <reference osisRef="Num.22.18">Nm 22,18</reference>; <reference osisRef="Num.24.11-13">Nm 24,11-13</reference>.</note>Guai a loro! Perché si sono incamminati per la strada di Caino e, per sete di lucro, si sono impegolati nei traviamenti di Balaàm e sono periti nella ribellione di Kore.<verse eID="Jude.1.11"/>
+				<verse sID="Jude.1.12" osisID="Jude.1.12"/><note type="x-footnote" n="8">Sui banchetti che precedevano la celebrazione eucaristica Cfr. <reference osisRef="1Cor.11.20">1Cor 11,20ss</reference>.</note>Sono la sozzura dei vostri banchetti sedendo insieme a mensa senza ritegno, pascendo se stessi; come nuvole senza pioggia portate via dai venti, o alberi di fine stagione senza frutto, due volte morti, sradicati;<verse eID="Jude.1.12"/>
+				<verse sID="Jude.1.13" osisID="Jude.1.13"/>come onde selvagge del mare, che schiumano le loro brutture; come astri erranti, ai quali è riservata la caligine della tenebra in eterno.<verse eID="Jude.1.13"/>
+				<verse sID="Jude.1.14" osisID="Jude.1.14"/><note type="x-footnote" n="9">Su Enoch Cfr. <reference osisRef="Gen.5.21-24">Gn 5,21-24</reference>. La citazione è dall’apocrifo «Libro di Enoch» (1,9); il verbo profetare non è da prendersi nel senso biblico: Cfr. la citazione di <reference osisRef="Titus.1.12">Tt 1,12</reference>.</note>Profetò anche per loro Enoch, settimo dopo Adamo, dicendo: "Ecco, il Signore è venuto con le sue miriadi di angeli per far il giudizio contro tutti,<verse eID="Jude.1.14"/>
+				<verse sID="Jude.1.15" osisID="Jude.1.15"/>e per convincere tutti gli empi di tutte le opere di empietà che hanno commesso e di tutti gli insulti che peccatori empi hanno pronunziato contro di lui".<verse eID="Jude.1.15"/>
+				<verse sID="Jude.1.16" osisID="Jude.1.16"/>Sono sobillatori pieni di acredine, che agiscono secondo le loro passioni; la loro bocca proferisce parole orgogliose e adùlano le persone per motivi interessati.<verse eID="Jude.1.16"/>
+
+			</div>
+
+			<div type="section">
+
+				<title>Esortazione ai fedeli.</title>
+
+				<verse sID="Jude.1.17" osisID="Jude.1.17"/>Ma voi, o carissimi, ricordatevi delle cose che furono predette dagli apostoli del Signore nostro Gesù Cristo.<verse eID="Jude.1.17"/>
+				<verse sID="Jude.1.18" osisID="Jude.1.18"/>Essi vi dicevano: <note type="x-footnote" n="10">Cfr. <reference osisRef="1Tim.4.1">1Tm 4,1</reference>.</note>"Alla fine dei tempi vi saranno impostori, che si comporteranno secondo le loro empie passioni".<verse eID="Jude.1.18"/>
+				<verse sID="Jude.1.19" osisID="Jude.1.19"/>Tali sono quelli che provocano divisioni, gente materiale, privi dello Spirito.<verse eID="Jude.1.19"/>
+				<verse sID="Jude.1.20" osisID="Jude.1.20"/>Ma voi, carissimi, costruite il vostro edificio spirituale sopra la vostra santissima fede, pregate mediante lo Spirito Santo,<verse eID="Jude.1.20"/>
+				<verse sID="Jude.1.21" osisID="Jude.1.21"/>conservatevi nell`amore di Dio, attendendo la misericordia del Signore nostro Gesù Cristo per la vita eterna.<verse eID="Jude.1.21"/>
+				<verse sID="Jude.1.22" osisID="Jude.1.22"/>Convincete quelli che sono vacillanti,<verse eID="Jude.1.22"/>
+				<verse sID="Jude.1.23" osisID="Jude.1.23"/>altri salvateli strappandoli dal fuoco, di altri infine abbiate compassione con timore, guardandovi perfino dalla veste contaminata dalla loro carne.<verse eID="Jude.1.23"/>
+
+			</div>
+
+			<div type="section">
+
+				<title>Gloria a Cristo.</title>
+
+					<verse sID="Jude.1.24" osisID="Jude.1.24"/><note type="x-footnote" n="11">Cfr. <reference osisRef="Rm.16.25-27">Rm 16,25-27</reference>.</note>A colui che può preservarvi da ogni caduta e farvi comparire davanti alla sua gloria senza difetti e nella letizia,<verse eID="Jude.1.24"/>
+					<verse sID="Jude.1.25" osisID="Jude.1.25"/>all`unico Dio, nostro salvatore, per mezzo di Gesù Cristo nostro Signore, gloria, maestà, forza e potenza prima di ogni tempo, ora e sempre. Amen!<verse eID="Jude.1.25"/>
+
+			</div>
+
+			<chapter eID="Jude.1"/>
+
+		</div>
+
 		<div type="book" bookTitle="APOCALISSE" osisID="Rev" canonical="true">
+
+		<title type="main">APOCALISSE</title>
+
+		<div type="section">
+
+			<title>Introduzione</title>
+
+			<hi type="italic">
+				<p>All'ambito della letteratura giovannea viene ricondotto anche il libro dell'Apocalisse. Seppure scritto in circoli vicini all'apostolo e penetrato del suo insegnamento, il testo per lingua, stile e prospettive teologiche deve attribuirsi ad un diverso autore, che si presenta a noi con il nome di Giovanni. L'Apocalisse è un libro scritto durante una persecuzione dei cristiani (probabilmente sotto l'imperatore Domiziano, cioè verso il 95 d.C.) e serve a dar loro coraggio con la prospettiva della vittoria finale del bene sul male, di Cristo e dei suoi sui nemici della fede. Come tale è un libro storico, ma anche paradigmatico: vale per tutte le situazioni analoghe della Chiesa e dei credenti di tutte le epoche. Per ottenere questo, l'autore si serve di un genere letterario particolare, il genere apocalittico, con l'impiego di molti simboli e visioni tratti dall'Antico Testamento, in specie da Ezechiele e Daniele. Se non se ne tiene conto adeguatamente, la lettura diventa difficile e incomprensibile e si è indotti a interpretazioni astruse e inutili, come pure ad attese preoccupate del futuro. Debitamente decifrati, i simboli parlano invece con estrema chiarezza. Questo libro, come altri testi analoghi del Nuovo Testamento, non intende dare nessuna informazione previa sulla fine del mondo e sulle sue modalità. Il discorso di fondo che esso sviluppa riguarda piuttosto lo scontro tra le Chiesa e l'impero romano, che pretende di imporre il culto dell'imperatore. La situazione terrena e storica viene trasportata nel mondo celeste e invisibile, e si traduce nella lotta tra l'Agnello immolato, ma in piedi, cioè Cristo morto in croce ma risuscitato e glorificato in cielo, e la Bestia, cioè Satana e il mondo pagano al suo servizio. Tra l'uno e l'altra sono posti i credenti, materialmente perdenti in quanto sono messi a morte, ma vincitori perché testimoni, martiri dell'Agnello, che li conduce nella "Gerusalemme celeste", nel suo regno.</p>
+			</hi>
+
+		</div>
 
 			<chapter sID="Rev.1" osisID="Rev.1" chapterTitle="CAPITOLO 1."/>
 
-					<verse sID="Rev.1.1" osisID="Rev.1.1"/>Rivelazione di Gesù Cristo che Dio gli diede per render noto ai suoi servi le cose che devono presto accadere, e che egli manifestò inviando il suo angelo al suo servo Giovanni.
-					<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.2" osisID="Rev.1.2"/>Questi attesta la parola di Dio e la testimonianza di Gesù Cristo, riferendo ciò che ha visto.<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.3" osisID="Rev.1.3"/>Beato chi legge e beati coloro che ascoltano le parole di questa profezia e mettono in pratica le cose che vi sono scritte. Perché il tempo è vicino.<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.4" osisID="Rev.1.4"/>Giovanni alle sette Chiese che sono in Asia: grazia a voi e pace da Colui che è, che era e che viene, dai sette spiriti che stanno davanti al suo trono,<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.5" osisID="Rev.1.5"/>e da Gesù Cristo, il testimone fedele, il primogenito dei morti e il principe dei re della terra. A Colui che ci ama e ci ha liberati dai nostri peccati con il suo sangue<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.6" osisID="Rev.1.6"/>che ha fatto di noi un regno di sacerdoti per il suo Dio e Padre, a lui la gloria e la potenza nei secoli dei secoli. Amen.<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.7" osisID="Rev.1.7"/>Ecco, viene sulle nubi e ognuno lo vedrà; anche quelli che lo trafissero e tutte le nazioni della terra si batteranno per lui il petto. Sì, Amen!<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.8" osisID="Rev.1.8"/>Io sono l`Alfa e l`Omega, dice il Signore Dio, Colui che è, che era e che viene, l`Onnipotente!<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.9" osisID="Rev.1.9"/>Io, Giovanni, vostro fratello e vostro compagno nella tribolazione, nel regno e nella costanza in Gesù, mi trovavo nell`isola chiamata Patmos a causa della parola di Dio e della testimonianza resa a Gesù.<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.10" osisID="Rev.1.10"/>Rapito in estasi, nel giorno del Signore, udii dietro di me una voce potente, come di tromba, che diceva:<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.11" osisID="Rev.1.11"/>Quello che vedi, scrivilo in un libro e mandalo alle sette Chiese: a Efeso, a Smirne, a Pèrgamo, a Tiàtira, a Sardi, a Filadèlfia e a Laodicèa.<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.12" osisID="Rev.1.12"/>Ora, come mi voltai per vedere chi fosse colui che mi parlava, vidi sette candelabri d`oro<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.13" osisID="Rev.1.13"/>e in mezzo ai candelabri c`era uno simile a figlio di uomo, con un abito lungo fino ai piedi e cinto al petto con una fascia d`oro.<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.14" osisID="Rev.1.14"/>I capelli della testa erano candidi, simili a lana candida, come neve. Aveva gli occhi fiammeggianti come fuoco,<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.15" osisID="Rev.1.15"/>i piedi avevano l`aspetto del bronzo splendente purificato nel crogiuolo. La voce era simile al fragore di grandi acque.<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.16" osisID="Rev.1.16"/>Nella destra teneva sette stelle, dalla bocca gli usciva una spada affilata a doppio taglio e il suo volto somigliava al sole quando splende in tutta la sua forza.<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.17" osisID="Rev.1.17"/>Appena lo vidi, caddi ai suoi piedi come morto. Ma egli, posando su di me la destra, mi disse: Non temere! Io sono il Primo e l`Ultimo<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.18" osisID="Rev.1.18"/>e il Vivente. Io ero morto, ma ora vivo per sempre e ho potere sopra la morte e sopra gli inferi.<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.19" osisID="Rev.1.19"/>Scrivi dunque le cose che hai visto, quelle che sono e quelle che accadranno dopo.<verse eID="Gen.1.1"/>
-					<verse sID="Rev.1.20" osisID="Rev.1.20"/>Questo è il senso recondito delle sette stelle che hai visto nella mia destra e dei sette candelabri d`oro, eccolo: le sette stelle sono gli angeli delle sette Chiese e le sette lampade sono le sette Chiese.<verse eID="Gen.1.1"/>
+			<title type="chapter">Capitolo 1</title>
+
+				<verse sID="Rev.1.1" osisID="Rev.1.1"/>Rivelazione di Gesù Cristo che Dio gli diede per render noto ai suoi servi le cose che devono presto accadere, e che egli manifestò inviando il suo angelo al suo servo Giovanni.<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.2" osisID="Rev.1.2"/>Questi attesta la parola di Dio e la testimonianza di Gesù Cristo, riferendo ciò che ha visto.<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.3" osisID="Rev.1.3"/>Beato chi legge e beati coloro che ascoltano le parole di questa profezia e mettono in pratica le cose che vi sono scritte. Perché il tempo è vicino.<verse eID="Gen.1.1"/>
+
+			<div type="section">
+
+				<title>Saluto alle sette chiese.</title>
+
+				<verse sID="Rev.1.4" osisID="Rev.1.4"/>Giovanni alle sette Chiese che sono in Asia: grazia a voi e pace da Colui che è, che era e che viene, dai sette spiriti che stanno davanti al suo trono,<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.5" osisID="Rev.1.5"/>e da Gesù Cristo, il testimone fedele, il primogenito dei morti e il principe dei re della terra. A Colui che ci ama e ci ha liberati dai nostri peccati con il suo sangue<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.6" osisID="Rev.1.6"/>che ha fatto di noi un regno di sacerdoti per il suo Dio e Padre, a lui la gloria e la potenza nei secoli dei secoli. Amen.<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.7" osisID="Rev.1.7"/>Ecco, viene sulle nubi e ognuno lo vedrà; anche quelli che lo trafissero e tutte le nazioni della terra si batteranno per lui il petto. Sì, Amen!<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.8" osisID="Rev.1.8"/>Io sono l`Alfa e l`Omega, dice il Signore Dio, Colui che è, che era e che viene, l`Onnipotente!<verse eID="Gen.1.1"/>
+
+			</div>
+
+			<div type="section">
+
+				<title>Visione introduttiva.</title>
+
+				<verse sID="Rev.1.9" osisID="Rev.1.9"/>Io, Giovanni, vostro fratello e vostro compagno nella tribolazione, nel regno e nella costanza in Gesù, mi trovavo nell`isola chiamata Patmos a causa della parola di Dio e della testimonianza resa a Gesù.<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.10" osisID="Rev.1.10"/>Rapito in estasi, nel giorno del Signore, udii dietro di me una voce potente, come di tromba, che diceva:<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.11" osisID="Rev.1.11"/>Quello che vedi, scrivilo in un libro e mandalo alle sette Chiese: a Efeso, a Smirne, a Pèrgamo, a Tiàtira, a Sardi, a Filadèlfia e a Laodicèa.<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.12" osisID="Rev.1.12"/>Ora, come mi voltai per vedere chi fosse colui che mi parlava, vidi sette candelabri d`oro<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.13" osisID="Rev.1.13"/>e in mezzo ai candelabri c`era uno simile a figlio di uomo, con un abito lungo fino ai piedi e cinto al petto con una fascia d`oro.<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.14" osisID="Rev.1.14"/>I capelli della testa erano candidi, simili a lana candida, come neve. Aveva gli occhi fiammeggianti come fuoco,<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.15" osisID="Rev.1.15"/>i piedi avevano l`aspetto del bronzo splendente purificato nel crogiuolo. La voce era simile al fragore di grandi acque.<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.16" osisID="Rev.1.16"/>Nella destra teneva sette stelle, dalla bocca gli usciva una spada affilata a doppio taglio e il suo volto somigliava al sole quando splende in tutta la sua forza.<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.17" osisID="Rev.1.17"/>Appena lo vidi, caddi ai suoi piedi come morto. Ma egli, posando su di me la destra, mi disse: Non temere! Io sono il Primo e l`Ultimo<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.18" osisID="Rev.1.18"/>e il Vivente. Io ero morto, ma ora vivo per sempre e ho potere sopra la morte e sopra gli inferi.<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.19" osisID="Rev.1.19"/>Scrivi dunque le cose che hai visto, quelle che sono e quelle che accadranno dopo.<verse eID="Gen.1.1"/>
+				<verse sID="Rev.1.20" osisID="Rev.1.20"/>Questo è il senso recondito delle sette stelle che hai visto nella mia destra e dei sette candelabri d`oro, eccolo: le sette stelle sono gli angeli delle sette Chiese e le sette lampade sono le sette Chiese.<verse eID="Gen.1.1"/>
+
+			</div>
 
 			<chapter eID="Rev.1"/>
 
