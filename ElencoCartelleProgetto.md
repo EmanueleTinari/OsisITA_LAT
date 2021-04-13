@@ -15,4 +15,4 @@ novavulgata --------------------->Cartella contenente il file novav.osis.xml del
 
 tilc ------------------------------->Cartella contenente il file tilc.osis.xml del libro La Sacra Bibbia, versione Interconfessionale
 
-ElencoCartelleProgetto.md ------>Questo file che stai leggendo
+ElencoCartelleProgetto.md ----->Questo file che stai leggendo
