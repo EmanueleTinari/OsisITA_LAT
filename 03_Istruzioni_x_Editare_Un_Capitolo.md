@@ -144,14 +144,48 @@ Una volta finito si otterrà una cosa così. Questo esempio è del versetto 4 de
 
 Potete confrontare dal sito CEI il testo, naturalmente!
 
+Ultima cosa. Presenza di un titolo di sezione all'interno del capitolo.
+Riprendiamo nuovamente in considerazione la lettera di Giuda.
+Dal sito della CEI vediamo che subito prima del versetto 3 c'è scritto in grassetto: Scopo della lettera.
+Notiamo anche che prima del versetto 5 c'è un nuovo titolo di sezione, essendoci scritto sempre in grassetto: I falsi dottori.
 
+Quindi possiamo ben dire che la sezione "Scopo della lettera" va dal versetto 3 al versetto 4 compreso.
 
+Bene. A livello di codice xml avremmo quanto segue:
 
+			<div type="section">
 
+				<title>####.</title>
 
+				<verse sID="@@@@.n.n" osisID="@@@@.n.n"/><verse eID="@@@@.n.n"/>
+				<verse sID="@@@@.n.n" osisID="@@@@.n.n"/><verse eID="@@@@.n.n"/>
 
+			</div>
 
+Allora al posto delle 4#### metterai il testo in grassetto del titolo di sezione, nell esempio qui sopra di Giuda 1,3-4 avremo:
 
+			<div type="section">
 
+				<title>Scopo della lettera.</title>
+
+				<verse sID="@@@@.n.n" osisID="@@@@.n.n"/><verse eID="@@@@.n.n"/>
+				<verse sID="@@@@.n.n" osisID="@@@@.n.n"/><verse eID="@@@@.n.n"/>
+
+			</div>
+
+Raccomando il PUNTO alla fine del titolo di sezione !
+
+Mentre il codice completo, senza testo del versetto sarà:
+
+			<div type="section">
+
+				<title>Scopo della lettera.</title>
+
+				<verse sID="Jude.1.3" osisID="Jude.1.3"/><verse eID="Jude.1.3"/>
+				<verse sID="Jude.1.4" osisID="Jude.1.4"/><verse eID="Jude.1.4"/>
+
+			</div>
+
+Altra cosa che raccomando sono le tabulazioni. Per questo fate riferimento al file [base.xml](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/base.xml) qui su Github.
 
 
