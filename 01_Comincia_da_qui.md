@@ -37,7 +37,7 @@ e provvederò ad aggiornare il file .osis.xml relativo alla versione.
 Nel [foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing) sono anche presenti tre colonne (Nome, Cognome, Pseudonimo) che verranno riempiti **SOLO** se tu mi darai tali dati!
 Nome e Cognome sono preferiti ma **NON** obbligatori, come pure lo Pseudonimo.
 In caso comunque di Pseudonimo, se non conforme allo "spirito" del lavoro che sto compiendo ed organizzando, non verrà inserito (quindi no
-a pseudonimi tipo Dio, Nazzareno, Gesù1964 o peggio...
+a pseudonimi tipo Dio, Nazzareno, Gesù1964 o peggio...).
 
 Ognuno di coloro che vorranno darmi il Nome ed il Cognome o lo Pseudonimo, troveranno alla fine del libro che sto assemblando una sezione
 **CREDITS** in cui verranno esposti e ringraziati e che rimarranno ad memoriam nel file .osis.xml della Bibbia.
