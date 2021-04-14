@@ -3,7 +3,7 @@
 Questo è un progetto, totalmente gratuito, che mira a rendere disponibili, in un formato compatibile con alcuni programmi
 per la lettura/studio della Bibbia, alcune versioni della Sacra Bibbia in italiano e una in latino edite dalla Conferenza Episcopale Italiana (la C.E.I.).
 
-Per fare ciò sono necessari volontari, ecco perchè TI sto cercando!
+Per fare ciò sono necessari volontari, ecco perchè **TI** sto cercando!
 
 Non è necessario saper programmare in chissà quale maniera, ma sicuramente avere un buon spirito d'iniziativa e, naturalmente,
 il desiderio di partecipare ad un progetto così.
