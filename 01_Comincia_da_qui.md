@@ -18,8 +18,11 @@ Da Rosso a Giallo in questa prima fase.
 
 In questo caso nessun'altro (si spera!) comincerà con quel capitolo, poichè l'hai già scelto tu.
 
-Una volta completato di editare il capitolo da te scelto, me lo invierai all'indirizzo mail emanuele.tinari@hotmail.com
-con Oggetto: CEI74-LIBRO-CAPITOLO (usando naturalmente il nome del libro, esempio: CEI74-ISAIA 4).
+Una volta completato di editare il capitolo da te scelto, me lo invierai all'indirizzo mail
+
+emanuele.tinari@hotmail.com
+
+con Oggetto: CEI74-LIBRO-CAPITOLO (usando naturalmente il nome del libro, esempio: CEI74-ISAIA-4).
 
 Raccomando fin da ora l'oggetto della mail, affinchè le regole di spam della mia casella e le regole di inoltro, incasellino la tua
 mail nella cartella corretta.
