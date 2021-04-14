@@ -15,7 +15,7 @@ La colonna **Stato**, le cui celle sono di colore rosso, indica per il capitolo 
 
 Scegli un capitolo per iniziare, di qualsiasi libro, e una volta scelto cambia il colore della relativa cella di **Stato**.
 Da Rosso a Giallo in questa prima fase. Nell'immagine seguente è indicato dove trovare i colori per variare il riempimento
-della cella ![Icona](/immagini/coloreRiempimento.jpg)
+della cella ![Icona](https://github.com/EmanueleTinari/EmanueleTinari/tree/OSIS_ITA_and_LAT_books/immagini/ColoreRiempimento.jpg?raw=true)
 
 ### Giallo vuol dire: QUALCUNO LO STA EDITANDO!
 
