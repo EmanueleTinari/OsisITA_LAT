@@ -29,10 +29,10 @@ DALLA RIGA 5 ALLA RIGA 13 COMPRESA: **Introduzione valida SOLO per il primo capi
 
 ```xml
 	<div type="section">
-	<title osisID="Intro_@@@@">Introduzione</title>
-	<hi type="italic">
-	<p> </p>
-	</hi>
+		<title osisID="Intro_@@@@">Introduzione</title>
+		<hi type="italic">
+			<p> </p>
+		</hi>
 	</div>
 ```
 
