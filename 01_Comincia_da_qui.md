@@ -1,12 +1,3 @@
-Questo è un progetto, totalmente gratuito, che mira a rendere disponibili,
-in un formato compatibile con alcuni programmi per la lettura/studio della Bibbia,
-alcune versioni della Sacra Bibbia in italiano e latino edite dalla Conferenza
-Episcopale Italiana (la C.E.I.).
-
-Per fare ciò sono necessari volontari, ecco perchè **TI** sto cercando!
-Non è necessario saper programmare in chissà quale maniera, ma sicuramente avere
-un buon spirito d'iniziativa e, naturalmente, il desiderio di partecipare ad un progetto così.
-
 Comincia collegandoti al foglio di Google Sheet da me approntato all'indirizzo
 https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing
 In tale foglio sono elencati, dal primo all'ultimo, tutti i capitoli di ogni libro di cui si compone
