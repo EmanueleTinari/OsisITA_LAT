@@ -28,15 +28,15 @@ ad altri testi.
 
 Ho cominciato dalla Bibbia CEI versione 1974. Perchè? Beh semplicemente perchè quando ho fatto la prima Comunione, nel lontano 1978, quella era la versione corrente.
 Pensavo di proseguire poi con quella del 1971, a seguire la 2008, quindi la Interconfessionale e per ultimo la Nova Vulgata dal sito del Vaticano (perchè
-lo stesso sito della CEI non l'ha e ha solo un collegamento al sito del Vaticano.
+lo stesso sito della CEI non l'ha e ha solo un collegamento al sito del Vaticano).
 
-### QUALITA NECESSARIE:###
+### QUALITA NECESSARIE:
 
 Disponibilità ad editare almeno un capitolo (non è una GARA! Chi volesse partecipare editando più di un capitolo, tanto meglio: nei Ringraziamenti finali
 per ogni persona che vorrà darmi nome/Cognome o Pseudonimo, verrà anche indicato quale o quali capitoli ha editato); 
 Buona padronanza con le funzioni base del PC (copia/incolla, uso della tastiera e del mouse, navigazione in rete, uso del browser)
 
-### QUALITA FACOLTATIVE:###
+### QUALITA FACOLTATIVE:
 
 Uso e padronanza di Excel, anche il suo clone nel cloud di Google quale è Google Spreadsheet (copia/incolla di celle, trascinamento e formattazione delle stesse...);
 Uso e padronanza di Notepad++ o altro editor evoluto di testi (NO Microsoft Word, meglio in caso Visual Studio Code con plugin per xml a questo punto)
