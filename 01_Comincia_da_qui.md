@@ -1,4 +1,6 @@
-Comincia collegandoti al foglio di Google Sheet da me approntato all'indirizzo
+Comincia **cliccando col tasto destro** del mouse o del pad sul seguente collegamento, questo affinchè tu possa scegliere di 
+aprire lo stesso in una nuova scheda e non chiudendo questa o in una nuova finestra , per avere sempre sott'occhio queste
+poche istruzioni, quindi stai collegandoti al foglio di Google Sheet da me approntato all'indirizzo
 https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing, foglio che da ora in avanti 
 sarà indicato e collegato così: [foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing)
 
