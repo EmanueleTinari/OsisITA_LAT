@@ -10,7 +10,7 @@ Libro, colonna **D** del [foglio di Google Sheet](https://docs.google.com/spread
 Esempi: (Atti degli Apostoli **devi** mettere *ATTI DEGLI APOSTOLI*) - (Vangelo secondo Marco **devi** mettere *VANGELO SECONDO MARCO*) ecc...
 
 **--** Tra le virgolette di osisID (4####), dovrà essere inserito il nome del libro, in forma di ABBREVIAZIONE, e secondo la terminologia INGLESE.
-Naturalmente per facilitarti il lavoro ho inserito nel [foglio di Google Sheet](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing) una colonna (colonna E) con le abbreviazioni in INGLESE di tutti
+Naturalmente per facilitarti il lavoro ho inserito nel [foglio di Google Sheet](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing) una colonna (colonna **E**) con le abbreviazioni in INGLESE di tutti
 i libri della Bibbia italiana, pertanto basta vedere nella colonna **E** Abbreviazione Inglese il libro il cui capitolo hai scelto.
 
 Esempi: (Atti degli Apostoli **devi** mettere *Acts*) - (Vangelo secondo Marco **devi** mettere *Mark*) ecc...
