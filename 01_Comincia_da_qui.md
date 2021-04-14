@@ -1,8 +1,10 @@
 Comincia collegandoti al foglio di Google Sheet da me approntato all'indirizzo
 https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing, foglio che da ora in avanti 
 sarà indicato e collegato così: [foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing)
+
 Tale foglio ha al momento due schede: CEI_1974 e Modulo per versetti. Il collegamento sopra per ora ti indirizzerà alla scheda CEI_1974.
-In tale foglio sono elencati, dal primo all'ultimo, tutti i capitoli di ogni libro di cui si compone
+
+Qui sono elencati, dal primo all'ultimo, tutti i capitoli di ogni libro di cui si compone
 la Sacra Bibbia.
 
 La colonna **Stato**, le cui celle sono di colore rosso, indica per il capitolo descritto a sinistra lo stato attuale.
