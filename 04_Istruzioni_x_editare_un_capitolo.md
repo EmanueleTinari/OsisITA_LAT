@@ -1,7 +1,7 @@
 RIGA 1:
-
+    ```xml
     <div type="book" bookTitle="@@@@" osisID="####" canonical="true">
-  
+    ```
 **--** Tra le virgolette di bookTitle (4@@@@), dovrà essere messo **TUTTO IN MAIUSCOLO** il nome del libro in formato completo, non la sua abbreviazione, come indicato nella colonna
 Libro, colonna **D** del [foglio di Google Sheet](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing) dal quale hai scelto il capitolo.
 
