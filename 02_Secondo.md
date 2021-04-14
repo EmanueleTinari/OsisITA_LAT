@@ -6,6 +6,8 @@ E' il sito della CEI dove troverai la versione della Bibbia 1974 (stiamo lavoran
 
 Aprendo in una nuova scheda avrai sempre aperta anche questa pagina di istruzioni, se ti può interessare, altrimenti chiudi pure questa pagina.
 
+Rammento che hai ancora comunque aperta la scheda del [foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing) e non chiuderla, ti servirà tra poco per formattare i versetti e per formattare i riferimenti, cosa questa essenziale.
+
 Naviga nell'elenco dei libri sulla sinistra e trova quello da cui vuoi partire. Poco sotto c'è l'elenco con tutti i capitoli.
 Raggiungi quello da te scelto e il testo ti si aprirà sulla destra.
 
