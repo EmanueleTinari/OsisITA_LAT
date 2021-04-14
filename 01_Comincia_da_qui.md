@@ -1,5 +1,7 @@
 Comincia collegandoti al foglio di Google Sheet da me approntato all'indirizzo
-https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing, foglio che da ora in avanti 
+sarà indicato e collegato così: [foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing)
+Tale foglio ha al momento due schede: CEI_1974 e Modulo per versetti. Il collegamento sopra per ora ti indirizzerà al foglio CEI_1974.
 In tale foglio sono elencati, dal primo all'ultimo, tutti i capitoli di ogni libro di cui si compone
 la Sacra Bibbia.
 
@@ -15,7 +17,10 @@ Da Rosso a Giallo in questa prima fase.
 In questo caso nessun'altro (si spera!) comincerà con quel capitolo, poichè l'hai già scelto tu.
 
 Una volta completato di editare il capitolo da te scelto, me lo invierai all'indirizzo mail emanuele.tinari@hotmail.com
-con Oggetto: LIBRO-CAPITOLO (usando naturalmente il nome del libro, esempio: ISAIA 4).
+con Oggetto: CEI74-LIBRO-CAPITOLO (usando naturalmente il nome del libro, esempio: CEI74-ISAIA 4).
+
+Raccomando fin da ora l'oggetto della mail, affinchè le regole di spam della mia casella e le regole di inoltro, incasellino la tua
+mail nella cartella corretta.
 
 Una volta che avrò controllato che sia effettivamente ben formattato, camberò la cella di stato in verde ed aggiornerò la cella
 **Versetti** col numero di versetti di cui è composto il capitolo.
@@ -24,7 +29,7 @@ Una volta che avrò controllato che sia effettivamente ben formattato, camberò 
 
 e provvederò ad aggiornare il file .osis.xml relativo alla versione.
 
-Nel foglio di Google sono anche presenti tre colonne (Nome, Cognome, Pseudonimo) che verranno riempiti **SOLO** se tu mi darai tali dati!
+Nel [foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing) sono anche presenti tre colonne (Nome, Cognome, Pseudonimo) che verranno riempiti **SOLO** se tu mi darai tali dati!
 Nome e Cognome sono preferiti ma **NON** obbligatori, come pure lo Pseudonimo.
 In caso comunque di Pseudonimo, se non conforme allo "spirito" del lavoro che sto compiendo ed organizzando, non verrà inserito (quindi no
 a pseudonimi tipo Dio, Nazzareno, Gesù1964 o peggio...
