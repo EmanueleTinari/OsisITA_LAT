@@ -14,7 +14,8 @@ La colonna **Stato**, le cui celle sono di colore rosso, indica per il capitolo 
 ### Rosso vuol dire: ANCORA DA EDITARE.
 
 Scegli un capitolo per iniziare, di qualsiasi libro, e una volta scelto cambia il colore della relativa cella di **Stato**.
-Da Rosso a Giallo in questa prima fase.
+Da Rosso a Giallo in questa prima fase. Nell'immagine seguente è indicato dove trovare i colori per variare il riempimento
+della cella ![Icona](/immagini/coloreRiempimento.jpg)
 
 ### Giallo vuol dire: QUALCUNO LO STA EDITANDO!
 
