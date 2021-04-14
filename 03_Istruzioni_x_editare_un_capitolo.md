@@ -217,3 +217,5 @@ Mentre il codice completo, senza testo del versetto sarà:
 ```
 
 Altra cosa che raccomando sono le tabulazioni. Per questo fate riferimento al file [base.xml](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/base.xml) qui su Github.
+
+Se non hai un editor nel tuo pc e vuoi utilizzare il servizio gratuito di [jsonformatter](https://jsonformatter.org/xml-editor), al [punto 05](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/04_Quattro_parole_circa_Jsonformatter.md) ti spiego quattro cose su come usarlo.
