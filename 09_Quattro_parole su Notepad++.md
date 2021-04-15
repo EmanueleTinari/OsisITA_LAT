@@ -20,11 +20,14 @@ Una volta estratto, premi su notepad++.exe (probabile che non vediate l'estensio
 
 Risorse, comunque è l'unico file chiamato notepad++).
 
-Aperto il programma, se non è stata impostata in automatico la lingua italiana, andate nel menù Config, poi Options e scegliete italiano 
+Aperto il programma, se non è stata impostata in automatico la lingua italiana, andate nel
 
-nella finestra che si apre e riavviate Notepad++ se non lo fa da solo per essere sicuri che si sia configurata la lingua italiana
+* menù Config
+ * poi Options
+ 
+e scegliete italiano nella finestra che si apre e riavviate Notepad++ se non lo fa da solo
 
-per l'interfaccia del programma.
+per essere sicuri che si sia configurata la lingua italiana per l'interfaccia del programma.
 
 Ora suggerisco, per avere il meglio nell'editazione, queste impostazioni:
 
@@ -50,13 +53,13 @@ Il programma si chiuderà e riaprirà da solo. Sempre nel menù Plugin ora trove
 
 * sottomenù XML Tools
 
-Entarndoci controllate che siano spuntate le seguenti voci (Attenzione! XML Tools è in inglese pertanto le voci del suo menù sono in inglese,
+Entarndoci controllate che siano spuntate le seguenti voci (Attenzione! XML Tools è in inglese pertanto le voci
 
-in italiano non c'è, poichè è un plugin ("aggiunge al programma originale altre funzionalità) sviluppato da un inglese
+del suo menù sono in inglese, in italiano non c'è, poichè è un plugin ("aggiunge al programma originale altre funzionalità)
 
-o comunque da una persona o società a cui non interessa che esso sia disponibile in altre lingue fuorchè l'inglese.
+sviluppato da un inglese o comunque da una persona o società a cui non interessa che esso sia disponibile
 
-Poco male. Controlliamo quindi le seguenti voci:
+in altre lingue fuorchè l'inglese. Poco male. Controlliamo quindi le seguenti voci:
 
 * sottomenù XML Tools
 
@@ -64,10 +67,34 @@ Poco male. Controlliamo quindi le seguenti voci:
 
   * Tag auto close (facile anche questo: controlla che ogni Tag, ovvero per semplicità l'inizio di ogni riga di codice, sia anche chiuso come deve)
 
- 
+Ora dovresti essere davanti ad una schermata del programma Notepad++ completamente bianca, con una linguetta in alto chiamata new 1
 
+Semplicemente è un file vuoto. 
 
+Prima di cominciare vai nel menù File
 
+* Salva come...
 
+Si aprirà la classica finestra di salvataggio file di qualsiasi programma di Windows.
 
+Scegli innanzitutto la posizione di salvataggio: Cartella Documenti, Una sottocartella di essa magari chiamata Bibbia, perchè no?
 
+Oppure il Desktop, magari anche in questo caso in una cartella.
+
+Insomma dove meglio credi e naturalmente, dove ti è più facile ritrovare il file stesso!!!
+
+Metti un nome al file che più ti si aggrada (io solitamente metto InElaborazione1 e in caso proseguo con la numerazione)
+
+Dovrebbe proporti come estensione già txt in quanto il nome proposto da Notepad++ è new1.txt
+
+Dopo aver messo un nome a tua scelta vai sotto e premendo la freccina verso il basso, scorri fino a giungere verso il fondo
+
+a eXtensible Markup Language file. Premi lì.
+
+Ora il file avà come puoi vedere nella riga sopra, dopo il punto l'estensione xml, quindi il nome del file da te scelto punto xml
+
+Premi su Salva. Il file, ancora vuoto, con estensione xml dovrebbe essersi creato dove avevi scelto tu.
+
+Magari da Gestione PC controlla!
+
+Finito. Ora non ti resta che cominciare ad editare tramite Notepad++, un editor di testo veramente ottimo, gratuito, molto completo.
