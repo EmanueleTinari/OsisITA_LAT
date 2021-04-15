@@ -6,7 +6,7 @@ dei versetti del capitolo che stai elaborando dal sito della CEI alla colonna **
 2. Metti a schermo intero l'editor, premendo l'ultima icona sulla destra della barra in alto degli strumenti, è come una specie di x, avvicinando il mouse comparirà 
 la scritta fullscreen, premi lì. Nella foto ho indicato con una freccia rossa il punto.
 
-![Qui](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/immagini/Schermo_intero.jpg) la foto 
+![Qui](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/immagini/Schermo_intero.jpg) 
 
 3. Copia ed incolla il codice completo del [file base.xml](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/base.xml)
 nella schermata di jsonformatter.
