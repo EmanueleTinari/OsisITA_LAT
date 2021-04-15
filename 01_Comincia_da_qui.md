@@ -4,7 +4,11 @@ poche istruzioni, quindi stai collegandoti al foglio di Google Sheet da me appro
 https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing, foglio che da ora in avanti 
 sarà indicato e collegato così: [foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing)
 
-Tale foglio ha al momento due schede: CEI_1974 e Modulo per versetti. Il collegamento sopra per ora ti indirizzerà alla scheda CEI_1974.
+Tale foglio ha al momento tre schede:
+1. CEI_1974
+2. Modulo per versetti
+3. Modulo x note nel testo
+Se non è aperta, passa alla scheda CEI_1974.
 
 Qui sono elencati, dal primo all'ultimo, tutti i capitoli di ogni libro di cui si compone
 la Sacra Bibbia.
