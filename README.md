@@ -33,7 +33,7 @@ lo stesso sito della CEI non l'ha e ha solo un collegamento al sito del Vaticano
 ### QUALITA NECESSARIE:
 
 Disponibilità ad editare almeno un capitolo (non è una GARA! Chi volesse partecipare editando più di un capitolo, tanto meglio: nei Ringraziamenti finali
-per ogni persona che vorrà darmi nome/Cognome o Pseudonimo, verrà anche indicato quale o quali capitoli ha editato); 
+per ogni persona che vorrà darmi Nome/Cognome o Pseudonimo, verrà anche indicato quale o quali capitoli ha editato); 
 Buona padronanza con le funzioni base del PC (copia/incolla, uso della tastiera e del mouse, navigazione in rete, uso del browser)
 
 ### QUALITA FACOLTATIVE:
