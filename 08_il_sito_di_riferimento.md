@@ -4,7 +4,7 @@ ovvero il Progetto Sword. Lo puoi trovare all'indirizzo http://www.crosswire.org
 
 Gran parte del materiale, purtroppo è in inglese. Però se lo mastichi abbastanza potrai renderti conto personalmente della cosa.
 
-Ti anticipo subito che ogni testo nella loro libreria (in alto dove vi è il collegamento alla sezione [MODULE ADD-INS](http://www.crosswire.org/sword/modules/index.jsp)
+Ti anticipo subito che ogni testo nella loro libreria (in alto dove vi è il collegamento alla sezione [MODULE ADD-INS](http://www.crosswire.org/sword/modules/index.jsp))
 
 appartiene ad una chiesa protestante (luterana, metodista, avventista ecc...).
 
