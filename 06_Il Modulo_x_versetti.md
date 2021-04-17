@@ -1,6 +1,4 @@
-Nel [foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing)
-
-ho creato la scheda **Modulo x versetti**.
+Nel [foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing) ho creato la scheda **Modulo x versetti**.
 
 Le colonne di colore rosina/arancione chiaro **NON** vanno assolutamente toccate.
 
@@ -23,9 +21,10 @@ Prima di inserire il testo del versetto, preso dal sito della CEI, torniamo alla
 
 Di quanti versetti è composto il capitolo che stai editamdo? Dicamo per esempio 41.
 
-Bene se sai usare Excel, copia CTRL + C la cella D3 ed incollala nel range D4:D43. una volta premuto Invio, l'abbreviazione in inglese del capitolo verra ripetuta
-dalla cella D4 a quella D43, per un totale di 41 righe col medesimo dato. 43 perchè le prime due righe le ho usate per le intestazioni delle colonne ma, 
-se mentre incolli fai riferimento al numero di versetto (colonna **F**) non potrai andare oltre o fermarti prima dei 41 versetti, come richiesto dal capitolo che stai editando.
+Bene se sai usare Excel, copia (CTRL + C) la cella D3; ora seleziona il range D4:D43 e incolla (CTRL + V).
+L'abbreviazione in inglese del capitolo verra ripetuta dalla cella D4 a quella D43, per un totale di 41 righe col medesimo dato.
+
+43 perchè le prime due righe le ho usate per le intestazioni delle colonne ma, se mentre incolli fai riferimento al numero di versetto (colonna **F**) non potrai andare oltre o fermarti prima dei 41 versetti, come richiesto, dal capitolo che stai editando.
 
 Se sei curioso butta un occhiata alla colonna **W**: mano a mano che introdurrai i dati il codice del versetto si va formando.
 Una riga x ogni versetto!
@@ -47,12 +46,3 @@ la riga del versetto 3 e incollarla in N5
 e via di seguito, fino ad arrivare al versetto 41 del nostro esempio. Incollato nella cella N43 naturalmente. Se non sei in N43 hai saltato qualche riga!
 
 Ora la colonna **W** conterrà tutti e 41 i versetti, una riga sotto l'altra e una per ogni versetto, già belli e formattati e pronti da essere copiati ed incollati.
-
-
-
-
-
-
-
-
-
