@@ -31,9 +31,6 @@ cartella [FileBibbiaRicevuti](https://drive.google.com/drive/folders/1mTenyN9zn9
 
 Il file **dovrà** avere nome: CEI74-LIBRO-CAPITOLO.osis.xlm (usando naturalmente il nome del libro, esempio: CEI74-ISAIA-4.osis.xlm).
 
-Raccomando fin da ora l'oggetto della mail, affinchè le regole di spam della mia casella e le regole di inoltro, incasellino la tua
-mail nella cartella corretta.
-
 Una volta che avrò controllato che sia effettivamente ben formattato, camberò la cella di stato in verde ed aggiornerò la cella
 **Versetti** col numero di versetti di cui è composto il capitolo.
 
