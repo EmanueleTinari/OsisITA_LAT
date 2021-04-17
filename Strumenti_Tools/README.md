@@ -10,7 +10,7 @@ Per renderlo compatibile alle tue necessità, è necessario modificarlo in alcun
 $work = "D:\Documents\Downloads\Emule-Incoming\osis"
 ```
 
-Qui metti il percorso della directory di lavoro, quella dove hai i files .osis.xlm e conf che stai editando, ESCLUSO lo
+Qui metti il percorso della directory di lavoro, quella dove hai i files .osis.xlm e .conf che stai editando, ESCLUSO lo
 
 slash finale prima della chiusura delle virgolette.
 
