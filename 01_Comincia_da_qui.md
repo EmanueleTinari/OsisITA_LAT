@@ -29,7 +29,7 @@ Una volta completato di editare il capitolo da te scelto, potrai depositarlo nel
 
 cartella [FileBibbiaRicevuti](https://drive.google.com/drive/folders/1mTenyN9zn9AHPp9KP7zvtTfQUsybGZcB?usp=sharing) di Google Drive.
 
-Il file **dovrà** avere nome :CEI74-LIBRO-CAPITOLO.osis.xlm (usando naturalmente il nome del libro, esempio: CEI74-ISAIA-4.osis.xlm).
+Il file **dovrà** avere nome: CEI74-LIBRO-CAPITOLO.osis.xlm (usando naturalmente il nome del libro, esempio: CEI74-ISAIA-4.osis.xlm).
 
 Raccomando fin da ora l'oggetto della mail, affinchè le regole di spam della mia casella e le regole di inoltro, incasellino la tua
 mail nella cartella corretta.
