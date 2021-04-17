@@ -189,7 +189,7 @@ Bene. A livello di codice xml avremmo quanto segue:
 			</div>
 ```
 
-Allora al posto delle 4#### metterai il testo in grassetto del titolo di sezione, nell esempio qui sopra di Giuda 1,3-4 avremo:
+Allora al posto delle 4#### metterai il testo in grassetto del titolo di sezione, nell'esempio qui sopra di Giuda 1,3-4 avremo:
 
 ```xml
 			<div type="section">
@@ -203,7 +203,7 @@ Allora al posto delle 4#### metterai il testo in grassetto del titolo di sezione
 ```
 Raccomando il PUNTO alla fine del titolo di sezione !
 
-Mentre il codice completo, senza testo del versetto sarà:
+Mentre il codice completo, senza testo dei versetti sarà:
 
 ```xml
 			<div type="section">
@@ -216,6 +216,6 @@ Mentre il codice completo, senza testo del versetto sarà:
 			</div>
 ```
 
-Altra cosa che raccomando sono le tabulazioni. Per questo fate riferimento al file [base.xml](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/base.xml) qui su Github.
+Altra cosa che raccomando sono le tabulazioni. Per questo fate riferimento al file [base.xml](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/base.xml) e [Tabulazioni](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/tabulazioni.md) qui su Github.
 
 Se non hai un editor nel tuo pc e vuoi utilizzare il servizio gratuito di [jsonformatter](https://jsonformatter.org/xml-editor), al [punto 04](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/04_Quattro_parole_su_Jsonformatter.md) ti spiego quattro cose su come usarlo.
