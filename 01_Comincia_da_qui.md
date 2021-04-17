@@ -25,11 +25,11 @@ della cella ![Qui](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_IT
 
 In questo caso nessun'altro (si spera!) comincerà con quel capitolo, poichè l'hai già scelto tu.
 
-Una volta completato di editare il capitolo da te scelto, me lo invierai all'indirizzo mail
+Una volta completato di editare il capitolo da te scelto, potrai depositarlo nella
 
-emanuele.tinari@hotmail.com
+cartella [FileBibbiaRicevuti](https://drive.google.com/drive/folders/1mTenyN9zn9AHPp9KP7zvtTfQUsybGZcB?usp=sharing) di Google Drive.
 
-con Oggetto: CEI74-LIBRO-CAPITOLO (usando naturalmente il nome del libro, esempio: CEI74-ISAIA-4).
+Il file **dovrà** avere nome :CEI74-LIBRO-CAPITOLO.osis.xlm (usando naturalmente il nome del libro, esempio: CEI74-ISAIA-4.osis.xlm).
 
 Raccomando fin da ora l'oggetto della mail, affinchè le regole di spam della mia casella e le regole di inoltro, incasellino la tua
 mail nella cartella corretta.
