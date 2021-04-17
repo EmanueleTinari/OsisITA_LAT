@@ -22,7 +22,7 @@ Prima di inserire il testo del versetto, preso dal sito della CEI, torniamo alla
 Di quanti versetti è composto il capitolo che stai editamdo? Dicamo per esempio 41.
 
 Bene se sai usare Excel, copia (CTRL + C) la cella D3; ora seleziona il range D4:D43 e incolla (CTRL + V).
-L'abbreviazione in inglese del capitolo verra ripetuta dalla cella D4 a quella D43, per un totale di 41 righe col medesimo dato.
+L'abbreviazione in inglese del capitolo verrà ripetuta dalla cella D4 a quella D43, per un totale di 41 righe col medesimo dato.
 
 43 perchè le prime due righe le ho usate per le intestazioni delle colonne ma, se mentre incolli fai riferimento al numero di versetto (colonna **F**) non potrai andare oltre o fermarti prima dei 41 versetti, come richiesto, dal capitolo che stai editando.
 
