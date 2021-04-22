@@ -16,3 +16,5 @@ novavulgata -(Non ancora online)-->Cartella contenente il file novav.osis.xml de
 tilc ------------------------------->Cartella contenente il file tilc.osis.xml del libro La Sacra Bibbia, versione Interconfessionale
 
 ElencoCartelleProgetto.md ----->Questo file che stai leggendo
+
+Torna all'elenco delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
