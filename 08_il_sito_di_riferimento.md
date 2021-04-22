@@ -36,3 +36,4 @@ direttamente in inglese le varie formattazioni necessarie per compilare una robu
 
 Troverai anche questo collegamento in alto un poco a sinistra nella sezione [DEVELOPER'S WIKI](https://wiki.crosswire.org/)
 
+Torna all'elenco delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
