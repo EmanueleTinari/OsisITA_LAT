@@ -49,3 +49,5 @@ Ognuno di coloro che vorranno darmi il Nome ed il Cognome o lo Pseudonimo, trove
 **CREDITS** in cui verranno esposti e ringraziati e che rimarranno ad memoriam nel file .osis.xml della Bibbia.
 
 Hai scelto il capitolo e ora vuoi sapere come proseguire? Continua col [punto 2](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/02_Secondo.md)
+
+Vuoi tornare all'elenco delle cartelle e dei file del progetto? Clicca [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
