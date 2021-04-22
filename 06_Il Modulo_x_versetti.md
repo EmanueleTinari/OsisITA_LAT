@@ -46,3 +46,5 @@ la riga del versetto 3 e incollarla in N5
 e via di seguito, fino ad arrivare al versetto 41 del nostro esempio. Incollato nella cella N43 naturalmente. Se non sei in N43 hai saltato qualche riga!
 
 Ora la colonna **W** conterrà tutti e 41 i versetti, una riga sotto l'altra e una per ogni versetto, già belli e formattati e pronti da essere copiati ed incollati.
+
+Torna all'elenco delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
