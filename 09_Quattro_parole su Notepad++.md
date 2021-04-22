@@ -98,3 +98,5 @@ Premi su Salva. Il file, ancora vuoto, con estensione xml dovrebbe essersi creat
 Magari da Gestione PC controlla!
 
 Finito. Ora non ti resta che cominciare ad editare tramite Notepad++, un editor di testo veramente ottimo, gratuito, molto completo.
+
+Torna all'elenco delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
