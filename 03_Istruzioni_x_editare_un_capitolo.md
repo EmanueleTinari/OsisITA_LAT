@@ -219,3 +219,5 @@ Mentre il codice completo, senza testo dei versetti sarà:
 Altra cosa che raccomando sono le tabulazioni. Per questo fate riferimento al file [base.xml](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/base.xml) e [Tabulazioni](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/tabulazioni.md) qui su Github.
 
 Se non hai un editor nel tuo pc e vuoi utilizzare il servizio gratuito di [jsonformatter](https://jsonformatter.org/xml-editor), al [punto 04](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/04_Quattro_parole_su_Jsonformatter.md) ti spiego quattro cose su come usarlo.
+
+Vuoi, invece, tornare all'elenco delle cartelle e dei file del progetto? Clicca [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
