@@ -30,3 +30,5 @@ Solitamente la nota si riferisce a tutto il versetto, è quindi corretto porre i
 Avrai modo, se lo vorrai, di vedere se scaricherai (come suggerisco) uno dei programmi per visualizzare la bibbia in formato OSIS che il numerino
 (a seconda del numero di nota) piccolo, carino, in apice all'inizio del versetto sta veramente bene, soprattutto perchè la scritta della stessa nota 
 comparirà di lato o nel pop-up!!!
+
+Torna all'elenco delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
