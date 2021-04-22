@@ -10,218 +10,15 @@
 		</work>
 	</header>
 
-	<div type="bookGroup" bookTitle="ANTICO.TESTAMENTO">
-
-	<title>Antico Testamento</title>
-
-		<div type="book" bookTitle="GENESI" osisID="Gen" canonical="true">
-
-		<title type="main">GENESI</title>
-
-		<div type="section">
-
-			<title osisID="Intro_Gen">Introduzione</title>
-
-			<hi type="italic">
-				<p>Le verità divinamente rilevate, che nei libri della Sacra Scrittura sono contenute ed espresse, furono scritte per ispirazione dello Spirito Santo. La Santa Madre Chiesa, per fede apostolica, ritiene sacri e canonici tutti interi i libri sia dell'Antico che del Nuovo Testamento, con tutte le loro parti, perché scritti per ispirazione dello Spirito Santo, hanno Dio per autore e come tali sono stati consegnati alla Chiesa. Per la composizione dei Libri Sacri, Dio scelse e si servì di uomini nel possesso delle loro facoltà e capacità, affinché, agendo Egli in essi e per loro mezzo, scrivessero, come veri autori, tutte e soltanto quelle cose che Egli voleva fossero scritte. Poiché dunque tutto ciò che gli autori ispirati o agiografi asseriscono è da ritenersi asserito dallo Spirito Santo, è da ritenersi anche, per conseguenza, che i libri della Scrittura insegnano con certezza, fedelmente e senza errore la verità, che Dio per la nostra salvezza volle fosse consegnata nelle Sacre Lettere. Pertanto "ogni scrittura divinamente ispirata è anche utile per insegnare, per convincere, per correggere, per educare alla giustizia, affinché l'uomo di Dio sia perfetto, addestrato a ogni opera buona.</p>
-				</hi>
-
-		</div>
-
-			<chapter sID="Gen.1" osisID="Gen.1" chapterTitle="CAPITOLO 1."/>
-
-			<title type="chapter">Capitolo 1</title>
-
-				<verse sID="Gen.1.1" osisID="Gen.1.1"/><note type="x-footnote" n="1">Poiché la Sacra Scrittura non ha lo scopo di dare informazioni scientifiche sulle origini dell’universo e dell’uomo, prima in <reference osisRef="Gen.1.11">Gn 1,1</reference> e <reference osisRef="Gen.2.4a">Gn 2,4a</reference> in maniera schematica, poi in <reference osisRef="Gen.2.4b-25">Gn 2,4b-25</reference> con un racconto più arcaico e vivace, sono inculcate alcune verità fondamentali: unicità di Dio che crea tutto ed è distinto dal mondo, bontà di tutte le cose create, particolare dignità della creatura umana.</note>In principio Dio creò il cielo e la terra.<verse eID="Gen.1.1"/>
-				<verse sID="Gen.1.2" osisID="Gen.1.2"/>La terra era informe e deserta e le tenebre ricoprivano l`abisso e lo spirito di Dio aleggiava sulle acque.<verse eID="Gen.1.2"/>
-				<verse sID="Gen.1.3" osisID="Gen.1.3"/>Dio disse: "Sia la luce!. E la luce fu.<verse eID="Gen.1.3"/>
-				<verse sID="Gen.1.4" osisID="Gen.1.4"/>Dio vide che la luce era cosa buona e separò la luce dalle tenebre<verse eID="Gen.1.4"/>
-				<verse sID="Gen.1.5" osisID="Gen.1.5"/>e chiamò la luce giorno e le tenebre notte. E fu sera e fu mattina: primo giorno.<verse eID="Gen.1.5"/>
-				<verse sID="Gen.1.6" osisID="Gen.1.6"/>Dio disse: "Sia il firmamento in mezzo alle acque per separare le acque dalle acque".<verse eID="Gen.1.6"/>
-				<verse sID="Gen.1.7" osisID="Gen.1.7"/>Dio fece il firmamento e separò le acque, che sono sotto il firmamento, dalle acque, che son sopra il firmamento. E così avvenne.<verse eID="Gen.1.7"/>
-				<verse sID="Gen.1.8" osisID="Gen.1.8"/>Dio chiamò il firmamento cielo. E fu sera e fu mattina: secondo giorno.<verse eID="Gen.1.8"/>
-				<verse sID="Gen.1.9" osisID="Gen.1.9"/>Dio disse: "Le acque che sono sotto il cielo, si raccolgano in un solo luogo e appaia l`asciutto". E così avvenne.<verse eID="Gen.1.9"/>
-				<verse sID="Gen.1.10" osisID="Gen.1.10"/>Dio chiamò l`asciutto terra e la massa delle acque mare. E Dio vide che era cosa buona.<verse eID="Gen.1.10"/>
-				<verse sID="Gen.1.11" osisID="Gen.1.11"/>E Dio disse: "La terra produca germogli, erbe che producono seme e alberi da frutto, che facciano sulla terra frutto con il seme, ciascuno secondo la sua specie". E così avvenne:<verse eID="Gen.1.11"/>
-				<verse sID="Gen.1.12" osisID="Gen.1.12"/> la terra produsse germogli, erbe che producono seme, ciascuna secondo la propria specie e alberi che fanno ciascuno frutto con il seme, secondo la propria specie. Dio vide che era cosa buona.<verse eID="Gen.1.12"/>
-				<verse sID="Gen.1.13" osisID="Gen.1.13"/>E fu sera e fu mattina: terzo giorno.<verse eID="Gen.1.13"/>
-
-			<div type="section">
-
-				<title>Ornato del cielo e della terra.</title>
-
-				<verse sID="Gen.1.14" osisID="Gen.1.14"/>Dio disse: "Ci siano luci nel firmamento del cielo, per distinguere il giorno dalla notte; servano da segni per le stagioni, per i giorni e per gli anni<verse eID="Gen.1.14"/>
-				<verse sID="Gen.1.15" osisID="Gen.1.15"/>e servano da luci nel firmamento del cielo per illuminare la terra". E così avvenne:<verse eID="Gen.1.15"/>
-				<verse sID="Gen.1.16" osisID="Gen.1.16"/>Dio fece le due luci grandi, la luce maggiore per regolare il giorno e la luce minore per regolare la notte, e le stelle.<verse eID="Gen.1.16"/>
-				<verse sID="Gen.1.17" osisID="Gen.1.17"/>Dio le pose nel firmamento del cielo per illuminare la terra<verse eID="Gen.1.17"/>
-				<verse sID="Gen.1.18" osisID="Gen.1.18"/>e per regolare giorno e notte e per separare la luce dalle tenebre. E Dio vide che era cosa buona.<verse eID="Gen.1.18"/>
-				<verse sID="Gen.1.19" osisID="Gen.1.19"/>E fu sera e fu mattina: quarto giorno.<verse eID="Gen.1.19"/>
-				<verse sID="Gen.1.20" osisID="Gen.1.20"/>Dio disse: "Le acque brulichino di esseri viventi e uccelli volino sopra la terra, davanti al firmamento del cielo".<verse eID="Gen.1.20"/>
-				<verse sID="Gen.1.21" osisID="Gen.1.21"/>Dio creò i grandi mostri marini e tutti gli esseri viventi che guizzano e brulicano nelle acque, secondo la loro specie, e tutti gli uccelli alati secondo la loro specie. E Dio vide che era cosa buona.<verse eID="Gen.1.21"/>
-				<verse sID="Gen.1.22" osisID="Gen.1.22"/>Dio li benedisse: "Siate fecondi e moltiplicatevi e riempite le acque dei mari; gli uccelli si moltiplichino sulla terra".<verse eID="Gen.1.22"/>
-				<verse sID="Gen.1.23" osisID="Gen.1.23"/>E fu sera e fu mattina: quinto giorno.<verse eID="Gen.1.23"/>
-				<verse sID="Gen.1.24" osisID="Gen.1.24"/>Dio disse: "La terra produca esseri viventi secondo la loro specie: bestiame, rettili e bestie selvatiche secondo la loro specie". E così avvenne:<verse eID="Gen.1.24"/>
-				<verse sID="Gen.1.25" osisID="Gen.1.25"/>Dio fece le bestie selvatiche secondo la loro specie e il bestiame secondo la propria specie e tutti i rettili del suolo secondo la loro specie. E Dio vide che era cosa buona.<verse eID="Gen.1.25"/>
-
-			</div>
-
-			<div type="section">
-
-				<title>Creazione dell`uomo.</title>
-
-				<verse sID="Gen.1.26" osisID="Gen.1.26"/>
-				<note type="x-footnote" n="2">Dio si consiglia con se stesso o con la core celeste, per creare un essere che gli somigli per le sue doti spirituali e lo rappresenti come dominatore delle creature inferiori.<br />Cfr. <reference osisRef="Ps.8.6-7">Sal 8,6-7</reference>.</note>E Dio disse: "Facciamo l`uomo a nostra immagine, a nostra somiglianza, e domini sui pesci del mare e sugli uccelli del cielo, sul bestiame, su tutte le bestie selvatiche e su tutti i rettili che strisciano sulla terra".<verse eID="Gen.1.26"/>
-
-				<lg>
-				<verse sID="Gen.1.27" osisID="Gen.1.27"/>
-				<l level="1"><note type="x-footnote" n="3">Cfr. <reference osisRef="Matt.19.4">Mt 19,4</reference>, <reference osisRef="Mark.10.6">Mc 10,6</reference>.</note>Dio creò l`uomo a sua immagine;</l>
-				<l level="1">a immagine di Dio lo creò;</l>
-				<l level="1">maschio e femmina li creò.</l>
-				<verse eID="Gen.1.27"/>
-				<verse sID="Gen.1.28" osisID="Gen.1.28"/>
-				<l level="1">Dio li benedisse e disse loro:</l>
-				<l level="1">"Siate fecondi e moltiplicatevi,</l>
-				<l level="1">riempite la terra;</l>
-				<l level="1">soggiogatela e dominate sui pesci del mare</l>
-				<l level="1">e sugli uccelli del cielo</l>
-				<l level="1">e su ogni essere vivente,</l>
-				<l level="1">che striscia sulla terra".</l>
-				<verse eID="Gen.1.28"/>
-				</lg>
-
-				<verse sID="Gen.1.29" osisID="Gen.1.29"/>E Dio disse: "Ecco, io vi do ogni erba che produce seme e che è su tutta la terra e ogni albero in cui è il frutto, che produce seme: saranno il vostro cibo.<verse eID="Gen.1.29"/>
-				<verse sID="Gen.1.30" osisID="Gen.1.30"/>A tutte le bestie selvatiche, a tutti gli uccelli del cielo e a tutti gli esseri che strisciano sulla terra e nei quali è alito di vita, io do in cibo ogni erba verde". E così avvenne.<verse eID="Gen.1.30"/>
-				<verse sID="Gen.1.31" osisID="Gen.1.31"/>Dio vide quanto aveva fatto, ed ecco, era cosa molto buona. E fu sera e fu mattina: sesto giorno.<verse eID="Gen.1.31"/>
-
-				</div>
-
-			<chapter eID="Gen.1"/>
-
-		</div>
-
-	</div>
-
 	<div type="bookGroup" bookTitle="NUOVO.TESTAMENTO">
 
 	<title>Nuovo Testamento</title>
 
-		<div type="book" bookTitle="LETTERA DI SAN PAOLO A FILEMONE" osisID="Phlm" canonical="true">
 
-		<title type="main">LETTERA DI SAN PAOLO A FILEMONE</title>
 
-		<div type="section">
 
-			<title osisID="Intro_Phlm">Introduzione</title>
 
-			<hi type="italic">
-				<p>In sostanza, è una lettera di raccomandazione. Uno schiavo di Filemone, ricco signore di Colosse convertito da Paolo con la sua famiglia, era fuggito. Per sua fortuna, capitò a Roma e incontrò Paolo, che lo portò al vangelo e lo rimandò al padrone con una lettera, probabilmente l'unica scritta interamente di suo pugno (<reference osisRef="Phlm.1.19">v. 19</reference>), che trasfigura un episodio di cronaca spicciola in occasione di altissimi insegnamenti. L'apostolo non sogna rivoluzioni per infrangere le catene della schiavitù (Cfr. <reference osisRef="1Cor.7.20">1Cor 7,20</reference>), ma la sradica dal cuore in nome della fede cristiana.</p>
-			</hi>
 
-		</div>
-
-			<chapter sID="Phlm.1" osisID="Phlm.1" chapterTitle="CAPITOLO 1."/>
-
-			<title type="chapter">Capitolo 1</title>
-
-				<verse sID="Phlm.1.1" osisID="Phlm.1.1"/>Paolo, prigioniero di Cristo Gesù, e il fratello Timòteo al nostro caro collaboratore Filèmone,<verse eID="Phlm.1.1"/>
-				<verse sID="Phlm.1.2" osisID="Phlm.1.2"/>alla sorella Appia, ad Archippo<note type="x-footnote" n="1">Archippo è il ministro sacro di Cfr. <reference osisRef="Col.4.17">Col 4,17</reference></note> nostro compagno d`armi e alla comunità che si raduna nella tua casa:<verse eID="Phlm.1.2"/>
-				<verse sID="Phlm.1.3" osisID="Phlm.1.3"/>grazia a voi e pace da Dio nostro Padre e dal Signore Gesù Cristo.<verse eID="Phlm.1.3"/>
-				<verse sID="Phlm.1.4" osisID="Phlm.1.4"/>Rendo sempre grazie a Dio ricordandomi di te nelle mie preghiere,<verse eID="Phlm.1.4"/>
-				<verse sID="Phlm.1.5" osisID="Phlm.1.5"/>perché sento parlare della tua carità per gli altri e della fede che hai nel Signore Gesù e verso tutti i santi.<note type="x-footnote" n="2">I santi sono i fedeli in virtù della loro consacrazione a Cristo.</note><verse eID="Phlm.1.5"/>
-				<verse sID="Phlm.1.6" osisID="Phlm.1.6"/>La tua partecipazione alla fede diventi efficace per la conoscenza di tutto il bene che si fa tra voi per Cristo.<verse eID="Phlm.1.6"/>
-				<verse sID="Phlm.1.7" osisID="Phlm.1.7"/>La tua carità è stata per me motivo di grande gioia e consolazione, fratello, poiché il cuore dei credenti è stato confortato per opera tua.<verse eID="Phlm.1.7"/>
-
-			<div type="section">
-
-				<title>Richiesta in favore di Onesimo.</title>
-
-				<verse sID="Phlm.1.8" osisID="Phlm.1.8"/>Per questo, pur avendo in Cristo piena libertà di comandarti ciò che devi fare,<verse eID="Phlm.1.8"/>
-				<verse sID="Phlm.1.9" osisID="Phlm.1.9"/><note type="x-footnote" n="3">Paolo vuole intenerirlo. L’apostolo era sui sessant’anni, ma prostrato dalle sofferenze e dalle fatiche dell’apostolato.</note>preferisco pregarti in nome della carità, così qual io sono, Paolo, vecchio, e ora anche prigioniero per Cristo Gesù;<verse eID="Phlm.1.9"/>
-				<verse sID="Phlm.1.10" osisID="Phlm.1.10"/>ti prego dunque per il mio figlio, che ho generato in catene,<verse eID="Phlm.1.10"/>
-				<verse sID="Phlm.1.11" osisID="Phlm.1.11"/><note type="x-footnote" n="4">Onesimo in greco significa nella «utile».</note>Onesimo, lui che un giorno ti fu inutile, ma ora è utile a te e a me.<verse eID="Phlm.1.11"/>
-				<verse sID="Phlm.1.12" osisID="Phlm.1.12"/><note type="x-footnote" n="5">Il mio cuore: definizione sconvolgente in un tempo in cui lo schiavo era soltanto una cosa.</note>Te l`ho rimandato, lui, il mio cuore.<verse eID="Phlm.1.12"/>
-				<verse sID="Phlm.1.13" osisID="Phlm.1.13"/>Avrei voluto trattenerlo presso di me perché mi servisse in vece tua nelle catene che porto per il vangelo.<verse eID="Phlm.1.13"/>
-				<verse sID="Phlm.1.14" osisID="Phlm.1.14"/>Ma non ho voluto far nulla senza il tuo parere, perché il bene che farai non sapesse di costrizione, ma fosse spontaneo.<verse eID="Phlm.1.14"/>
-				<verse sID="Phlm.1.15" osisID="Phlm.1.15"/><note type="x-footnote" n="6">La fuga si è rivelata provvidenziale.</note>Forse per questo è stato separato da te per un momento perché tu lo riavessi per sempre;<verse eID="Phlm.1.15"/>
-				<verse sID="Phlm.1.16" osisID="Phlm.1.16"/>non più però come schiavo, ma molto più che schiavo, come un fratello carissimo in primo luogo a me, ma quanto più a te, sia come uomo, sia come fratello nel Signore.<verse eID="Phlm.1.16"/>
-				<verse sID="Phlm.1.17" osisID="Phlm.1.17"/>Se dunque tu mi consideri come amico, accoglilo come me stesso.<verse eID="Phlm.1.17"/>
-				<verse sID="Phlm.1.18" osisID="Phlm.1.18"/>E se in qualche cosa ti ha offeso o ti è debitore, metti tutto sul mio conto.<verse eID="Phlm.1.18"/>
-				<verse sID="Phlm.1.19" osisID="Phlm.1.19"/><note type="x-footnote" n="7">Filemone deve a Paolo la sua fede e la sua salvezza.</note>Lo scrivo di mio pugno, io, Paolo: pagherò io stesso. Per non dirti che anche tu mi sei debitore e proprio di te stesso!<verse eID="Phlm.1.19"/>
-				<verse sID="Phlm.1.20" osisID="Phlm.1.20"/>Sì, fratello! Che io possa ottenere da te questo favore nel Signore; dà questo sollievo al mio cuore in Cristo!<verse eID="Phlm.1.20"/>
-				<verse sID="Phlm.1.21" osisID="Phlm.1.21"/>Ti scrivo fiducioso nella tua docilità, sapendo che farai anche più di quanto ti chiedo.<verse eID="Phlm.1.21"/>
-
-			</div>
-
-			<div type="section">
-
-				<title>Notizie e saluti.</title>
-
-				<verse sID="Phlm.1.22" osisID="Phlm.1.22"/>Al tempo stesso preparami un alloggio, perché spero, grazie alle vostre preghiere, di esservi restituito.<verse eID="Phlm.1.22"/>
-				<verse sID="Phlm.1.23" osisID="Phlm.1.23"/><note type="x-footnote" n="8">Cfr. <reference osisRef="Col.4.10-11">Col 4,10-11</reference>. Forse Èpafra era un coinquilino di Paolo nella casa in viveva prigioniero: Cfr. <reference osisRef="Acts.28.30">At 28,30</reference>.</note>Ti saluta Epafra, mio compagno di prigionia per Cristo Gesù,<verse eID="Phlm.1.23"/>
-				<verse sID="Phlm.1.24" osisID="Phlm.1.24"/>con Marco, Aristarco, Dema e Luca, miei collaboratori.<verse eID="Phlm.1.24"/>
-				<verse sID="Phlm.1.25" osisID="Phlm.1.25"/>La grazia del Signore Gesù Cristo sia con il vostro spirito.<verse eID="Phlm.1.25"/>
-
-			</div>
-			<chapter eID="Phlm.1"/>
-
-		</div>
-
-		<div type="book" bookTitle="LETTERA DI GIOVANNI 2" osisID="2John" canonical="true">
-
-		<title type="main">LETTERA DI GIOVANNI 2</title>
-
-		<div type="section">
-
-			<title osisID="Intro_2John">Introduzione</title>
-
-			<hi type="italic">
-				<p>Per l'introduzione vedi prima lettera di Giovanni.</p>
-			</hi>
-
-		</div>
-
-			<chapter sID="2John.1" osisID="2John.1" chapterTitle="CAPITOLO 1."/>
-
-			<title type="chapter">Capitolo 1</title>
-
-				<verse sID="2John.1.1" osisID="2John.1.1"/><note type="x-footnote" n="1">Presbitero, o anziano, senza ulteriore specificazione, non sembra indicare una funzione gerarchica non è un presbitero, ma il presbitero ma una preminenza per particolari poteri e carismi. Forse c’è anche un’allusione alla tarda età dell’autore. « Signora » designa con rispetto la Chiesa locale, paragonata a una prolifica madre. La comunità è unita nel vincolo di un’unica fede.</note>Io, il presbitero, alla Signora eletta e ai suoi figli che amo nella verità, e non io soltanto, ma tutti quelli che hanno conosciuto la verità,<verse eID="2John.1.1"/>
-				<verse sID="2John.1.2" osisID="2John.1.2"/>a causa della verità che dimora in noi e dimorerà con noi in eterno:<verse eID="2John.1.2"/>
-				<verse sID="2John.1.3" osisID="2John.1.3"/>grazia, misericordia e pace siano con noi da parte di Dio Padre e da parte di Gesù Cristo, Figlio del Padre, nella verità e nell`amore.<verse eID="2John.1.3"/>
-
-			<div type="section">
-
-				<title>Esortazione alla carità fraterna.</title>
-
-				<verse sID="2John.1.4" osisID="2John.1.4"/>Mi sono molto rallegrato di aver trovato alcuni tuoi figli che camminano nella verità, secondo il comandamento che abbiamo ricevuto dal Padre.<verse eID="2John.1.4"/>
-				<verse sID="2John.1.5" osisID="2John.1.5"/><note type="x-footnote" n="2">Cfr. <reference osisRef="1John.2.7; 1John.2.14">1Gv 2,7.14</reference>, <reference osisRef="1John.3.11">1Gv 3,11</reference>, <reference osisRef="John.13.34">Gv 13,34</reference>, <reference osisRef="John.15.12; John.15.17">Gv 15,12.17</reference>.</note>E ora prego te, o Signora, non per darti un comandamento nuovo, ma quello che abbiamo avuto fin dal principio, che ci amiamo gli uni gli altri.<verse eID="2John.1.5"/>
-				<verse sID="2John.1.6" osisID="2John.1.6"/><note type="x-footnote" n="3">Cfr. <reference osisRef="John.14.15; John.14.23; John.14.24">Gv 14,15.23.24</reference>, <reference osisRef="1John.5.3">1Gv 5,3</reference>.</note>E in questo sta l`amore: nel camminare secondo i suoi comandamenti. Questo è il comandamento che avete appreso fin dal principio; camminate in esso.<verse eID="2John.1.6"/>
-
-			</div>
-
-			<div type="section">
-
-				<title>Fuggire i falsi dottori</title>
-
-				<verse sID="2John.1.7" osisID="2John.1.7"/><note type="x-footnote" n="4">Per questi seduttori, falsi maestri, Cfr. <reference osisRef="1John.2.18-24">1Gv 2,18-24</reference>. Per l’anticristo Cfr. <reference osisRef="1John.2.18">1Gv 2,18</reference>, <reference osisRef="1John.4.3">1Gv 4,3</reference>. Il seduttore e l’anticristo sono una sola realtà: le potenze ostili al regno di Dio.</note>Poiché molti sono i seduttori che sono apparsi nel mondo, i quali non riconoscono Gesù venuto nella carne. Ecco il seduttore e l`anticristo!<verse eID="2John.1.7"/>
-				<verse sID="2John.1.8" osisID="2John.1.8"/><note type="x-footnote" n="5">«Fate attenzione»: Cfr. <reference osisRef="Mark.13.5; Mark.13.9">Mc 13,5.9</reference>.</note>Fate attenzione a voi stessi, perché non abbiate a perdere quello che avete conseguito, ma possiate ricevere una ricompensa piena.<verse eID="2John.1.8"/>
-				<verse sID="2John.1.9" osisID="2John.1.9"/><note type="x-footnote" n="6">Cfr. <reference osisRef="1John.2.23">1Gv 2,23</reference>, <reference osisRef="1John.4.15">1Gv 4,15</reference>.</note>Chi va oltre e non rimane nella dottrina del Cristo, non possiede Dio. Chi invece rimane nella dottrina, possiede il Padre e il Figlio.<verse eID="2John.1.9"/>
-				<verse sID="2John.1.10" osisID="2John.1.10"/><note type="x-footnote" n="7">La situazione è di estrema gravità: Cfr. <reference osisRef="Rom.16.17">Rm 16,17</reference>, <reference osisRef="2Thess.3.6">2Ts 3,6</reference>, <reference osisRef="Eph.5.11">Ef 5,11</reference>.</note>Se qualcuno viene a voi e non porta questo insegnamento, non ricevetelo in casa e non salutatelo;<verse eID="2John.1.10"/>
-				<verse sID="2John.1.11" osisID="2John.1.11"/>poiché chi lo saluta partecipa alle sue opere perverse.<verse eID="2John.1.11"/>
-
-			</div>
-
-			<div type="section">
-
-				<title>Saluti</title>
-
-				<verse sID="2John.1.12" osisID="2John.1.12"/>Molte cose avrei da scrivervi, ma non ho voluto farlo per mezzo di carta e di inchiostro; ho speranza di venire da voi e di poter parlare a viva voce, perché la nostra gioia sia piena.<verse eID="2John.1.12"/>
-				<verse sID="2John.1.13" osisID="2John.1.13"/><note type="x-footnote" n="8">La sorella è la Chiesa da cui scrive l’autore; come i cristiani sono fratelli, le Chiese sono sorelle</note>Ti salutano i figli della eletta tua sorella.<verse eID="2John.1.13"/>
-
-			</div>
-
-			<chapter eID="2John.1"/>
-
-		</div>
 
 		<div type="book" bookTitle="LETTERA DI GIOVANNI 3" osisID="3John" canonical="true">
 
@@ -275,138 +72,19 @@
 
 		</div>
 
-		<div type="book" bookTitle="LETTERA DI GIUDA" osisID="Jude" canonical="true">
 
-		<title type="main">LETTERA DI GIUDA</title>
 
-		<div type="section">
 
-			<title osisID="Intro_Jude">Introduzione</title>
 
-			<hi type="italic">
-				<p>Il Giuda autore di questa lettera è «fratello di Giacomo» (<reference osisRef="Jude.1.1">v. 1</reference>); più probabilmente di Giacomo parente di Gesù (<reference osisRef="Matt.13.55">Mt 13,55</reference>) e venerato capo della Chiesa madre di Gerusalemme. Egli quindi non sarebbe l'apostolo Giuda Taddeo, detto «di Giacomo» (<reference osisRef="Luke.6.16">Lc 6,16</reference>, <reference osisRef="Acts.1.13">At 1,13</reference>) nel senso di figlio di Giacomo. La lettera vuole far fronte al pericolo dei falsi profeti che devastano la comunità cristiana con i loro errori di dottrina e di morale. E’ un documento prezioso della fede delle origini, perché richiama le principali verità cristiane. I destinatari sono vagamente indicati e lo scritto ha piuttosto un andamento omiletico, con uno stile vivo e pittoresco. Poiché la <reference osisRef="2Pet">2Pt</reference> utilizza una notevole parte di <reference osisRef="Jude">Gd</reference>, la data della lettera può essere fusata agli anni 62-67 o 70-80 (Cfr. <reference osisRef="Intro_2Pet">Introduzione a 2Pt</reference>).</p>
-			</hi>
 
-		</div>
 
-			<chapter sID="Jude.1" osisID="Jude.1" chapterTitle="CAPITOLO 1."/>
 
-			<title type="chapter">Capitolo 1</title>
 
-				<verse sID="Jude.1.1" osisID="Jude.1.1"/>Giuda, servo di Gesù Cristo, fratello di Giacomo, agli eletti che vivono nell`amore di Dio Padre e sono stati preservati per Gesù Cristo:<verse eID="Jude.1.1"/>
-				<verse sID="Jude.1.2" osisID="Jude.1.2"/>misericordia a voi e pace e carità in abbondanza.<verse eID="Jude.1.2"/>
 
-			<div type="section">
 
-				<title>Scopo della lettera.</title>
 
-				<verse sID="Jude.1.3" osisID="Jude.1.3"/><note type="x-footnote" n="1">La fede deve essere conservata intatta per sempre, come un sacro deposito: Cfr. <reference osisRef="1Cor.11.2">1Cor 11,2</reference>, <reference osisRef="1Tim.6.20">1Tm 6,20</reference>.</note>Carissimi, avevo un gran desiderio di scrivervi riguardo alla nostra salvezza, ma sono stato costretto a farlo per esortarvi a combattere per la fede, che fu trasmessa ai credenti una volta per tutte.<verse eID="Jude.1.3"/>
-				<verse sID="Jude.1.4" osisID="Jude.1.4"/>Si sono infiltrati infatti tra voi alcuni individui - i quali sono già stati segnati da tempo per questa condanna - empi che trovano pretesto alla loro dissolutezza nella grazia del nostro Dio, rinnegando il nostro unico padrone e signore Gesù Cristo.<verse eID="Jude.1.4"/>
 
-			</div>
 
-			<div type="section">
-
-				<title>I falsi dottori.</title>
-
-				<verse sID="Jude.1.5" osisID="Jude.1.5"/><note type="x-footnote" n="2">La Bibbia dimostra che per gli empi non c’è scampo: Cfr. <reference osisRef="Num.14.3">Nm 14,3</reference>, <reference osisRef="1Cor.10.5">1Cor 10,5</reference>.</note>Ora io voglio ricordare a voi, che già conoscete tutte queste cose, che il Signore dopo aver salvato il popolo dalla terra d`Egitto, fece perire in seguito quelli che non vollero credere,<verse eID="Jude.1.5"/>
-				<verse sID="Jude.1.6" osisID="Jude.1.6"/><note type="x-footnote" n="3">Come in <reference osisRef="2Pet.2.4; 2Pet.2.9">2Pt 2,4.9</reference>, l’affermazione sul peccato degli angeli non è accompagnata da alcuna precisazione.</note>e che gli angeli che non conservarono la loro dignità ma lasciarono la propria dimora, egli li tiene in catene eterne, nelle tenebre, per il giudizio del gran giorno.<verse eID="Jude.1.6"/>
-				<verse sID="Jude.1.7" osisID="Jude.1.7"/><note type="x-footnote" n="4">Cfr. <reference osisRef="Gen.19.4-25">Gn 19,4-25</reference>, <reference osisRef="2Pet.2.6; 2Pet.2.9">2Pt 2,6.9</reference>.</note>Così Sòdoma e Gomorra e le città vicine, che si sono abbandonate all`impudicizia allo stesso modo e sono andate dietro a vizi contro natura, stanno come esempio subendo le pene di un fuoco eterno.<verse eID="Jude.1.7"/>
-				<verse sID="Jude.1.8" osisID="Jude.1.8"/>Ugualmente, anche costoro, come sotto la spinta dei loro sogni, contaminano il proprio corpo, disprezzano il Signore e insultano gli esseri gloriosi<note type="x-footnote" n="5">Cfr <reference osisRef="2Pet.2.10">2Pt 2,10</reference>. Gli esseri gloriosi sono gli angeli.</note>.<verse eID="Jude.1.8"/>
-				<verse sID="Jude.1.9" osisID="Jude.1.9"/><note type="x-footnote" n="6">Michele è il principe degli angeli: Cfr. <reference osisRef="Dan.10.13; Dan.10.21">Dn 10,13.21</reference>, <reference osisRef="Dan.12.1">Dn 12,1</reference>, <reference osisRef="Rev.12.7">Ap 12,7</reference>. L’Antico Testamento ignora questo fatto (Cfr. <reference osisRef="Deut.34.1-6">Dt 34,1-6</reference>) né si sa con precisione per quale via sia arrivato a Giuda. La frase in corsivo è presa da <reference osisRef="Zech.3.2">Zc 3,2</reference>.</note>L`arcangelo Michele quando, in contesa con il diavolo, disputava per il corpo di Mosè, non osò accusarlo con parole offensive, ma disse: <hi type="italic">Ti condanni il Signore!</hi><verse eID="Jude.1.9"/>
-				<verse sID="Jude.1.10" osisID="Jude.1.10"/>Costoro invece bestemmiano tutto ciò che ignorano; tutto ciò che essi conoscono per mezzo dei sensi, come animali senza ragione, questo serve a loro rovina.<verse eID="Jude.1.10"/>
-				<verse sID="Jude.1.11" osisID="Jude.1.11"/><note type="x-footnote" n="7">Caino, nella tradizione ebraica, era il simbolo dell’empio: Cfr. <reference osisRef="Gen.4.8">Gn 4,8</reference>. Balaam era il simbolo dell’uomo avido: Cfr. <reference osisRef="Num.22.18">Nm 22,18</reference>, <reference osisRef="Num.24.11-13">Nm 24,11-13</reference>.</note>Guai a loro! Perché si sono incamminati per la strada di Caino e, per sete di lucro, si sono impegolati nei traviamenti di Balaàm e sono periti nella ribellione di Kore.<verse eID="Jude.1.11"/>
-				<verse sID="Jude.1.12" osisID="Jude.1.12"/><note type="x-footnote" n="8">Sui banchetti che precedevano la celebrazione eucaristica Cfr. <reference osisRef="1Cor.11.20">1Cor 11,20</reference>ss.</note>Sono la sozzura dei vostri banchetti sedendo insieme a mensa senza ritegno, pascendo se stessi; come nuvole senza pioggia portate via dai venti, o alberi di fine stagione senza frutto, due volte morti, sradicati;<verse eID="Jude.1.12"/>
-				<verse sID="Jude.1.13" osisID="Jude.1.13"/>come onde selvagge del mare, che schiumano le loro brutture; come astri erranti, ai quali è riservata la caligine della tenebra in eterno.<verse eID="Jude.1.13"/>
-				<verse sID="Jude.1.14" osisID="Jude.1.14"/><note type="x-footnote" n="9">Su Enoch Cfr. <reference osisRef="Gen.5.21-24">Gn 5,21-24</reference>. La citazione è dall’apocrifo «Libro di Enoch» (1,9); il verbo profetare non è da prendersi nel senso biblico: Cfr. la citazione di <reference osisRef="Titus.1.12">Tt 1,12</reference>.</note>Profetò anche per loro Enoch, settimo dopo Adamo, dicendo: "Ecco, il Signore è venuto con le sue miriadi di angeli per far il giudizio contro tutti,<verse eID="Jude.1.14"/>
-				<verse sID="Jude.1.15" osisID="Jude.1.15"/>e per convincere tutti gli empi di tutte le opere di empietà che hanno commesso e di tutti gli insulti che peccatori empi hanno pronunziato contro di lui".<verse eID="Jude.1.15"/>
-				<verse sID="Jude.1.16" osisID="Jude.1.16"/>Sono sobillatori pieni di acredine, che agiscono secondo le loro passioni; la loro bocca proferisce parole orgogliose e adùlano le persone per motivi interessati.<verse eID="Jude.1.16"/>
-
-			</div>
-
-			<div type="section">
-
-				<title>Esortazione ai fedeli.</title>
-
-				<verse sID="Jude.1.17" osisID="Jude.1.17"/>Ma voi, o carissimi, ricordatevi delle cose che furono predette dagli apostoli del Signore nostro Gesù Cristo.<verse eID="Jude.1.17"/>
-				<verse sID="Jude.1.18" osisID="Jude.1.18"/>Essi vi dicevano: <note type="x-footnote" n="10">Cfr. <reference osisRef="1Tim.4.1">1Tm 4,1</reference>.</note>"Alla fine dei tempi vi saranno impostori, che si comporteranno secondo le loro empie passioni".<verse eID="Jude.1.18"/>
-				<verse sID="Jude.1.19" osisID="Jude.1.19"/>Tali sono quelli che provocano divisioni, gente materiale, privi dello Spirito.<verse eID="Jude.1.19"/>
-				<verse sID="Jude.1.20" osisID="Jude.1.20"/>Ma voi, carissimi, costruite il vostro edificio spirituale sopra la vostra santissima fede, pregate mediante lo Spirito Santo,<verse eID="Jude.1.20"/>
-				<verse sID="Jude.1.21" osisID="Jude.1.21"/>conservatevi nell`amore di Dio, attendendo la misericordia del Signore nostro Gesù Cristo per la vita eterna.<verse eID="Jude.1.21"/>
-				<verse sID="Jude.1.22" osisID="Jude.1.22"/>Convincete quelli che sono vacillanti,<verse eID="Jude.1.22"/>
-				<verse sID="Jude.1.23" osisID="Jude.1.23"/>altri salvateli strappandoli dal fuoco, di altri infine abbiate compassione con timore, guardandovi perfino dalla veste contaminata dalla loro carne.<verse eID="Jude.1.23"/>
-
-			</div>
-
-			<div type="section">
-
-				<title>Gloria a Cristo.</title>
-
-					<verse sID="Jude.1.24" osisID="Jude.1.24"/><note type="x-footnote" n="11">Cfr. <reference osisRef="Rm.16.25-27">Rm 16,25-27</reference>.</note>A colui che può preservarvi da ogni caduta e farvi comparire davanti alla sua gloria senza difetti e nella letizia,<verse eID="Jude.1.24"/>
-					<verse sID="Jude.1.25" osisID="Jude.1.25"/>all`unico Dio, nostro salvatore, per mezzo di Gesù Cristo nostro Signore, gloria, maestà, forza e potenza prima di ogni tempo, ora e sempre. Amen!<verse eID="Jude.1.25"/>
-
-			</div>
-
-			<chapter eID="Jude.1"/>
-
-		</div>
-
-		<div type="book" bookTitle="APOCALISSE" osisID="Rev" canonical="true">
-
-		<title type="main">APOCALISSE</title>
-
-		<div type="section">
-
-			<title>Introduzione</title>
-
-			<hi type="italic">
-				<p>All'ambito della letteratura giovannea viene ricondotto anche il libro dell'Apocalisse. Seppure scritto in circoli vicini all'apostolo e penetrato del suo insegnamento, il testo per lingua, stile e prospettive teologiche deve attribuirsi ad un diverso autore, che si presenta a noi con il nome di Giovanni. L'Apocalisse è un libro scritto durante una persecuzione dei cristiani (probabilmente sotto l'imperatore Domiziano, cioè verso il 95 d.C.) e serve a dar loro coraggio con la prospettiva della vittoria finale del bene sul male, di Cristo e dei suoi sui nemici della fede. Come tale è un libro storico, ma anche paradigmatico: vale per tutte le situazioni analoghe della Chiesa e dei credenti di tutte le epoche. Per ottenere questo, l'autore si serve di un genere letterario particolare, il genere apocalittico, con l'impiego di molti simboli e visioni tratti dall'Antico Testamento, in specie da Ezechiele e Daniele. Se non se ne tiene conto adeguatamente, la lettura diventa difficile e incomprensibile e si è indotti a interpretazioni astruse e inutili, come pure ad attese preoccupate del futuro. Debitamente decifrati, i simboli parlano invece con estrema chiarezza. Questo libro, come altri testi analoghi del Nuovo Testamento, non intende dare nessuna informazione previa sulla fine del mondo e sulle sue modalità. Il discorso di fondo che esso sviluppa riguarda piuttosto lo scontro tra le Chiesa e l'impero romano, che pretende di imporre il culto dell'imperatore. La situazione terrena e storica viene trasportata nel mondo celeste e invisibile, e si traduce nella lotta tra l'Agnello immolato, ma in piedi, cioè Cristo morto in croce ma risuscitato e glorificato in cielo, e la Bestia, cioè Satana e il mondo pagano al suo servizio. Tra l'uno e l'altra sono posti i credenti, materialmente perdenti in quanto sono messi a morte, ma vincitori perché testimoni, martiri dell'Agnello, che li conduce nella "Gerusalemme celeste", nel suo regno.</p>
-			</hi>
-
-		</div>
-
-			<chapter sID="Rev.1" osisID="Rev.1" chapterTitle="CAPITOLO 1."/>
-
-			<title type="chapter">Capitolo 1</title>
-
-				<verse sID="Rev.1.1" osisID="Rev.1.1"/><note type="x-footnote" n="1">La rivelazione venuta dal Padre mediante il Figlio giunge all’apostolo perché sia trasmessa alla Chiesa. Si tratta di cose che devono accadere presto (<reference osisRef="Rev.22.6">Ap 22,6</reference>) non nel senso di una durata temporale, ma a causa della certezza della fede e della inevitabilità degli ultimi eventi.</note>Rivelazione di Gesù Cristo che Dio gli diede per render noto ai suoi servi le cose che devono presto accadere, e che egli manifestò inviando il suo angelo al suo servo Giovanni.<verse eID="Rev.1.1"/>
-				<verse sID="Rev.1.2" osisID="Rev.1.2"/><note type="x-footnote" n="2">La parola e la testimonianza, che è l’insieme della rivelazione completa, indicano in particolare le rivelazioni del libro.</note>Questi attesta la parola di Dio e la testimonianza di Gesù Cristo, riferendo ciò che ha visto.<verse eID="Rev.1.2"/>
-				<verse sID="Rev.1.3" osisID="Rev.1.3"/><note type="x-footnote" n="3">Apocalisse enuncia sette beatitudini: <reference osisRef="Rev.14.13">14,13</reference>, <reference osisRef="Rev.16.15">16,15</reference>, <reference osisRef="Rev.19.9">19,9</reference>, <reference osisRef="Rev.20.6">20,6</reference>, <reference osisRef="Rev.20.7; Rev.20.14">20,7.14</reference>. Il libro è destinato alla Chiesa.</note>Beato chi legge e beati coloro che ascoltano le parole di questa profezia e mettono in pratica le cose che vi sono scritte. Perché il tempo è vicino.<verse eID="Rev.1.3"/>
-
-			<div type="section">
-
-				<title>Saluto alle sette chiese.</title>
-
-				<verse sID="Rev.1.4" osisID="Rev.1.4"/><note type="x-footnote" n="4">Sette è il numero che indica pienezza e totalità. «Colui che è» ecc. è lo sviluppo del nome proprio di Dio rivelato a Mosè: Cfr. <reference osisRef="Exod.3.14">Es 3,14</reference>.</note>Giovanni alle sette Chiese che sono in Asia: grazia a voi e pace da Colui che è, che era e che viene, dai sette spiriti che stanno davanti al suo trono,<verse eID="Rev.1.4"/>
-				<verse sID="Rev.1.5" osisID="Rev.1.5"/><note type="x-footnote" n="5">Testimone fedele: Cfr. <reference osisRef="John.18.37">Gv 18,37</reference>. Il primogenito dei morti, cioè il primo risorto: Cfr. <reference osisRef="Col.1.18">Col 1,18</reference>.</note>e da Gesù Cristo, il testimone fedele, il primogenito dei morti e il principe dei re della terra. A Colui che ci ama e ci ha liberati dai nostri peccati con il suo sangue<verse eID="Rev.1.5"/>
-				<verse sID="Rev.1.6" osisID="Rev.1.6"/><note type="x-footnote" n="6">Un regno di sacerdoti perché i fedeli regnano con Cristo (Cfr. <reference osisRef="Rev.2.26">Ap 2,26</reference> ss.) e sono consacrati al Padre: Cfr. <reference osisRef="Exod.19">Es 19</reference>, <reference osisRef="Isa.61">Is 61</reference>, <reference osisRef="Isa.62.3">Is 62,3</reference>, <reference osisRef="1Pet.2.9">1Pt 2,9</reference>.</note>che ha fatto di noi un regno di sacerdoti per il suo Dio e Padre, a lui la gloria e la potenza nei secoli dei secoli. Amen.<verse eID="Rev.1.6"/>
-				<verse sID="Rev.1.7" osisID="Rev.1.7"/><note type="x-footnote" n="7">Cfr. Cfr. <reference osisRef="Dan.7.13">Dn 7,13</reference>, <reference osisRef="Zech.12.10; Zech.12.14">Zc 12,10.14</reference>, <reference osisRef="John.19.37">Gv 19,37</reference>.</note>Ecco, viene sulle nubi e ognuno lo vedrà; anche quelli che lo trafissero e tutte le nazioni della terra si batteranno per lui il petto. Sì, Amen!<verse eID="Rev.1.7"/>
-				<verse sID="Rev.1.8" osisID="Rev.1.8"/><note type="x-footnote" n="8">Alfa e Omega sono la prima e l’ultima lettera dell’alfabeto greco, equivalgono a il Primo e l’Ultimo, colui che ha dato principio e darà una fine alle cose: Cfr. <reference osisRef="Rev.1.17">Ap 1,17</reference>, <reference osisRef="Rev.21.6">Ap 21,6</reference>.</note>Io sono l`Alfa e l`Omega, dice il Signore Dio, Colui che è, che era e che viene, l`Onnipotente!<verse eID="Rev.1.8"/>
-
-			</div>
-
-			<div type="section">
-
-				<title>Visione introduttiva.</title>
-
-				<verse sID="Rev.1.9" osisID="Rev.1.9"/><note type="x-footnote" n="9">Patmos è a circa 75 km. a sudovest di Efeso ed era nota come luogo di pena.</note>Io, Giovanni, vostro fratello e vostro compagno nella tribolazione, nel regno e nella costanza in Gesù, mi trovavo nell`isola chiamata Patmos a causa della parola di Dio e della testimonianza resa a Gesù.<verse eID="Rev.1.9"/>
-				<verse sID="Rev.1.10" osisID="Rev.1.10"/><note type="x-footnote" n="10">Il giorno del Signore, cioè «domenica», è la prima attestazione del trasferimento al giorno della risurrezione di Cristo del carattere sacro del sabato ebraico: Cfr. <reference osisRef="1Cor.16.2">1Cor 16,2</reference>.</note>Rapito in estasi, nel giorno del Signore, udii dietro di me una voce potente, come di tromba, che diceva:<verse eID="Rev.1.10"/>
-				<verse sID="Rev.1.11" osisID="Rev.1.11"/><note type="x-footnote" n="11">Le sette città dell’Asia proconsolare erano collegate da un circuito stradale.</note>Quello che vedi, scrivilo in un libro e mandalo alle sette Chiese: a Efeso, a Smirne, a Pèrgamo, a Tiàtira, a Sardi, a Filadèlfia e a Laodicèa.<verse eID="Rev.1.11"/>
-				<verse sID="Rev.1.12" osisID="Rev.1.12"/><note type="x-footnote" n="12">Cfr. <reference osisRef="Dan.7.13">Dn 7,13</reference>, <reference osisRef="Dan.10.5-6">Dn 10,5-6</reference>, <reference osisRef="Dan.7.9">Dn 7,9</reference>, <reference osisRef="Ezek.43.2">Ez 43,2</reference>. Gesù appare in vesti sacerdotali (l’abito o tunica lunga) e regali (la fascia d’oro). I capelli candidi sono simbolo di eternità; gli occhi fiammeggianti indicano l’onniscienza e i piedi di bronzo l’immutabilità. La sua voce è come quella di Dio.</note>Ora, come mi voltai per vedere chi fosse colui che mi parlava, vidi sette candelabri d`oro<verse eID="Rev.1.12"/>
-				<verse sID="Rev.1.13" osisID="Rev.1.13"/>e in mezzo ai candelabri c`era uno simile a figlio di uomo, con un abito lungo fino ai piedi e cinto al petto con una fascia d`oro.<verse eID="Rev.1.13"/>
-				<verse sID="Rev.1.14" osisID="Rev.1.14"/>I capelli della testa erano candidi, simili a lana candida, come neve. Aveva gli occhi fiammeggianti come fuoco,<verse eID="Rev.1.14"/>
-				<verse sID="Rev.1.15" osisID="Rev.1.15"/>i piedi avevano l`aspetto del bronzo splendente purificato nel crogiuolo. La voce era simile al fragore di grandi acque.<verse eID="Rev.1.15"/>
-				<verse sID="Rev.1.16" osisID="Rev.1.16"/><note type="x-footnote" n="13">La spada affilata è il potere di giudizio: Cfr. <reference osisRef="Isa.11.4">Is 11,4</reference>. Per lo splendore Cfr. la Trasfigurazione: <reference osisRef="Matt.17.2">Mt 17,2</reference>.</note>Nella destra teneva sette stelle, dalla bocca gli usciva una spada affilata a doppio taglio e il suo volto somigliava al sole quando splende in tutta la sua forza.<verse eID="Rev.1.16"/>
-				<verse sID="Rev.1.17" osisID="Rev.1.17"/>Appena lo vidi, caddi ai suoi piedi come morto. Ma egli, posando su di me la destra, mi disse: Non temere! Io sono il Primo e l`Ultimo<verse eID="Rev.1.17"/>
-				<verse sID="Rev.1.18" osisID="Rev.1.18"/><note type="x-footnote" n="14">Il Vivente, come Dio.</note>e il Vivente. Io ero morto, ma ora vivo per sempre e ho potere sopra la morte e sopra gli inferi.<verse eID="Rev.1.18"/>
-				<verse sID="Rev.1.19" osisID="Rev.1.19"/>Scrivi dunque le cose che hai visto, quelle che sono e quelle che accadranno dopo.<verse eID="Rev.1.19"/>
-				<verse sID="Rev.1.20" osisID="Rev.1.20"/><note type="x-footnote" n="15">Gli angeli custodiscono le comunità cristiane</note>Questo è il senso recondito delle sette stelle che hai visto nella mia destra e dei sette candelabri d`oro, eccolo: le sette stelle sono gli angeli delle sette Chiese e le sette lampade sono le sette Chiese.<verse eID="Rev.20"/>
-
-			</div>
-
-			<chapter eID="Rev.1"/>
-
-		</div>
 
 	</div>
 </osisText>

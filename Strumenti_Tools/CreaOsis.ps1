@@ -58,6 +58,10 @@ $bpc = "D:\Documents\Downloads\Emule-Incoming\BPBiblePortable\App\BPBible\resour
 #[ENG] $xic contains the path of destination of CONF files for xiphos.
 $xic = "C:\Users\Emanuele\AppData\Roaming\Sword\mods.d\"
 
+#[ITA] La variabile $modGit contiene il percorso di destinazione dei file CONF da depositare in GitHub Desktop.
+#[ENG] $modGit variable contains the path of destination of CONF files in GitHub Desktop to upload and synchronize in GitHub.
+$modGit = "D:\Documents\GitHub\EmanueleTinari\mods.d\"
+
 #[ITA] La variabile $bpo contiene il percorso di destinazione dei file OSIS per BPBiblePortable.
 #[ENG] $bpo contains the path of destination of OSIS files for BPBiblePortable.
 $bpo = "D:\Documents\Downloads\Emule-Incoming\BPBiblePortable\App\BPBible\resources\modules\texts\rawtext\"
@@ -65,6 +69,14 @@ $bpo = "D:\Documents\Downloads\Emule-Incoming\BPBiblePortable\App\BPBible\resour
 #[ITA] La variabile $xio contiene il percorso di destinazione dei file OSIS per xiphos.
 #[ENG] $xio variable contains the path of destination of OSIS files for xiphos.
 $xio = "C:\Users\Emanuele\AppData\Roaming\Sword\modules\texts\rawtext\"
+
+#[ITA] La variabile $cei74Git contiene il percorso di destinazione dei file OSIS da depositare in GitHub Desktop.
+#[ENG] $cei74Git contains the path of destination of OSIS files in GitHub Desktop to upload and synchronize in GitHub.
+$cei74Git = "D:\Documents\GitHub\EmanueleTinari\resources\modules\texts\rawtext\cei1974\"
+
+#[ITA] La variabile $rawcei74Git contiene il percorso di destinazione del file .osis.xml da depositare in GitHub Desktop.
+#[ENG] $rawcei74Git contains the path of destination of osis.xml raw text original xml files in GitHub Desktop to upload and synchronize in GitHub.
+$rawcei74Git="D:\Documents\GitHub\EmanueleTinari\cei1974\"
 
 #[ITA] L'array $Confile contiene i nomi dei file .conf.
 #[ENG] $Confile Array contains the names of .conf files.
@@ -114,6 +126,13 @@ foreach ($element in $Confile)
                         Exit
                     }
             }
+            #[ITA] Solo il file cei1974.conf viene depositato nella cartella di GitHub Desktop.
+            #[ENG] Only file called cei1974.conf is copied on GitHub Desktop folder, ready to be synchronized.
+            if($element -eq "cei1974.conf")
+            {
+                Copy-Item -Path $work\$element -Destination $modGit
+            }
+
     }
 
 #[ITA] Ora creo i 4 files Osis.
@@ -121,15 +140,17 @@ foreach ($element in $Confile)
 $eseguibile = "osis2mod.exe"
 $outFolder = "$work\"
 $OsisDoc = "$work\cei1974.osis.xml"
-& $PSScriptRoot\$eseguibile $outFolder $OsisDoc
+& $PSScriptRoot\$eseguibile $outFolder $OsisDoc -v Catholic
 Start-Sleep -Seconds 2
+
+Copy-Item -Path $OsisDoc -Destination $rawcei74Git\
 
 #[ITA] L'array $Osisfile contiene i nomi dei file Osis.
 #[ENG] $Osisfile Array contains the names of Osis files.
 $Osisfile = @('ot*', 'nt*')
 
-#[ITA] Copio i 4 file Osis nelle relative cartelle .\modules\texts\rawtext\cei1974 dei programmi.
-#[ENG] Copy 4 Osis's files into .\modules\texts\rawtext\cei1974 folder of the programs.
+#[ITA] Copio i 4 file Osis nelle relative cartelle .\modules\texts\rawtext\cei1974 dei programmi e in gitHub Desktop.
+#[ENG] Copy 4 Osis's files into .\modules\texts\rawtext\cei1974 folder of the programs and in GitHub Desktop folder.
 foreach ($element in $Osisfile)
     {
         Copy-Item -Path $work\$element -Destination $bpo\cei1974\
@@ -165,6 +186,26 @@ foreach ($element in $Osisfile)
                 else
                     {
                         $result = $wshell.Popup("Copied in $xio",1,"$element",0)    
+                    }
+                $count += 1
+                if($count -eq 10)
+                    {
+                        Exit
+                    }
+            }
+        Copy-Item -Path $work\$element -Destination $cei74Git
+        $wshell = New-Object -ComObject Wscript.Shell
+        $count = 1
+        $result = 0 
+        While ($result -eq 0)
+            {
+                if ($Language -eq "IT-IT")
+                    {
+                        $result = $wshell.Popup("Copiato in $cei74Git",1,"$element",0)            
+                    }
+                else
+                    {
+                        $result = $wshell.Popup("Copied in $cei74Git",1,"$element",0)    
                     }
                 $count += 1
                 if($count -eq 10)
