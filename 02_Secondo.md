@@ -32,3 +32,4 @@ https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/bas
 Ora che sei a questo punto proseguiamo finalmente col [punto 03](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/03_Istruzioni_x_editare_un_capitolo.md), dove finalmente ti spiegherò dettagliatamente come editare il tuo capitolo, descrivendoti
 riga per riga il file base.xml
 
+Vuoi, invece, tornare all'elenco delle cartelle e dei file del progetto? Clicca [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
