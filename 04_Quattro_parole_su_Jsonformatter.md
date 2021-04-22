@@ -48,7 +48,4 @@ con le tue ultime modifiche. Scegli File dal menù in alto e quindi Salva per st
 
 16. Salva dal menù file. Ora dovresti aver finito. Inviami pure il file txt appena salvato come allegato.
 
-
-
-
-
+Vuoi, invece, tornare all'elenco delle cartelle e dei file del progetto? Clicca [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
