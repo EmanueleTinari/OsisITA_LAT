@@ -4,14 +4,16 @@ poche istruzioni, quindi stai collegandoti al foglio di Google Sheet da me appro
 https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing, foglio che da ora in avanti 
 sarà indicato e collegato così: [foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing)
 
-Tale foglio ha al momento tre schede:
+Tale foglio ha al momento cinque schede:
 1. CEI_1974
 2. Modulo per versetti
 3. Modulo x note nel testo
-Se non è aperta, passa alla scheda CEI_1974.
+4. Modulo x riferimenti
+5. Cerca nella Bibbia CEI 1974
 
-Qui sono elencati, dal primo all'ultimo, tutti i capitoli di ogni libro di cui si compone
-la Sacra Bibbia.
+Partiamo dalla prima scheda: **CEI_1974**
+
+Qui sono elencati, dal primo all'ultimo, tutti i capitoli di ogni libro di cui si compone la Sacra Bibbia.
 
 La colonna **Stato**, le cui celle sono di colore rosso, indica per il capitolo descritto a sinistra lo stato attuale.
 
