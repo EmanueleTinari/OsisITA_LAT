@@ -28,3 +28,5 @@ Nello spezzone di capitolo in esempio, vi è anche una nota all'inizio del verso
 Nella seguente foto uno screenshot di come lo spezzone di brano viene visualizzato in BpBible.
 
 ![Qui](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/immagini/SpezzoneTestoPoetico.jpg)
+
+Torna all'elenco delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
