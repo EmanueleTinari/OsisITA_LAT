@@ -2,6 +2,14 @@ Nel [foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR
 
 ho creato la scheda **Modulo x note nel testo**.
 
+## PRIMA COSA DA FARE ##
+
+Vai nel menù File --> Crea una copia (se non l'hai precedentemente già fatto x il modulo versetti ad esempio).
+
+Questo creerà una copia di tutto il foglio. Per operare sui versetti, visto che probabilmente mentre stai scrivendo un altro
+
+utente potrebbe accedervi e sovrascrivere ciò che hai scritto, conviene operare in una copia solo tua.
+
 Le colonne di colore rosina/arancione chiaro **NON** vanno assolutamente toccate.
 
 La colonna invece verdina **D** è quella in cui inserire la nota del capitolo che stai elaborando.
