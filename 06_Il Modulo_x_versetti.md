@@ -1,5 +1,13 @@
 Nel [foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing) ho creato la scheda **Modulo x versetti**.
 
+## PRIMA COSA DA FARE ##
+
+Vai nel menù File --> Crea una copia.
+
+Questo creerà una copia di tutto il foglio. Per operare sui versetti, visto che probabilmente mentre stai scrivendo un altro
+
+utente potrebbe accedervi e sovrascrivere ciò che hai scritto, conviene operare in una copia solo tua.
+
 Le colonne di colore rosina/arancione chiaro **NON** vanno assolutamente toccate.
 
 Le colonne invece verdine sono quelle in cui inserire i dati del capitolo e versetto da te scelti.
