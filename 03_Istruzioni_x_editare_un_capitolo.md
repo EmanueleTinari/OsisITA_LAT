@@ -47,7 +47,27 @@ Tra le due
 
 dovrà essere copiato ed incollato **tutto e solo** il testo dell'introduzione, esclusa la dicitura Introduzione.
 
+Se nell'introduzione nel sito della CEI ci sono più **capoversi** (punto e a capo) dovrai appena dopo il punto, prima
+
+dell'"a capo" chiudere il TAG <p> così:
+
+```xml
+    </p>
+```
+
+e all'inizio del capoverso riaprirlo così:
+
+```xml
+    <p>
+```
+
+Questo perchè così facendo il testo si formatta "andando a capo", mentre un punto con testo che segue senza andare a capo
+
+non va formattato in alcuna maniera e il testo risulterà continuo.
+
 In caso di presenza di riferimenti nel testo dell'introduzione, questi dovranno essere formattati come segue:
+
+(per semplificare ed aiutarti ho creato la scheda Modulo x riferimenti nel [Foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing). Le istruzioni per come usare tale foglio sono indicate nel file [08_Il Modulo_x_Riferimenti]().
 
 ## Formattazione di un riferimento di un capitolo, un versetto ##
 
