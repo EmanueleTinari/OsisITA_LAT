@@ -67,7 +67,7 @@ non va formattato in alcuna maniera e il testo risulterà continuo.
 
 In caso di presenza di riferimenti nel testo dell'introduzione, questi dovranno essere formattati come segue:
 
-(per semplificare ed aiutarti ho creato la scheda Modulo x riferimenti nel [Foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing). Le istruzioni per come usare tale foglio sono indicate nel file [08_Il Modulo_x_Riferimenti]().
+(per semplificare ed aiutarti ho creato la scheda Modulo x riferimenti nel [Foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing). Le istruzioni per come usare tale foglio sono indicate nel file [08_Il Modulo_x_Riferimenti](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/08_Il_Modulo_x_riferimenti.md).
 
 ## Formattazione di un riferimento di un capitolo, un versetto ##
 
