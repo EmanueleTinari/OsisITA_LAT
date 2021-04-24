@@ -40,7 +40,7 @@ Vangelo di Luca ma il capitolo 3, versetto 5.
 In tale caso il codice del riferimento avrà la seguente forma:
 
 ```xml
-    Cfr. (<reference osisRef="Luke.3.5">3,5</reference>)
+    Cfr. <reference osisRef="Luke.3.5">3,5</reference>
 ```
 
 Avrai modo, se lo vorrai, di vedere se scaricherai (come suggerisco) uno dei programmi per visualizzare la bibbia in formato OSIS che
