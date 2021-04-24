@@ -11,7 +11,7 @@ Rammento che hai ancora comunque aperta la scheda del [foglio di Google](https:/
 Naviga nell'elenco dei libri sulla sinistra e trova quello da cui vuoi partire. Poco sotto c'è l'elenco con tutti i capitoli.
 Raggiungi quello da te scelto e il testo ti si aprirà sulla destra.
 
-I numeretti rappresentano i versetti, e se gli stessi sono di un leggero color giallino vuol dire che vi sono delle note a pieè pagina per
+I numeretti rappresentano i versetti, e se gli stessi sono di un leggero color giallino vuol dire che vi sono delle note a piè pagina per
 quel versetto.
 
 Una volta trovato il capitolo, non ti resta che iniziare l'editazione.
