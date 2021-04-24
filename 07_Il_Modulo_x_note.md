@@ -10,6 +10,8 @@ Questo creerà una copia di tutto il foglio. Per operare sui versetti, visto che
 
 utente potrebbe accedervi e sovrascrivere ciò che hai scritto, conviene operare in una copia solo tua.
 
+## USO ##
+
 Le colonne di colore rosina/arancione chiaro **NON** vanno assolutamente toccate.
 
 La colonna invece verdina **D** è quella in cui inserire la nota del capitolo che stai elaborando.
