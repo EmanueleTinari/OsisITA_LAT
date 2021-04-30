@@ -72,7 +72,7 @@ $xio = "C:\Users\Emanuele\AppData\Roaming\Sword\modules\texts\rawtext\"
 
 #[ITA] La variabile $cei74Git contiene il percorso di destinazione dei file OSIS da depositare in GitHub Desktop.
 #[ENG] $cei74Git contains the path of destination of OSIS files in GitHub Desktop to upload and synchronize in GitHub.
-$cei74Git = "D:\Documents\GitHub\EmanueleTinari\resources\modules\texts\rawtext\cei1974\"
+$cei74Git = "D:\Documents\GitHub\EmanueleTinari\modules\texts\rawtext\cei1974\"
 
 #[ITA] La variabile $rawcei74Git contiene il percorso di destinazione del file .osis.xml da depositare in GitHub Desktop.
 #[ENG] $rawcei74Git contains the path of destination of osis.xml raw text original xml files in GitHub Desktop to upload and synchronize in GitHub.
