@@ -22,16 +22,69 @@
 
 	<div type="book" osisID="Volume 1">
 		<title>Volume 1</title>
+		
+
+		<div type="index" osisID="Indice">
+		<index index="topic" level1="Volume 1" level2="Indice"/>
+			<title>Indice</title>
+			<list>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 1">Capitolo 1</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 2">Capitolo 2</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 3">Capitolo 3</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 4">Capitolo 4</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 5">Capitolo 5</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 6">Capitolo 6</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 7">Capitolo 7</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 8">Capitolo 8</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 9">Capitolo 9</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 10">Capitolo 10</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 11">Capitolo 11</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 12">Capitolo 12</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 13">Capitolo 13</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 14">Capitolo 14</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 15">Capitolo 15</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 16">Capitolo 16</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 17">Capitolo 17</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 18">Capitolo 18</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 19">Capitolo 19</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 20">Capitolo 20</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 21">Capitolo 21</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 22">Capitolo 22</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 23">Capitolo 23</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 24">Capitolo 24</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 25">Capitolo 25</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 26">Capitolo 26</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 27">Capitolo 27</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 28">Capitolo 28</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 29">Capitolo 29</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 30">Capitolo 30</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 31">Capitolo 31</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 32">Capitolo 32</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 33">Capitolo 33</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 34">Capitolo 34</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 35">Capitolo 35</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 36">Capitolo 36</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 37">Capitolo 37</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 38">Capitolo 38</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 39">Capitolo 39</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 40">Capitolo 40</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 41">Capitolo 41</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 42">Capitolo 42</reference></item>
+				<item><reference osisRef="evangelovaltorta:Volume 1/Capitolo 43">Capitolo 43</reference></item>
+			</list>
+		</div>
 
 		<div type="chapter" osisID="Capitolo 1">
 			<title>Pensiero d’introduzione. Dio volle un seno senza macchia.</title>
-			<lg>
-			<l level="1"><l level="2"><hi type="italic">“Dio mi possedette all'inizio delle sue opere” </hi><reference osisRef="Prov.8.22">Salomone, Proverbi cap. 8 v. 22</reference>.</l></l>
-			</lg>
-			<p>22 agosto 1944.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+				<lg>
+					<l level="1"><l level="2"><hi type="italic">“Dio mi possedette all'inizio delle sue opere” </hi><reference osisRef="Prov.8.22">Salomone, Proverbi cap. 8 v. 22</reference>.</l></l>
+				</lg>
+				<p>22 agosto 1944.</p>
 			<div type="section" osisID="Sezione 1">
 				<p><hi type="super">1 </hi><hi type="bold">Gesù mi ordina:</hi> «Prendi un quaderno tutto nuovo. Copia sul primo foglio il dettato del giorno 16 agosto. In questo libro si parlerà di Lei».</p>
 				<p>Ubbidisco e copio. 16 agosto 1944.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 2">
 				<p><hi type="super">2 </hi><hi type="bold">Dice Gesù:</hi></p>
@@ -40,24 +93,29 @@
 				<p><hi type="italic">il Padre</hi>, essendo Creatore <hi type="italic">nuovamente</hi> della Creatura come al sesto giorno<note type="x-footnote" n="2">sesto giorno della creazione, descritto in: <reference osisRef="Gen.1.24-Gen.1.31">Genesi 1, 24-31</reference>.</note> ed avendo una “figlia” vera, degna, a sua perfetta somiglianza. L’impronta di Dio era stampata in Maria così netta che solo nel Primogenito del Padre le era superiore. Maria può essere chiamata la “secondogenita” del Padre perché, per perfezione data e saputa conservare, e per dignità di Sposa e Madre di Dio e di Regina del Cielo, viene seconda dopo il Figlio del Padre e seconda nel suo eterno Pensiero, che ab eterno in Lei si compiacque;</p>
 				<p><hi type="italic">il Figlio</hi>, essendo anche per Lei “il Figlio” e insegnandole, per mistero di grazia, la sua <hi type="italic">verità</hi> e <hi type="italic">sapienza</hi> quando ancora non era che un Germe che le cresceva in seno;</p>
 				<p><hi type="italic">lo Spirito Santo</hi>, apparendo fra gli uomini per una anticipata Pentecoste, per una prolungata Pentecoste, Amore in “Colei che amò”, Consolazione agli uomini per il frutto del suo seno, Santificazione per la maternità del Santo.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 3">
 				<p><hi type="super">3 </hi>Dio, per manifestarsi agli uomini nella forma nuova e completa che inizia l’èra della Redenzione, non scelse a suo trono un astro del cielo, non la reggia di un potente. Non volle neppure le ali degli angeli per base al suo piede. Volle un seno senza macchia.</p>
 				<p>Anche Eva era stata creata senza macchia. Ma spontaneamente volle corrompersi. Maria, vissuta in un mondo corrotto — Eva era invece in un mondo puro — non volle ledere il suo candore neppure con un pensiero volto al peccato. Conobbe che il peccato esiste. Ne vide i volti diversi e orribili. Tutti li vide. Anche il più orrendo: il deicidio. Ma li conobbe per espiarli e per essere, in eterno, Colei che ha pietà dei peccatori e prega per la loro redenzione.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 4">
 				<p><hi type="super">4 </hi>Questo pensiero sarà introduzione ad altre sante cose che darò per conforto tuo e di molti».</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 		</div>
 
 		<div type="chapter" osisID="Capitolo 2">
 			<title>Gioacchino ed Anna fanno voto al Signore</title>
-			<p>22 agosto 1944.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+				<p>22 agosto 1944.</p>
 			<div type="section" osisID="Sezione 1">
 				<p><hi type="super">1 </hi>Vedo un interno di casa. In essa è seduta ad un telaio una donna di età. Direi, nel vederla coi capelli un tempo certo neri, ora brizzolati, e nel volto non rugoso ma già pieno di quella serietà che viene con gli anni, che ella possa avere dai cinquanta ai cinquantacinque anni. Non più.</p>
 				<p>Nell'indicare queste età femminili prendo per base il volto di mia madre, la cui effigie ho più che mai presente in questi giorni che mi ricordano i suoi ultimi giorni presso il mio letto… Dopodomani è un anno che non la vedo più… Mia mamma era molto fresca nel volto, sotto i capelli precocemente incanutiti. A cinquant'anni era bianca e nera come al termine della vita. Ma, tolta la maturità dello sguardo, nulla denunciava i suoi anni. Potrei perciò errare anche nel dare alle donne attempate un certo numero di anni.</p>
 				<p>Questa che vedo tessere, in una stanza tutta chiara di luce, che penetra dalla porta spalancata su un vasto orto-giardino — un poderetto, direi, perché si prolunga a sali e scendi su un dolce altalenare di verde pendio — è bella nei tratti decisamente ebrei. Occhio nero e profondo che, non so perché, mi ricorda quello del Battista. Ma questo, pur essendo fiero come di regina, è anche dolce. Come se sul suo balenare di aquila fosse steso un velo d'azzurro. Dolce e un poco appena mesto, come di chi pensa, e rimpiange, a cose perdute. La tinta del volto è bruna, ma non eccessivamente. La bocca, lievemente larga, è ben disegnata, e sta ferma in una mossa austera che non è però dura. Il naso è lungo e sottile, lievemente piovente in basso. Un naso aquilino che sta bene con quegli occhi. È robusta ma non grassa. Ben proporzionata e credo alta, a giudicare da come appare seduta.</p>
 				<p>Mi pare stia tessendo una tenda o un tappeto. Le spole ­multicolori vanno rapide sulla trama che è marrone scuro, e il già fatto mostra un vago intreccio di greche e rosoni in cui ­verde, giallo, rosso e azzurro cupo si intersecano e fondono come in un mosaico. La donna veste di un abito semplicissimo e molto scuro. Un viola-rosso che pare copiato a certe viole del pen­siero.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 2">
 				<p><hi type="super">2 </hi>Si alza sentendo bussare alla porta. È alta realmente. Apre.</p>
@@ -67,6 +125,7 @@
 				<p>Alfeo è ben lieto di restare, e se ne spiega il motivo. Andata via la madre, Anna se lo prende in collo e lo porta nell'orto, lo alza sino ad una pergola d'uva bionda come il topazio e dice: «Mangia, mangia, che è buona» e se lo bacia sul visetto impiastricciato di succo d'uva, che il bambino sgrana avidamente. Poi ride di gusto, e pare subito più giovane per la bella dentatura che appare e per la giocondità che le copre il viso, cancellando gli anni, quando il bambino dice: «E ora che mi dài?» e la guarda con due occhioni sgranati di un grigio azzurro cupo. Ride e scherza chinandosi sui ginocchi e dicendo: «Che cosa mi dài se ti do… se ti do… indovina!». E il bambino, battendo le manine, tutto ridente: «Baci, baci ti do, Anna bella, Anna buona, Anna mamma!…».</p>
 				<p>Anna, sentendosi dire: «Anna mamma», ha un vero grido di affetto gioioso e si stringe contro il piccolino, dicendo: «O gioia! Caro! Caro! Caro!». Ad ogni «caro» un bacio scende sulle gotine rosee. E poi vanno ad una scansia, e da un piatto scendono focaccine di miele. «Le ho fatte per te, bellezza della povera Anna, per te che mi vuoi bene. Ma, dimmi, quanto mi vuoi bene?». E il bambino, pensando alla cosa che più l'ha colpito, dice: «Come al Tempio del Signore». Anna lo bacia ancora sugli occhietti vispi, sulla boccuccia rossa, e il bambino le si strofina contro come un gattino.</p>
 				<p>La madre va e viene con la brocca colma e ride senza dire nulla. Li lascia alle loro espansioni.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 3">
 				<p><hi type="super">3 </hi>Entra dall'orto un uomo anziano, un poco più basso di Anna, con una testa di folti capelli tutti bianchi. Un viso chiaro, dalla barba tagliata in quadrato, con due occhi azzurri come turchesi fra ciglia di un castano chiaro quasi biondo. È vestito di un marrone scuro.</p>
@@ -84,21 +143,26 @@
 				<p>E Alfeo, spettatore stupito e innocente: «Io ti ci chiamo!».</p>
 				<p> «Sì, gioia cara… ma ce l'hai la mamma tu, e io… io non ho bambino…».</p>
 				<p>La visione cessa qui.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 4">
 			<p><hi type="super">4 </hi>Comprendo che si è iniziato il ciclo della nascita di Maria. E ne sono molto contenta, perché lo desideravo tanto. Penso ne sarà contento anche lei.</p>
 				<p>Prima che io iniziassi a scrivere, ho sentito la Mamma dirmi: «Figlia, scrivi dunque di me. Ogni tua pena verrà conso­la­ta». E, mentre diceva questo, mi posava la mano sul capo in una carezza soave. Poi è venuta la visione. Ma sul principio, ossia finché non sentii chiamare la cinquantenne a nome, non compresi d'esser di fronte alla madre della Mamma e perciò alla grazia della sua nascita.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
+			<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 		</div>
 
 		<div type="chapter" osisID="Capitolo 3">
 			<title>Alla festa dei Tabernacoli. Gioacchino e Anna possedevano la Sapienza</title>
-			<p>23 agosto 1944</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+				<p>23 agosto 1944</p>
 			<div type="section" osisID="Sezione 1">
 				<p><hi type="super">1 </hi>Prima che venga il seguito, faccio una nota.</p>
 				<p>La casa <hi type="italic">non</hi> mi è parsa quella ben nota di Nazaret. Almeno l'ambiente è molto diverso. Anche l'orto-giardino è più vasto, e oltre si vedono i campi. Non molti, ma insomma ci sono. Dopo, quando Maria è sposa, vi è solo l'orto, vasto ma limitato a orto, e questa stanza, che ho visto, non l'ho vista mai nelle altre visioni. Non so se pensare che per motivi pecuniari i genitori di Maria si disfecero di parte del loro avere o se Maria, uscendo dal Tempio, passò in un'altra casa, forse datale da Giuseppe. Non ricordo se nelle passate visioni e lezioni ebbi mai accenno sicuro che la casa di Nazareth era la casa natìa.</p>
 				<p>La mia testa è molto stanca. E poi, soprattutto per i dettati, io ne dimentico subito le parole, pur rimanendomene incisi i comandi e nell'anima la luce. Ma i particolari dileguano <hi type="italic">immediatamente</hi>. Se dopo un'ora dovessi ripetere quel che udii, tolto una o due frasi principali, non saprei più niente. Mentre le visioni restano vive alla mente, perché le ho dovute osservare <hi type="italic">da me</hi>. I dettati li ricevo. Quelle invece le devo percepire. Restano perciò vive nel pensiero, che ha faticato a notarle nelle loro fasi.</p>
 				<p>Speravo ci fosse un dettato sulla visione di ieri. Invece niente.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 2">
 				<p><hi type="super">2 </hi>Comincio a vedere e scrivo.</p>
@@ -106,6 +170,7 @@
 				<p>Scende la sera e già le luci di lucernette a olio splendono qua e là per l'accampamento strano. Intorno alle luci qualche famiglia consuma la cena stando seduta per terra, le madri coi più piccoli in grembo, e molti di questi, stanchi, si addormentano con ancora il pezzo di pane nelle ditine rosee e cadono col capino sul petto materno come pulcini sotto la chioccia, e le madri finiscono di mangiare come possono, con una sola mano libera, mentre l'altra tiene contro il cuore il figliolino. Altre famiglie, invece, non sono ancora a cena e parlano nel semibuio del crepuscolo, attendendo che il cibo sia pronto. Dei focherelli sono accesi qua e là, e intorno ad essi si affannano le donne. Qualche ninna nanna lenta lenta, direi quasi lamentosa, culla un infante che stenta ad addormentarsi.</p>
 				<p>In alto un bel cielo sereno, che diviene sempre più azzurro cupo sino a parere un enorme velario di velluto pastoso d'un nero azzurro, su cui, piano piano, invisibili artefici e decoratori appuntino gemme e lumini, quali isolati, quali in bizzarre linee geometriche, fra le quali primeggia l'Orsa maggiore e minore con la sua forma di carro dalla stanga appoggiata al suolo, poi che i buoi furono staccati dal giogo. La stella polare ride con tutti i suoi bagliori.</p>
 				<p>Comprendo che è ottobre perché una grossa voce d'uomo lo dice: «Bello questo ottobre come pochi ci furono!».</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 3">
 				<p><hi type="super">3 </hi>Ecco Anna che viene da un fuoco con delle cose fra le mani, stese sul pane che è largo e piatto come una focaccia delle nostre e fa anche da vassoio. Alle gonnelle ha Alfeo, che ciaramella con la sua vocetta. Gioacchino, che sulla soglia della sua piccola capanna tutta di frasche parla con un uomo sui trent'anni — che Alfeo da lontano saluta con uno stridetto dicendo: «Papà» — quando vede avanzarsi Anna si affretta ad accendere la lucernetta.</p>
@@ -124,6 +189,7 @@
 				<p>Gioacchino sospira.</p>
 				<p>Il padre d'Alfeo chiama il suo bimbo, ma questo risponde: «Con Anna resto io. L'aiuto». Ridono tutti.</p>
 				<p>«Lascialo. Non dà noia. Ancora non è tenuto alla Legge. Qui o lì non è che un uccellino che mangia», dice Anna e siede col bimbo in grembo a cui dà focaccia e, mi pare, pesce arrostito. Vedo che lavora prima di darlo, forse gli leva la spina. Prima ha servito il marito. Ultima mangia lei.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 4">
 				<p><hi type="super">4 </hi>La notte è sempre più gremita di stelle e i lumi sempre più numerosi nel campo. Poi piano piano molti lumi si spengono. Sono di quelli che hanno cenato per primi e che ora si mettono a dormire. Anche il brusio diminuisce lentamente. Voci di bimbo non se ne odono più. Solo qualche lattante fa sentire la sua vocina di agnellino che cerca il latte della mamma. La notte soffia il suo alito sulle cose e le persone, e annulla pene e ricordi, speranze e rancori. Anzi, forse questi due sopravvivono, per quanto attutiti, anche nel sonno, nel sogno.</p>
@@ -134,6 +200,7 @@
 				<p>«Lo voglia Dio… e avessi subito chi mi dice: "Va' in pace. Il Dio d'Israele ti ha concesso la grazia che chiedi!"».</p>
 				<p>«Se la grazia verrà, il tuo bambino te lo dirà rivoltandosi per la prima volta nel tuo seno, e sarà voce di innocente, perciò voce di Dio».</p>
 				<p>Ora il campo tace nel buio. Anche Anna riporta Alfeo alla capanna contigua e lo pone da sé sul giaciglio di fieno presso ai fratellini, che dormono già. E poi si corica a fianco di Gioacchino, e anche la loro lampadetta si spegne. Una delle ultime stelline della terra. Restano più belle le stelle del firmamento a vegliare su tutti i dormenti.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 5">
 				<p><hi type="super">5 </hi><hi type="bold">Dice Gesù:</hi></p>
@@ -145,15 +212,19 @@
 				</p>
 				<p>Anna d'Aronne era la donna forte di cui parla l'Avo nostro (<reference osisRef="Prov.31.10-Prov.31.31">Pr 31,10-31</reference>, <reference osisRef="Prov.5.18-Prov.5.19">Pr 5,18-19</reference>, <reference osisRef="Wis.8.10 Wis.8.13">Sap 8,10.13</reference>). E Gioacchino, stirpe di re Davide, non aveva cercato tanto avvenenza e ricchezza quanto virtù. Anna possedeva una <hi type="italic">grande</hi> virtù. Tutte le virtù unite come mazzo fragrante di fiori per divenire un'unica bellissima cosa, che era <hi type="italic">la Virtù</hi>. Una virtù reale, degna di stare davanti al trono di Dio.</p>
 				<p>Gioacchino aveva dunque sposato due volte la sapienza "amandola più d'ogni altra donna": la sapienza di Dio chiusa nel cuore della donna giusta. Anna d'Aronne altro non aveva cercato che di unire la sua vita a quella di un uomo retto, certa che nella rettezza è la gioia delle famiglie.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 6">
 				<p><hi type="super">6 </hi>E ad esser l'emblema della "<hi type="italic">donna forte</hi>" non le mancava che la corona dei figli, gloria della donna sposata, giustificazione del coniugio, di cui parla Salomone, come alla sua felicità non mancavano che questi figli, fiori dell'albero che ha fatto un sol uno con l'albero vicino e ne ottiene dovizia di nuovi frutti, in cui le due bontà si fondono in una, perché, per conto dello sposo, mai nessuna delusione le era venuta.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 7">
 				<p><hi type="super">7 </hi>Ella, ormai volgente a vecchiezza, moglie da più e più lustri a Gioacchino, era sempre per lui "<hi type="italic">la sposa della sua giovinezza, la sua gioia, la cerva carissima, la graziosa gazzella</hi>", le cui carezze avevano sempre il fresco incanto della prima sera nuziale e affascinavano dolcemente il suo amore, tenendolo fresco come fiore che una rugiada irrora e ardente come fuoco che sempre una mano alimenta. Perciò, nella loro afflizione di senza figli, l'un l'altro si dicevano "<hi type="italic">parole di consolazione nei pensieri e negli affanni</hi>".</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 8">
 				<p><hi type="super">8 </hi>E su loro la Sapienza eterna, quando fu l'ora, dopo averli istruiti nella vita, li illuminò con i sogni della notte, diana del poema di gloria che doveva da essi venire e che era Maria Ss., la Madre mia. Se la loro umiltà non pensò a questo, il loro cuore però trepidò nella speranza al primo squillo della promessa di Dio. Già è certezza nelle parole di Gioacchino: "Spera, spera… Vinceremo Dio col nostro fedele amore". Sognavano un figlio: ebbero la Madre di Dio.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 9">
 				<p><hi type="super">9 </hi>Le parole del libro della Sapienza (<reference osisRef="Wis.8.13">Sap 8,13</reference>) paiono scritte per loro:</p>
@@ -161,15 +232,18 @@
 					<l level="1">"<hi type="italic">Per lei acquisterò gloria davanti al popolo… per essa otterrò l'immortalità e lascerò eterna memoria di me a quelli che dopo me verranno</hi>".</l>
 				</lg>
 				<p>Ma, per ottenere tutto questo, dovettero farsi re di una virtù verace e duratura che nessun evento lese. Virtù di fede. Virtù di carità. Virtù di speranza. Virtù di castità. La castità degli sposi! Essi l'ebbero, ché non occorre esser vergini per esser casti. E i talami casti hanno a loro custodi gli angeli e ad essi scendono figli buoni, che della virtù dei genitori fanno la norma della loro vita.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 10">
 				<p><hi type="super">10 </hi>Ma ora dove sono? Ora non si vogliono figli, ma non si vuole però neppure castità. Onde Io dico che l'amore e il talamo sono profanati».</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 		</div>
 
 		<div type="chapter" osisID="Capitolo 4">
 			<title>Anna con un cantico annunzia di esser madre. Nel Suo Seno è l'Anima Immacolata di Maria</title>
-			<p>24 agosto 1944</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+				<p>24 agosto 1944</p>
 			<div type="section" osisID="Sezione 1">
 				<p><hi type="super">1 </hi>Rivedo la casa di Gioacchino ed Anna. Nulla è mutato nel­l'interno, se si toglie i molti rami fioriti, messi in anfore qua e là, certo frutto delle potature fatte sugli alberi dell'orto che sono tutti in fiore: una nuvola che svaria dal bianco neve al rosso di certi coralli.</p>
 				<p>Anche il lavoro di Anna è diverso. Su un telaio più piccolo dell'altro ella tesse delle belle tele di lino, e canta, ritmando il moto del piede sul canto. Canta e sorride… A chi? A se stessa, a qualche cosa che ella vede nel suo interno.</p>
@@ -193,6 +267,7 @@
 					<l level="1"><hi type="italic">Vola, o spola. Il filo serra per la tela dell'infante.</hi></l>
 					<l level="1"><hi type="italic">Egli nasce! A Dio osannante vada il canto del mio cuor».</hi></l>
 				</lg>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 2">
 				<p><hi type="super">2 </hi>Entra Gioacchino quando ella sta per ripetere per la quarta volta il suo canto. «Sei felice, Anna? Mi sembri un uccello che faccia primavera. Che canto è mai questo? Non l'ho mai udito da nessuno. Da dove ci viene?».</p>
@@ -203,9 +278,11 @@
 				<p>«Perché volevo esserne certa. Vecchia come sono… sapermi madre… Non lo potevo credere vero… e non volevo darti una delusione più amara di tutte. È dalla fine del dicembre che io sento farsi nuove le mie viscere profonde e mettere, come dico, un nuovo ramo. Ma ora su quel ramo è sicuro il frutto… Vedi? Quella tela è già per quello che verrà».</p>
 				<p>«Non è il lino che hai comperato a Gerusalemme in otto­bre?».</p>
 				<p>«Sì. L'ho poi filato mentre attendevo… e speravo.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 3">
 				<p><hi type="super">3 </hi>Speravo perché l'ultimo giorno, mentre pregavo nel Tempio, il più possibile che sia per una donna presso la Casa di Dio, ed era già sera… ricordi che dicevo: "Ancora, ancora un poco". Non sapevo staccarmi di là senza aver avuto grazia! Ebbene, nell'ombra che già scendeva, dall'interno del luogo sacro, che io guardavo con attrazione d'anima per strappare un assenso dal Dio presente, ho visto partire una luce, una scintilla di luce bellissima. Era candida come luna, eppure aveva in sé tutte le luci di tutte le perle e gemme che sono sulla Terra. Pareva che una delle stelle preziose del Velo, le stelle poste sotto ai piedi dei cherubini, si staccasse e divenisse splendida di una luce soprannaturale… pareva che da oltre il Velo sacro, dalla Gloria stessa, partisse un fuoco e venisse a me veloce, e nel tagliare l'aria cantasse con voce celeste dicendo: "Ciò che hai chiesto ti venga". È per quello che io canto: "Una stella a te verrà". Che figlio sarà mai il nostro, che si manifesta come luce di stella nel Tempio e che dice: "Io sono" nella festa delle Luci? Che tu abbia visto giusto pensandomi una nuova Anna d'Elcana? </p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 4">
 				<p><hi type="super">4 </hi>Come la chiameremo la creatura nostra, che dolce come canto d'acque sento parlarmi in seno col suo piccolo cuore che batte e batte come quello di una tortorina presa fra il cavo delle mani?».</p>
@@ -214,11 +291,13 @@
 				<p>«Maria allora la chiameremo. Stella del nostro mare, perla, felicità. Il nome (<reference osisRef="Exod.15.20-Exod.15.21">Es 15,20-21</reference>, <reference osisRef="Num.12.1-Num.12.15">Nm 12,1-15</reference>, <reference osisRef="Num.20.1">Nm 20,1</reference>, <reference osisRef="Num.26.59">Nm 26,59</reference>) della prima grande donna d'Israele. Ma questa non peccherà mai contro il Signore, e a Lui solo darà il suo canto perché a Lui è offerta, ostia prima di nascere».</p>
 				<p>«A Lui è offerta, sì. Maschio o femmina che sia, dopo aver giubilato per tre anni sulla nostra creatura noi la daremo al Signore. Ostie noi pure con essa, per la gloria di Dio».</p>
 				<p>Non vedo né odo altro.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 5">
 				<p><hi type="super">5 </hi><hi type="bold">Dice Gesù:</hi></p>
 				<p>«La Sapienza, dopo averli illuminati coi sogni della notte, scese, Essa, "vapore della virtù di Dio, certa emanazione della gloria dell'Onnipotente", e divenne Parola per la sterile. Colui che ormai vedeva prossimo il suo tempo di redimere, Io, il Cristo, nipote di Anna, quasi cinquant'anni dopo, mediante la Parola, opererà miracoli sulle sterili e le malate, sulle ossesse, sulle desolate, su tutte le miserie della Terra.</p>
 				<p>Ma intanto, per la gioia di avere una Madre, ecco che mormoro arcana Parola nell'ombra del Tempio che conteneva le speranze d'Israele, del Tempio ormai al limitare della sua vita, perché nuovo e vero Tempio, non più contenente speranze di un popolo, ma certezza di Paradiso per il popolo <hi type="italic">di tutta</hi> la Terra, e per i secoli dei secoli sino alla fine del mondo, sta per essere sulla Terra. E questa Parola opera il miracolo di render fecondo ciò che infecondo era. E di darmi una Madre, la quale non ebbe soltanto ottimo naturale, come era sorte lo avesse nascendo da due santi; e, non avendo soltanto un'anima buona come molti ancor l'hanno, non avendo soltanto continuo accrescimento di questa bontà per il suo buon volere, non avendo soltanto un corpo immacolato, ebbe, unica fra le creature, immacolato lo spirito.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 6">
 				<p><hi type="super">6 </hi>Tu hai visto la generazione continua delle anime da Dio.</p>
@@ -227,16 +306,19 @@
 				<p>La Terra aveva, e non lo sapeva ancora, il suo Fiore. Il vero, unico Fiore che fiorisce eterno: giglio e rosa, mammola e gelsomino, elianto e ciclamino insieme fusi, e con essi tutti i fiori della terra in un Fiore solo, Maria, nella quale ogni virtù e grazia si aduna.</p>
 				<p>Nell'aprile la terra di Palestina pareva un enorme giardino, e fragranze e colori davano delizia al cuore degli uomini. Ma ancora ignota era la più bella Rosa. Ella era già fiorente a Dio nel secreto dell'alvo materno, poiché <hi type="italic">mia Madre amò da quando fu concepita</hi>, ma solo quando la vite dà il suo sangue per farne vino, e l'odor dei mosti, zuccherino e forte, empie le aie e le nari, Ella avrebbe sorriso prima a Dio e poi al mondo, dicendo col suo superinnocente sorriso: "<hi type="italic">Ecco, la Vite che vi darà il Grappolo da esser premuto nello strettoio per divenire Medicina eterna al vostro male, è fra voi</hi>".</p>
 				<p>Ho detto: "Maria amò da quando fu concepita". Cosa è che dà allo spirito luce e conoscenza? La Grazia. Cosa è che leva la Grazia? Il peccato d'origine e il peccato mortale. Maria, la Senza Macchia, non fu mai priva del ricordo di Dio, della sua vicinanza, del suo amore, della sua luce, della sua sapienza. Ella poté perciò comprendere e amare quando non era che una carne che si condensava intorno ad un'anima immacolata <hi type="italic">che continuava ad amare</hi>.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 7">
 				<p><hi type="super">7 </hi>Più avanti ti farò contemplare mentalmente la profondità delle verginità in Maria. Ne avrai una vertigine celeste come quando ti ho fatto considerare la nostra eternità. Intanto considera come il portare in seno una creatura esente dalla Macchia, che priva di Dio, dia alla madre, che pure l'ha concepita naturalmente, umanamente, una intelligenza superiore e ne faccia un profeta. Il profeta della figlia sua, che ella chiama: "Figlia di Dio". E pensa cosa sarebbe stato se dai Primigenitori innocenti fossero nati innocenti figli, come Dio voleva.</p>
 				<p>Questo, o uomini che dite di avviarvi al "superuomo", e coi vostri vizi vi avviate <hi type="italic">unicamente al superdemone</hi>, sarebbe stato il mezzo per portare al "superuomo". Saper rimanere senza contaminazione di Satana per lasciare a Dio l'amministrazione della vita, della conoscenza, del bene, non desiderando più di quanto — ed era poco meno che infinito — Dio non vi avesse dato, per poter generare, in una continua evoluzione verso il perfetto, dei figli che fossero uomini nel corpo e figli dell'Intelligenza nello spirito, ossia <hi type="italic">trionfatori</hi>, ossia <hi type="italic">forti</hi>, ossia <hi type="italic">giganti su Satana</hi>,che sarebbe stato atterrato tante migliaia di secoli avanti l'ora in cui lo sarà, e con lui tutto il suo male».</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 		</div>
 
 		<div type="chapter" osisID="Capitolo 5">
 			<title>Nascita di Maria. La sua verginità nell'eterno pensiero del Padre</title>
-			<p>26 agosto 1944</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+				<p>26 agosto 1944</p>
 			<div type="section" osisID="Sezione 1">
 				<p><hi type="super">1 </hi>Vedo Anna uscire nell'orto-giardino. Si appoggia al braccio di una parente certo, perché le somiglia. È molto grossa e pare affaticata forse anche dall'afa, proprio simile a questa che accascia me.</p>
 				<p>Per quanto l'orto sia ombroso, pure l'aria vi è rovente, pesante. Un'aria da tagliarsi come una pasta molle e calda, tanto è densa, sotto uno spietato cielo di un azzurro che la polvere sospesa negli spazi fa lievemente fosco. Da molto deve esservi siccità, perché la terra, dove non è irrigata, è letteralmente ridotta a polvere finissima e quasi bianca. Di un bianco lievemente tendente ad un rosa sporco, mentre è marrone rosso scuro, per esser bagnata, al piede delle piante o lungo le brevi aiuole dove crescono filari di ortaggi, e intorno ai rosai, ai gelsomini, ad altri fiori e fioretti, che sono specie sul davanti e lungo una bella pergola che taglia per metà il brolo sino al principio dei campi, ormai spogli di biade. Anche l'erba del prato, che segna la fine della proprietà, è arsiccia e rada. Solo ai margini di esso, là dove è una siepe di biancospino selvatico, già tutto tempestato dei rubini dei piccoli frutti, l'erba è più verde e folta, e là, in cerca di pastura e d'ombra, sono delle pecorelle con un piccolo mandriano.</p>
@@ -251,11 +333,13 @@
 				<p>La parente dice: «Là, oltre il grande Hermon, sorgono nubi veloci. Vento di settentrione. Rinfrescherà e forse darà acqua».</p>
 				<p>«È tre giorni che si leva e poi cade col sorger della luna. Farà così ancora». Gioacchino è sconfortato.</p>
 				<p>«Torniamo in casa. Anche qui non si respira, e poi penso che sia bene tornare…», dice Anna, che sembra ancor più olivastra per un pallore che le è venuto sul viso.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 2">
 				<p><hi type="super">2 </hi>«Soffri?».</p>
-				<p>«No. Ma sento quella gran pace che ho sentito nel Tempio quando mi fu fatta grazia, e che ho sentito ancora quando seppi d'esser madre. È come un'estasi. Un dolce sonno del corpo, mentre lo spirito giubila e si placa in una pace senza paragone umano. Ti ho amato, Gioacchino, e quando sono entrata nella tua casa e mi sono detta: "Sono sposa di un giusto", ho avuto pace, e così tutte le volte che il tuo provvido amore aveva cure per la tua Anna. Ma questa pace è diversa. Vedi, io credo che è una pace come quella che dovette invadere, come olio che si spande e molce, lo spirito di Giacobbe, nostro padre, dopo il suo sogno d'angeli <sup>(Gn 28,10-16; Tb 12-13)</sup>; e, meglio ancora, simile alla pace gioiosa dei Tobia dopo che Raffaele si manifestò loro. Se mi vi sprofondo, nel gustarla essa sempre più cresce. È come io salissi per gli spazi azzurri del cielo… e, non so perché, da quando io ho in me questa gioia pacifica, io ho un cantico in cuore, quello del vecchio Tobia. Mi pare sia stato scritto per quest'ora… per questa gioia… per la terra d'Israele che la riceve… per Gerusalemme peccatrice e ora perdonata… ma… — ma non ridete dei deliri di una madre… — ma quando dico: "Ringrazia il Signore per i tuoi beni e benedici il Dio dei secoli, affinché riedifichi in te il suo Tabernacolo", io penso che colui che riedificherà nella Gerusalemme il Tabernacolo del Dio vero sarà questo che sta per nascere…, e penso ancora che non più della Città santa, ma della mia creatura sia profetizzata la sorte quando il cantico dice: "Tu brillerai di luce splendida, tutti i popoli della Terra a te si prostreranno, le nazioni verranno a te portando doni, adoreranno in te il Signore e terranno come santa la tua terra, perché dentro di te invocheranno il <hi type="italic">Grande Nome</hi>. Tu sarai felice nei tuoi figli, perché tutti saranno benedetti e si riuniranno presso il Signore. Beati quelli che ti amano e gioiscono della tua pace!…"; e la prima a gioirne sono io, la sua madre beata…».</p>
+				<p>«No. Ma sento quella gran pace che ho sentito nel Tempio quando mi fu fatta grazia, e che ho sentito ancora quando seppi d'esser madre. È come un'estasi. Un dolce sonno del corpo, mentre lo spirito giubila e si placa in una pace senza paragone umano. Ti ho amato, Gioacchino, e quando sono entrata nella tua casa e mi sono detta: "Sono sposa di un giusto", ho avuto pace, e così tutte le volte che il tuo provvido amore aveva cure per la tua Anna. Ma questa pace è diversa. Vedi, io credo che è una pace come quella che dovette invadere, come olio che si spande e molce, lo spirito di Giacobbe, nostro padre, dopo il suo sogno d'angeli (<reference osisRef="Gen.28.10-Gen.28.16">Gn 28,10-16</reference>, <reference osisRef="Tob.12.13">Tb 12,13</reference>); e, meglio ancora, simile alla pace gioiosa dei Tobia dopo che Raffaele si manifestò loro. Se mi vi sprofondo, nel gustarla essa sempre più cresce. È come io salissi per gli spazi azzurri del cielo… e, non so perché, da quando io ho in me questa gioia pacifica, io ho un cantico in cuore, quello del vecchio Tobia. Mi pare sia stato scritto per quest'ora… per questa gioia… per la terra d'Israele che la riceve… per Gerusalemme peccatrice e ora perdonata… ma… — ma non ridete dei deliri di una madre… — ma quando dico: "Ringrazia il Signore per i tuoi beni e benedici il Dio dei secoli, affinché riedifichi in te il suo Tabernacolo", io penso che colui che riedificherà nella Gerusalemme il Tabernacolo del Dio vero sarà questo che sta per nascere…, e penso ancora che non più della Città santa, ma della mia creatura sia profetizzata la sorte quando il cantico dice: "Tu brillerai di luce splendida, tutti i popoli della Terra a te si prostreranno, le nazioni verranno a te portando doni, adoreranno in te il Signore e terranno come santa la tua terra, perché dentro di te invocheranno il <hi type="italic">Grande Nome</hi>. Tu sarai felice nei tuoi figli, perché tutti saranno benedetti e si riuniranno presso il Signore. Beati quelli che ti amano e gioiscono della tua pace!…"; e la prima a gioirne sono io, la sua madre beata…».</p>
 				<p>Anna si trascolora e si accende come cosa portata da luce lunare a gran fuoco e viceversa, nel dire queste parole. Delle dolci lacrime le scorrono sulle gote, né se ne avvede, e sorride alla sua gioia. E intanto va verso casa fra lo sposo e la parente, che ascoltano e tacciono commossi.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 3">
 				<p><hi type="super">3 </hi>Si affrettano perché le nubi, spinte da un vento alto, galoppano e crescono per il cielo, e la pianura si fa scura e abbrividisce per un avviso di temporale. Quando giungono alla soglia di casa, un primo lampo livido solca il cielo e il rumore del primo tuono pare il rullare di un'enorme grancassa che si mesca all'arpeggio delle prime gocce sulle foglie arse. Entrano tutti e Anna si ritira, mentre Gioacchino, raggiunto dai garzoni, parla, sulla porta, di questa tanto attesa acqua, che è benedizione per la terra sitibonda. Ma la gioia si muta in timore, perché viene un temporale violentissimo con fulmini e nubi cariche di grandine.</p>
@@ -265,6 +349,7 @@
 				<p>Uno dei garzoni nota questa violenza e dice: «Sembra che Satana sia uscito coi suoi demoni dalla Geenna. Guarda che nubi nere! Senti che fiato di zolfo è nell'aria, e fischi e sibili e voci di lamento e maledizione. Se è<hi type="italic">lui</hi>, è furente questa sera!».</p>
 				<p>L'altro garzone ride e dice: «Gli sarà sfuggita una grande preda, oppure Michele lo ha percosso con nuova folgore di Dio, e lui ne ha corna e coda mozze e arse».</p>
 				<p>Passa di corsa una donna e grida: «Gioacchino! Sta per nascere! E tutto fu svelto e felice!», e scompare con un'anforetta fra le mani.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 4">
 				<p><hi type="super">4 </hi>Il temporale cade di colpo, dopo un ultimo fulmine così violento che sbatte contro le pareti i tre uomini; e sul davanti della casa, nel suolo dell'orto, resta a suo ricordo una buca nera e fumante. E mentre un vagito, che pare il lamento di una tortorina che per la prima volta non pigoli più ma tubi, viene da oltre la porta di Anna, un enorme arcobaleno stende la sua fascia a semicerchio su tutta l'ampiezza del cielo. Sorge, o per lo meno pare sorgere, dalla cima dell'Hermon che, baciata da una lama di sole, pare di alabastro di un bianco rosa delicatissimo; si alza fino al più terso cielo di settembre e, valicando per spazi detersi da ogni impurità, sorvola le colline di Galilea e la piana che appare, fra due alberi di fico, che è a sud, e poi ancora un altro monte; e sembra posare la sua punta estrema all'estremo orizzonte, là dove un'aspra catena di monti chiude ogni altra veduta.</p>
@@ -272,6 +357,7 @@
 				<p>«Guardate, guardate!».</p>
 				<p>«Pare che leghi in un cerchio tutta la terra di Israele, e già, ma guardate, già vi è una stella mentre ancor non è scomparso il sole. Che stella! Brilla come un enorme diamante!…».</p>
 				<p>«E la luna, là, è tutta piena, mentre ancor mancano tre giorni al suo esserlo. Ma guardate come splende!».</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 5">
 				<p><hi type="super">5 </hi>Le donne sopraggiungono festanti con un batuffolino roseo fra candide tele.</p>
@@ -281,6 +367,7 @@
 				<p>Ma ora questo non si sa, e si ride e sorride del suo annaspare e sgambettare, delle belle gambette tornite, delle cosce minute che fanno fossette e braccialetti tanto sono grassottelle, della pancina, una coppa capovolta, del piccolo torace perfetto sotto la cui seta candida si vede il moto del respiro e certo si ode, se, come fa il padre felice ora, vi si appoggia la bocca ad un bacio, battere un cuoricino… Un cuoricino che è il più bello che ha la terra nei secoli dei secoli, l'unico cuore immacolato di uomo.</p>
 				<p>E la schiena? Ecco che la rivoltano, e si vede la falcatura delle reni e poi le spalle grassottelle e la nuca rosea così forte che, ecco, la testolina si alza sull'arco delle vertebre minute, e pare il capino di un uccello che scruti intorno il mondo nuovo che vede, e ha un gridino di protesta per esser così mostrata, Lei, la Pura e Casta, agli occhi di tanti, Lei che uomo non vedrà mai più nuda, la Tutta Vergine, la Santa ed Immacolata. Coprite, coprite questo Boccio di giglio che non sarà mai aperto sulla terra e che darà, più bello ancor di Lei, il suo Fiore, pur restando boccio. Solo nei Cieli il Giglio del Trino Signore aprirà tutti i suoi petali. Perché lassù non vi è polvere di colpa che possa involontariamente profanare quel candore. Perché lassù vi è da accogliere, alla vista di tutto l'Empireo, il Trino Iddio che ora, fra pochi anni, celato in un cuore senza macchia, sarà in Lei: Padre, Figlio, Sposo.</p>
 				<p>Eccola di nuovo fra i lini e fra le braccia del padre terreno, cui Ella somiglia. Non ora. Ora è un abbozzo d'uomo. Io dico che gli somiglia fatta donna. Della madre non ha nulla. Del padre il colore della pelle e degli occhi, e certo anche dei capelli che, se ora sono bianchi, in gioventù erano certo biondi come lo dicono le sopracciglia; del padre le fattezze, rese più perfette e gentili per esser Lei donna, e <hi type="italic">quella</hi> Donna; del padre il sorriso e lo sguardo e il modo di muoversi e la statura. Pensando a Gesù, come lo vedo, trovo che Anna ha dato la sua statura al Nipote e il colore più avorio carico della pelle. Mentre Maria non ha quell'imponenza di Anna, una palma alta e flessuosa, ma la gentilezza del padre.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 6">
 				<p><hi type="super">6 </hi>Anche le donne parlano del temporale e del prodigio della luna, della stella, dell'immenso arcobaleno, mentre con Gioacchino entrano dalla madre felice e le rendono la creaturina.</p>
@@ -290,22 +377,26 @@
 				<p>«Ma vuol dire anche amarezza… Non temi portarle sventura?».</p>
 				<p>«Dio è con Lei. È sua da prima che fosse. Egli la condurrà per le sue vie ed ogni amarezza si muterà in paradisiaco miele. Or sii della tua mamma… ancora per un poco, prima di esser tutta di Dio…».</p>
 				<p>E la visione ha termine sul primo sonno di Anna madre e di Maria infante.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
-			<p>27 agosto 1944</p>
+				<p>27 agosto 1944</p>
 			<div type="section" osisID="Sezione 7">
 				<p><hi type="super">7 </hi><hi type="bold">Dice Gesù:</hi></p>
 				<p>«Sorgi e ti affretta, piccola amica. Ho ardente desiderio di portarti con Me nell'azzurro paradisiaco della contemplazione della Verginità di Maria. Ne uscirai con l'anima fresca come fossi tu pure testé creata dal Padre, una piccola Eva che ancora non conosce carne. Ne uscirai con lo spirito pieno di luce, perché ti tufferai nella contemplazione del capolavoro di Dio. Ne uscirai con tutto il tuo essere saturo d'amore, perché avrai compreso come sappia amare Dio. Parlare del concepimento di Maria, la Senza Macchia, vuol dire tuffarsi nell'azzurro, nella luce, nell'amore.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 8">
-				<p><hi type="super">8 </hi>Vieni e leggi le glorie di Lei nel Libro dell'Avo(<reference osisref="">(Prv 8,22-31)</reference>)</p>
+				<p><hi type="super">8 </hi>Vieni e leggi le glorie di Lei nel Libro dell'Avo(<reference osisRef="Prov.8.22-Prov.8.31">Pr 8,22-31</reference>)</p>
 				<lg>
-					<l level="1">"<hi type="italic">"Dio mi possedette all'inizio delle sue opere, fin dal principio, avanti la creazione. Ab aeterno fui stabilita, al principio, avanti che fosse fatta la terra, non erano ancora gli abissi ed io ero già concepita. Non ancora le sorgenti dell'acque rigurgitavano ed i monti s'erano eretti nella loro grave mole, né le colline eran monili al sole, che io ero partorita. Dio non aveva ancora fatto la terra, i fiumi e i cardini del mondo, ed io ero. Quando preparava i cieli io ero presente, quando con legge immutabile chiuse sotto la volta l'abisso, quando rese stabile in alto la volta celeste e vi sospese le fonti delle acque, quando fissava al mare i suoi confini e dava leggi alle acque, quando dava legge alle acque di non passare il loro termine, quando gettava i fondamenti della terra, io ero con Lui a ordinare tutte le cose. Sempre nella gioia scherzavo dinanzi a Lui continuamente, scherzavo nell'universo...".</hi>".</l>
+					<l level="1">"<hi type="italic">Dio mi possedette all'inizio delle sue opere, fin dal principio, avanti la creazione. Ab aeterno fui stabilita, al principio, avanti che fosse fatta la terra, non erano ancora gli abissi ed io ero già concepita. Non ancora le sorgenti dell'acque rigurgitavano ed i monti s'erano eretti nella loro grave mole, né le colline eran monili al sole, che io ero partorita. Dio non aveva ancora fatto la terra, i fiumi e i cardini del mondo, ed io ero. Quando preparava i cieli io ero presente, quando con legge immutabile chiuse sotto la volta l'abisso, quando rese stabile in alto la volta celeste e vi sospese le fonti delle acque, quando fissava al mare i suoi confini e dava leggi alle acque, quando dava legge alle acque di non passare il loro termine, quando gettava i fondamenti della terra, io ero con Lui a ordinare tutte le cose. Sempre nella gioia scherzavo dinanzi a Lui continuamente, scherzavo nell'universo...</hi>".</l>
 				</lg>
 				<p>Le avete applicate alla Sapienza, ma parlan di Lei: la bella Madre, la santa Madre, la vergine Madre della Sapienza che Io sono che ti parlo.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 9">
 				<p><hi type="super">9 </hi>Ho voluto che tu scrivessi il primo verso di questo inno in capo al libro che parla di Lei, perché fosse confessata e nota la consolazione e la gioia di Dio; la ragione della sua costante, perfetta, intima letizia di questo Dio uno e trino, che vi regge e ama e che dall'uomo ebbe tante ragioni di tristezza; la ragione per cui perpetuò la razza anche quando, alla prima prova, s'era meritata d'esser distrutta; la ragione del perdono che avete avuto.</p>
 				<p>Aver Maria che lo amasse. Oh! ben meritava creare l'uomo, e lasciarlo vivere, e decretare di perdonarlo, per avere la Vergine bella, la Vergine santa, la Vergine immacolata, la Vergine innamorata, la Figlia diletta, la Madre purissima, la Sposa amorosa! Tanto e più ancora vi ha dato e vi avrebbe dato Iddio pur di possedere la Creatura delle sue delizie, il Sole del suo sole, il Fiore del suo giardino. E tanto vi continua a dare per Lei, a richiesta di Lei, per la gioia di Lei, perché la sua gioia si riversa nella gioia di Dio e l'aumenta a bagliori che empiono di sfavillii la luce, la gran luce del Paradiso, ed ogni sfavillio è una grazia all'universo, alla razza dell'uomo, ai beati stessi, che rispondono con un loro sfavillante grido di alleluia ad ogni generazione di miracolo divino, creato dal desiderio del Dio trino di vedere lo sfavillante riso di gioia della Vergine.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 10">
 				<p><hi type="super">10 </hi>Dio volle mettere un re nell'universo che Egli aveva creato dal nulla. Un re che, per natura della materia, fosse il primo tra tutte le creature create con materia e dotate di materia. Un re che, per natura dello spirito, fosse poco men che divino, fuso alla Grazia come era nella sua innocente prima giornata. Ma la Mente suprema, a cui sono noti tutti gli avvenimenti più lontani nei secoli, la cui vista vede incessantemente tutto quanto <hi type="italic">era</hi>, <hi type="italic">è</hi>, e <hi type="italic">sarà</hi>; e che, mentre contempla il passato e osserva il presente, ecco che sprofonda lo sguardo nell'ultimo futuro e non ignora come sarà il morire dell'ultimo uomo, senza confusione né discontinuità, non ha mai ignorato che il re da Lui creato per esser semidivino al suo fianco in Cielo, erede del Padre, giunto adulto al suo Regno dopo aver vissuto nella casa della madre — la terra con cui fu fatto — durante la sua puerizia di pargolo dell'Eterno per la sua giornata sulla Terra, avrebbe commesso verso se stesso il delitto di uccidersi nella Grazia e il ladrocinio di derubarsi del Cielo.</p>
@@ -317,9 +408,11 @@
 				<p>Per chi avrebbe fatto i minerali fra le viscere del suolo e i sali disciolti in algide o bollenti sorgive, gli zolfi, gli iodi, i bromi, se non perché li godesse <hi type="italic">uno</hi> che non fosse Dio ma figlio di Dio? <hi type="italic">Uno</hi>: <hi type="italic">l'uomo.</hi></p>
 				<p>Alla gioia di Dio, al bisogno di Dio nulla occorreva. Egli si basta a Se stesso. Non ha che contemplarsi per bearsi, nutrirsi, vivere e riposarsi. Tutto il creato non ha aumentato di un atomo la sua infinità in gioia, bellezza, vita, potenza. Ma tutto l'ha fatto per la creatura che ha voluto mettere <hi type="italic">re</hi> nell'opera da Lui fatta: l'uomo.</p>
 				<p>Per vedere tant'opera di Dio e per riconoscenza alla sua potenza che ve la dona, merita di vivere. E di esser viventi dovete esser grati. L'avreste dovuto anche se non foste stati redenti altro che alla fine dei secoli, perché, nonostante siate stati nei Primi, e lo siate tuttora singolarmente, prevaricatori, superbi, lussuriosi, omicidi, Dio vi concede ancora di godere del bello dell'universo, del buono dell'universo, e vi tratta come foste dei buoni, dei figli buoni a cui tutto è insegnato e concesso per rendere loro più dolce e sana la vita. Quanto sapete, lo sapete per lume di Dio. Quanto scoprite, lo scoprite per indicazione di Dio. Nel Bene. Le altre cognizioni e scoperte, che portano segno di male, vengono dal Male supremo: Satana.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 11">
 				<p><hi type="super">11 </hi>La Mente suprema, che nulla ignora, prima che l'uomo fosse sapeva che l'uomo sarebbe stato di se stesso ladro e omicida. E poiché la Bontà eterna non ha limiti nel suo esser buona, prima che la Colpa fosse pensò il mezzo per annullare la Colpa. Il mezzo:<hi type="italic">Io</hi>. Lo strumento per fare del mezzo uno strumento operante: <hi type="italic">Maria</hi>. E la Vergine fu creata nel Pensiero sublime di Dio.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 12">
 				<p><hi type="super">12 </hi>Tutte le cose sono state create per Me, Figlio diletto del Padre. Io-Re avrei dovuto avere sotto il mio piede di Re divino tappeti e gioielli quale nessuna reggia ne ebbe, e canti e voci, e servi e ministri intorno al mio essere quanti nessun sovrano ne ebbe, e fiori e gemme, tutto il sublime, il grandioso, il gentile, il minuto è possibile trarre dal Pensiero di un Dio.</p>
@@ -327,12 +420,14 @@
 				<p>Ecco allora Dio crearsi la Sposa e dirle: "Vieni meco. Al mio fianco vedi quanto Io faccio per il Figlio <hi type="italic">nostro.</hi> Guarda e giubila, eterna Vergine, Fanciulla eterna, ed il tuo riso empia questo empireo e dia agli angeli la nota iniziale, al Paradiso insegni l'armonia celeste. Io ti guardo. E ti vedo quale sarai, o Donna immacolata che ora sei solo spirito: lo spirito in cui Io mi beo. Io ti guardo e dò l'azzurro del tuo sguardo al mare e al firmamento, il colore dei tuoi capelli al grano santo, il candore al giglio e il roseo alla rosa come è la tua epidermide di seta, copio le perle dai tuoi denti minuti, faccio le dolci fragole guardando la tua bocca, agli usignoli metto in gola le tue note e alle tortore il tuo pianto.</p>
 				<p>E leggendo i tuoi futuri pensieri, udendo i palpiti del tuo cuore, Io ho il motivo di guida nel creare. Vieni, mia Gioia, abbiti i mondi per trastullo sinché mi sarai luce danzante nel Pensiero, i mondi per tuo riso, abbiti i serti di stelle e le collane d'astri, mettiti la luna sotto i piedi gentili, fàsciati nella sciarpa stellare di Galatea. Sono per te le stelle ed i pianeti. Vieni e godi vedendo i fiori, che saranno giuoco al tuo Bambino e guanciale al Figlio del tuo seno. Vieni e vedi creare le pecore e gli agnelli, le aquile e le colombe. Siimi presso mentre faccio le coppe dei mari e dei fiumi e alzo le montagne e le dipingo di neve e di selve, mentre semino le biade e gli alberi e le viti, e faccio l'ulivo per te, mia Pacifica, e la vite per te, mio Tralcio che porterai il Grappolo eucaristico. Scorri, vola, giubila, o mia Bella, e il mondo universo, che si crea d'ora in ora, impari ad amarmi da te, Amorosa, e si faccia più bello per il tuo riso, Madre del mio Figlio, Regina del mio Paradiso, Amore del tuo Dio".</p>
 				<p>E ancora, vedendo l'Errore e mirando la Senza Errore: "Vieni a Me, tu che cancelli l'amarezza della disubbidienza umana, della fornicazione umana con Satana, e dell'umana ingratitudine. Io prenderò con te la rivincita su Satana".</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 13">
 				<p><hi type="super">13 </hi>Dio, Padre Creatore, aveva creato l'uomo e la donna con una legge d'amore <hi type="italic">tanto perfetta</hi> che voi non ne potete più nemmeno comprendere le perfezioni. E vi smarrite nel pensare a come sarebbe venuta la specie <hi type="italic">se</hi> l'uomo non l'avesse ottenuta con l'insegnamento di Satana.</p>
 				<p>Guardate le piante da frutto e da seme. Ottengono seme e frutto mediante fornicazione, mediante <hi type="italic">una</hi> fecondazione su <hi type="italic">cento</hi> coniugi? No. Dal fiore maschio esce il polline e, guidato da un complesso di leggi meteoriche e magnetiche, va all'ovario del fiore femmina. Questo si apre e lo riceve e produce. Non si sporca e lo rifiuta poi, come voi fate, per gustare il giorno dopo la stessa sensazione. Produce, e sino alla nuova stagione non si infiora, e quando s'infiora è per riprodurre.</p>
 				<p>Guardate gli animali. <hi type="italic">Tutti.</hi> Avete mai visto un animale maschio ed uno femmina andare l'un verso l'altro per sterile abbraccio e lascivo commercio? No. Da vicino o da lontano, volando, strisciando, balzando o correndo, essi vanno, quando è l'ora, al rito fecondativo, né vi si sottraggono fermandosi al godimento, ma vanno oltre, alle conseguenze serie e sante della prole, unico scopo che nell'uomo, semidio per l'origine di Grazia che Io ho resa intera, dovrebbe fare accettare l'animalità dell'atto, necessario da quando siete discesi <hi type="italic">di un grado</hi> verso l'animale. Voi non fate come le piante e gli animali. Voi avete avuto a maestro Satana, lo avete voluto a maestro e lo volete. E le opere che fate sono degne del maestro che avete voluto. Ma, se foste stati fedeli a Dio, avreste avuto la gioia dei figli, santamente, senza dolore, senza spossarvi in copule oscene, indegne, che ignorano anche le bestie, le bestie senz'anima ragionevole e spirituale.</p>
 				<p>All'uomo e alla donna, depravati da Satana, Dio volle opporre l'Uomo nato da Donna soprasublimata da Dio, al punto di generare senza aver conosciuto uomo: Fiore che genera Fiore senza bisogno di seme, ma per unico bacio del Sole sul calice inviolato del Giglio-Maria.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 14">
 				<p><hi type="super">14 </hi>La rivincita di Dio!</p>
@@ -340,6 +435,7 @@
 				<p>Eppure ecco che il suo vagito ti fa volgere in fuga, tu che non hai paura degli eserciti, e il suo alito purifica il mondo dal tuo fetore. Sei vinto. Il suo nome, il suo sguardo, la sua purezza sono lancia, folgore e pietrone che ti trafiggono, che ti abbattono, che ti imprigionano nella tua tana d'Inferno, o Maledetto, che hai tolto a Dio la gioia d'esser Padre <hi type="italic">di tutti</hi> gli uomini creati! Inutilmente ormai li hai corrotti, questi che erano stati creati innocenti, portandoli a conoscere e a concepire attraverso a sinuosità di lussuria, privando Dio, nella creatura sua diletta, di essere l'elargitore dei figli secondo regole che, se fossero state rispettate, avrebbero mantenuto sulla Terra un equilibrio fra i sessi e le razze, atto ad evitare guerre fra popoli e sventure fra famiglie. Ubbidendo, avrebbero pur conosciuto l'amore.</p>
 				<p>Anzi, solo ubbidendo avrebbero conosciuto l'amore e l'avrebbero avuto. Un possesso pieno e tranquillo di questa emanazione di Dio, che dal soprannaturale scende all'inferiore, perché anche la carne ne giubili santamente, essa che è congiunta allo spirito e creata dallo Stesso che le creò lo spirito. Ora il vostro amore, o uomini, i vostri amori, che sono? O libidine vestita da amore. O paura insanabile di perdere l'amore del coniuge per libidine sua e di altri. Non siete mai più sicuri del possesso del cuore dello sposo o della sposa, da quando libidine è nel mondo. E tremate e piangete e divenite folli di gelosia, assassini talora per vendicare un tradimento, disperati talaltra, abulici in certi casi, dementi in altri. Ecco che hai fatto, Satana, ai figli di Dio. Questi, che hai corrotti, avrebbero conosciuto la gioia di aver figli senza avere il dolore, la gioia d'esser nati senza paura del morire. Ma ora sei vinto in una Donna e per la Donna. D'ora innanzi chi l'amerà tornerà ad esser di Dio, superando le tue tentazioni per poter guardare la sua immacolata purezza. D'ora innanzi, non potendo concepire senza dolore, le madri avranno Lei per conforto. D'ora innanzi l'avranno le spose a guida e i morenti a madre, per cui dolce sarà il morire su quel seno che è scudo contro te, Maledetto, e contro il giudizio di Dio.</p>
 				<p>Maria, piccola voce, hai visto la nascita del Figlio della Vergine e la nascita al Cielo della Vergine. Hai visto perciò che ai <hi type="italic">senza colpa</hi> è sconosciuta la pena del dare alla vita e la pena del darsi alla morte. Ma se alla superinnocente Madre di Dio fu riserbata la perfezione dei celesti doni, a tutti, che nei Primi fossero rimasti innocenti e figli di Dio, sarebbe venuto il generare senza doglie, come era giusto per aver saputo congiungersi e concepire senza lussuria, e il morire senza affanno. La sublime rivincita di Dio sulla vendetta di Satana è stata il portare la perfezione della creatura diletta ad una superperfezione, che annullasse <hi type="italic">almeno in una</hi> ogni ricordo di umanità, suscettibile al veleno di Satana, per cui non da casto abbraccio d'uomo ma da divino amplesso, che fa trascolorare lo spirito nell'estasi del Fuoco, sarebbe venuto il Figlio.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 			<div type="section" osisID="Sezione 15">
 				<p><hi type="super">15 </hi>La Verginità della Vergine!…</p>
@@ -348,8 +444,244 @@
 				<p>È la Vergine. È l'Unica. È la Perfetta. È la Completa. Pensata tale. Generata tale. Rimasta tale. Incoronata tale. Eternamente tale.</p>
 				<p>È la Vergine. È l'abisso della intangibilità, della purezza, della grazia, che si perde nell'Abisso da cui è scaturito: in Dio, Intangibilità, Purezza, Grazia perfettissime.</p>
 				<p>Ecco la rivincita del Dio trino ed uno. Contro alle creature profanate Egli alza questa Stella di perfezione. Contro la curiosità malsana, questa Schiva, paga solo di amare Dio. Contro la scienza del male, questa sublime Ignorante. In Lei non è solo ignoranza dell'amore avvilito; non è solo ignoranza dell'amore che Dio aveva dato agli uomini sposi. Ma più ancora. In Lei è l'ignoranza dei fomiti, eredità del Peccato. In Lei vi è solo la sapienza gelida e incandescente dell'Amore divino. Fuoco che corazza di ghiaccio la carne, perché sia specchio trasparente all'altare dove un Dio si sposa con una Vergine, e non si avvilisce, perché la sua Perfezione abbraccia Quella che, come si conviene a sposa, è di solo un punto inferiore allo Sposo, a Lui soggetta perché Donna, ma senza macchia come Egli è».</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
 			</div>
 		</div>
+
+		<div type="chapter" osisID="Capitolo 6">
+			<title>Purificazione di Anna e offerta di Maria, che è la Fanciulla perfetta per il Regno dei Cieli</title>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+				<p>28 agosto 1944</p>
+			<div type="section" osisID="Sezione 1">
+				<p><hi type="super">1 </hi>Vedo Gioacchino ed Anna, insieme a Zaccaria e Elisabetta, uscire da una casa di Gerusalemme, certo di amici o parenti, e dirigersi al Tempio per la cerimonia della Purificazione.</p>
+				<p>Anna ha fra le braccia la Bambina, tutta avvolta nelle fasce e, anzi, tutta stretta in un ampio tessuto di lana leggera ma che deve essere morbida e calda. E con che cura e amore ella porti e sorvegli la sua creaturina, sollevando di tanto in tanto[18] il lembo del fine e caldo tessuto, per vedere se Maria respira bene, e poi raggiustandolo per ripararla dall'aria rigida di una giornata serena ma fredda di pieno inverno, non è da dire.</p>
+				<p>Elisabetta ha degli involti fra le mani. Gioacchino trascina con una corda due grossi agnelli candidissimi, già più montoni che agnelli. Zaccaria non ha nulla. È tutto bello nella sua veste di lino, che un pesante mantello di lana, pure bianca, lascia intravedere. Uno Zaccaria molto più giovane di quello già visto per la nascita del Battista, nella piena virilità, come Elisabetta è una donna matura, ma ancora d'apparenza fresca, la quale, ogni volta che Anna guarda la Bambina, si piega in estasi sul visino dormente. Anche lei è tutta bella in una veste d'un azzurro tendente al viola scuro e nel velo che le copre il capo, scendendo poi sulle spalle e sul mantello, scuro più della veste. Ma Gioacchino ed Anna, poi, sono solenni nei loro abiti di festa. Contrariamente al solito, egli non ha la tunica marrone scuro. Ma una lunga veste di un rosso cupissimo, noi diremmo ora "rosso S. Giuseppe", e le frange messe al suo manto sono nuovissime e belle. In capo ha lui pure una specie di velo rettangolare, cinto da un cerchio di cuoio. Tutta roba nuova e fine.</p>
+				<p>Anna, oh! non veste di scuro oggi! Ha una veste di un giallo tenuissimo, quasi color avorio vecchio, stretta alla vita, al collo e ai polsi da un cinturone che pare d'argento e oro. Il suo capo è velato da un velo leggerissimo e come damascato, pure trattenuto alla fronte da una lamina sottile ma preziosa. Al collo una collana di filigrana, e braccialetti ai polsi. Pare una regina, anche per la dignità con cui porta la veste e specie il mantello, di un giallo tenue bordato da una greca in ricamo molto bello, tinta su tinta.</p>
+				<p>«Mi sembra vederti il giorno in cui fosti sposa. Ero poco più che fanciulla, allora, ma ricordo ancora quanto eri bella e felice», dice Elisabetta.</p>
+				<p>«Ma ora lo sono di più… e ho voluto mettere la stessa veste per questo rito. L'avevo sempre tenuta per questo… e non speravo più metterla<hi type="italic">per questo</hi>».</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 2">
+				<p><hi type="super">2 </hi>«Il Signore ti ha molto amata…», dice con un sospiro Elisabetta.</p>
+				<p>«È per questo che io gli dò la cosa più amata. Questo mio fiore».</p>
+				<p>«Come farai a strappartelo dal seno quando sarà l'ora?».</p>
+				<p>«Ricordando che non l'avevo e che Dio me lo dette. Sarò sempre più felice ora di allora. Quando la saprò nel Tempio mi dirò: "Prega presso il Tabernacolo, prega il Dio d'Israele anche per la sua mamma" e ne avrò pace. E più grande pace avrò nel dire: "Ella è tutta sua. Quando questi due vecchi felici che l'ebbero dal Cielo non saranno più, Egli, l'Eterno, le sarà Padre ancora". Credi, io ne ho ferma convinzione, questa piccina non è nostra. Nulla io potevo più fare… Egli l'ha messa nel mio seno, dono divino per asciugare il mio pianto e confortare le nostre speranze e le nostre preghiere. Perciò è sua. Noi ne siamo i felici custodi… e di questo ne sia benedetto!».</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 3">
+				<p><hi type="super">3 </hi>Le mura del Tempio sono raggiunte.</p>
+				<p>«Mentre andate alla porta di Nicanore, io vado ad avvertire il sacerdote. E poi verrò io pure», dice Zaccaria. E scompare dietro ad un arco che immette in un cortilone cinto da portici. La comitiva continua ad inoltrare per le successive terrazze. Perché, non so se l'ho mai detto, il recinto del Tempio non è su terreno piano, ma sale, a scaglioni successivi, sempre più in alto. Ad ogni scaglione si accede mediante gradinate, ed in ogni scaglione sono cortili e portici e portali lavoratissimi, di marmo, bronzo e oro. Prima di raggiungere il posto prefisso, si fermano per liberare dagli involti le cose portate, ossia delle focacce, mi pare, larghe e basse e molto unte, della farina bianca, due colombi in una gabbiuzza di vimini e delle grosse monete d'argento, certe patacche così pesanti che per fortuna allora non c'erano tasche. Le avrebbero sfondate.</p>
+				<p>Ecco la bella porta di Nicanore, tutta un lavoro di ricamo nel bronzo pesante laminato d'argento. Là è già Zaccaria, a fianco di un sacerdote tutto pomposo nella sua veste di lino. Anna riceve l'aspersione di un'acqua, suppongo lustrale, e poi riceve l'ordine di avanzare verso l'ara del sacrificio. La Bambina non è più fra le sue braccia. L'ha presa Elisabetta, che resta al di qua della porta. Invece Gioacchino entra dietro la moglie, tirandosi dietro un disgraziato agnello belante. E io… faccio come per la purificazione di Maria: chiudo gli occhi per non vedere sgozzamenti di sorta.</p>
+				<p>Ora Anna è purificata.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 4">
+				<p><hi type="super">4 </hi>Zaccaria dice piano qualche parola al collega, il quale annuisce sorridendo. E poi si accosta al gruppo ricomposto e, felicitandosi con la madre e il padre per la loro gioia e per la loro fedeltà alle promesse, riceve il secondo agnello e la farina e le focacce.</p>
+				<p>«Questa figlia è dunque sacra al Signore? La benedizione di Lui sia con lei e con voi. Ecco Anna che giunge. Sarà una delle sue maestre. Anna di Fanuel, della tribù di Aser. Vieni, donna. Questa piccina è offerta al Tempio in ostia di lode. Tu le sarai maestra, e santa crescerà sotto di te».</p>
+				<p>La già tutta bianca Anna di Fanuel vezzeggia la Bambina, che si è svegliata e guarda coi suoi occhi innocenti e stupiti tutto quel bianco e quell'oro che il sole accende. La cerimonia deve essere compiuta. Non ho visto speciale rito per l'offerta di Maria. Forse bastava il dirlo al sacerdote, e soprattutto a Dio, presso il luogo sacro.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 5">
+				<p><hi type="super">5 </hi>«Vorrei dare l'offerta al Tempio e andare là dove vidi la luce lo scorso anno».</p>
+				<p>Vanno, accompagnati da Anna di Fanuel. Non entrano nel Tempio vero e proprio; si capisce che, essendo donne e trattandosi di una bambina, non vanno neppure là dove andò Maria per offrire il Figlio. Ma, da ben presso alla porta spalancata, guardano nell'interno semiscuro, da cui vengono dolci canti di fanciulle e brillano lumi preziosi che spandono una luce d'oro su due aiuole di testoline velate di bianco, due vere aiuole di gigli.</p>
+				<p>«Fra tre anni anche tu sarai là, mio Giglio», promette Anna a Maria, che guarda come affascinata verso l'interno e sorride al canto lento.</p>
+				<p>«Pare comprenda», dice Anna di Fanuel.</p>
+				<p>«È una bella bambina! Mi sarà cara come fosse delle mie viscere. Te lo prometto, o madre. Se l'età mi concederà di esserlo».</p>
+				<p>«Lo sarai, donna», dice Zaccaria.</p>
+				<p>«Tu la riceverai fra le sacre fanciulle. Io pure vi sarò. Voglio esservi quel giorno per dirle di pregare per noi sin dal primo momento…» e guarda la moglie, che comprende e sospira.</p>
+				<p>La cerimonia è finita e Anna di Fanuel si ritira, mentre gli altri escono dal Tempio parlando fra loro.</p>
+				<p>Odo Gioacchino che dice: «Non due e i migliori, ma tutti li avrei dati i miei agnelli per questa gioia e per dar lode a Dio!».</p>
+				<p>Non vedo altro.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 6">
+				<p><hi type="super">6 </hi><hi type="bold">Dice Gesù:</hi></p>
+				<p>«Salomone fa dire alla Sapienza: "Chi è fanciullo venga a me"(<reference osisRef="Prov.9.4">Pr 9,4</reference>). E veramente dalla rocca, dalle mura della sua città, l'eterna Sapienza diceva all'eterna Fanciulla: "Vieni a Me". Ardeva di averla. Più tardi, il Figlio della Fanciulla purissima dirà: "Lasciate venire a Me i bambini, poiché il Regno dei Cieli è loro e chi non diviene simile a loro non avrà parte nel mio Regno". Le voci si rincorrono e, mentre la voce dal Cielo grida a Maria piccolina: "Vieni a Me", la voce dell'Uomo dice, e pensa a sua Madre nel dirlo: "Venite a Me se sapete esser fanciulli".</p>
+				<p>Il modello ve lo do in mia Madre.</p>
+				<p>Ecco la perfetta Fanciulla dal cuore di colomba semplice e puro, ecco Quella che anni e contatti di mondo non inselvatichiscono in una barbarie di spirito corrotto, tortuoso, bugiardo. Perché Ella<hi type="italic">non lo vuole.</hi> Venite a Me guardando Maria.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 7">
+				<p><hi type="super">7 </hi>Tu che la vedi dimmi: il suo sguardo di infante è molto diverso da quello che le vedesti ai piedi della Croce, o nel giubilo della Pentecoste, o nell'ora che le palpebre scesero sul suo occhio di gazzella per l'ultimo sonno? No. Qui è lo sguardo incerto e stupito dell'infante, poi sarà quello stupito e verecondo dell'Annunciata, e poi quello beato della Madre di Betlemme, e poi quello adorante della mia prima sublime Discepola, poi quello straziato della Torturata del Golgota, poi il radioso sguardo della Risurrezione e Pentecoste, poi quello velato dall'estatico sonno dell'ultima visione. Ma, sia che si apra alle prime viste, sia che si chiuda stanco sull'ultima luce, dopo<hi type="italic">tanto</hi> aver visto di gaudio e di orrore, l'occhio è il sereno, puro, placido lembo di cielo che splende sempre uguale sotto la fronte di Maria.</p>
+				<p>Ira, menzogna, superbia, lussuria, odio, curiosità, non lo sporcano mai delle loro nubi fumose. È l'occhio che guarda Dio con amore, sia che pianga o rida, e che per amore di Dio carezza e perdona e tutto sopporta, e dall'amore per il suo Dio è fatto inattaccabile agli assalti del Male, che tante volte si serve dell'occhio per penetrare nel cuore. L'occhio puro, riposante, benedicente che hanno i puri, i santi, gli innamorati di Dio.</p>
+				<p>Io l'ho detto: "Lume del tuo corpo è l'occhio. Se l'occhio è puro, tutto il tuo corpo sarà illuminato. Ma se l'occhio è torbido, tutta la tua persona sarà nelle tenebre"(<reference osisRef="Matt.6.22-Matt.6.23">Mt 6,22-23</reference>, <reference osisRef="Luke.11.34-Luke.11.35">Lc 11,34-35</reference>). I santi hanno avuto quest'occhio che è lume allo spirito e salvezza alla carne, perché come Maria non hanno che per tutta la vita guardato Dio. Anzi, più ancora, si sono<hi type="italic">ricordati</hi> di Dio.</p>
+				<p>Ti spiegherò, piccola voce, cosa è il senso di questa mia parola».</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+		</div>
+
+		<div type="chapter" osisID="Capitolo 7">
+			<title>La piccola Maria con Anna e Gioacchino. Sulle Sue labbra è già la Sapienza del Figlio.</title>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+				<p>29 agosto 1944</p>
+			<div type="section" osisID="Sezione 1">
+				<p><hi type="super">1 </hi>Vedo ancora Anna. È da ieri sera che la vedo così: è seduta all'inizio della pergola ombrosa, intenta ad un lavoro di cucito. È tutta vestita di un color grigio sabbia, un abito molto semplice e sciolto, forse per il gran caldo che deve fare.</p>
+				<p>Al termine della pergola si vedono i falciatori segare il fieno. Ma non deve essere, però, maggengo, perché l'uva è già dietro a colorarsi d'oro, e un grosso melo mostra fra le foglie scure i suoi frutti che stanno divenendo di una lucida cera gialla e rossa, e poi il campo a grano non è che stoppia su cui ondeggiano lievi le fiammelle dei papaveri e si drizzano rigidi e sereni i fiordalisi, raggiati come una stella e azzurri come il cielo d'oriente.</p>
+				<p>Dalla pergola ombrosa viene avanti una Maria piccina, ma già svelta e indipendente. Il suo breve passo è sicuro e i sandaletti bianchi non inciampano nei sassolini. Ha già in abbozzo il suo dolce passo lievemente ondulante di colomba, ed è tutta bianca come una colombina nella vesticciuola di lino lunga fino ai malleoli e ampia, arricciata al collo da un cordoncino celeste e dalle manichine corte che lasciano vedere gli avambracci rosei e grassottelli. Coi suoi capellucci serici e biondo miele, non molto ricci ma tutti a dolci onde che al termine finiscono in un lieve cannolo, gli occhi di cielo, e il dolce visino lievemente roseo e sorridente, sembra un piccolo angelo. Anche il venticello, che le entra dalle ampie maniche e le gonfia il lino della vesticciola alle spalle, contribuisce a darle l'aspetto di un piccolo angelo con le ali già socchiuse al volo.</p>
+				<p>Nelle manine ha papaveri e fiordalisi e altri fioretti che crescono fra i grani, ma dei quali non so il nome. Va e, quando è prossima alla madre, spicca una breve corsa, gettando una vocina festosa e va, come una tortorina, a fermare il suo volo contro i ginocchi materni, che si sono un poco aperti per riceverla, mentre il lavoro è stato posato lì presso, perché Ella non si punga, e le braccia sono state tese ad abbracciarla.</p>
+				<p>Fin qui ieri sera, e stamane si ripresenta e continua così.</p>
+				<p>«Mamma! Mamma!».</p>
+				<p>La tortorina bianca è tutta nel nido delle ginocchia materne, coi piccoli piedi sull'erba corta e la faccina curva sul grembo materno, e non si vede che l'oro pallido dei suoi capellucci sulla nuca sottile che Anna si curva a baciare con amore.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 2">
+				<p><hi type="super">2 </hi>Poi la tortorina alza il capino e dà i suoi fioretti. Tutti alla mamma, e di ogni fiore dice una storia che si è creata. Questo, così azzurro e grande, è una stella che è venuta giù dal cielo per portare il bacio del Signore alla sua mamma. Ecco, lo baci lì, sul cuore, sul cuore, questo fiorellino celeste, e sentirà che ha sapore di Dio.</p>
+				<p>Quest'altro, invece, che è azzurro più pallido, come sono gli occhi del papà, ha scritto sulle foglie che il Signore vuole molto bene al papà perché è buono.</p>
+				<p>E questo, piccino piccino, unico trovato (è un miosotis), è quello che il Signore ha fatto per dire a Maria che le vuol bene.</p>
+				<p>E questi rossi, lo sa la mamma che sono? Sono pezzi della veste di re David, intrisi nel sangue dei nemici di Israele e seminati sui campi di lotta e di vittoria. Sono nati da quei lembi di eroica veste regale, stracciata nella lotta per il Signore.</p>
+				<p>Invece questo, bianco e gentile, che pare fatto di sette coppe di seta che guardino il cielo, piene di profumi, e che è nato là, presso la sorgente — glie lo ha colto papà di fra le spine — è fatto con la veste che aveva re Salomone quando, nello stesso mese in cui la piccola sua nipote era nata, tanti anni — oh! quanti! quanti prima! — tanti anni prima, egli, nella pompa candida delle sue vesti, camminò(1 Re 8,1-5)in mezzo alla moltitudine d'Israele davanti all'Arca e al Tabernacolo, e giubilò per la nuvola tornata a circondar la sua gloria, e cantò il cantico e la preghiera della sua gioia. «Io voglio esser sempre come questo fiore, e come il re saggio io voglio cantare per tutta la vita cantico e preghiera davanti al Tabernacolo», termina la piccola bocca di Maria.</p>
+				<p>«Mia gioia! Come sai queste cose sante? Chi te le dice? Il padre tuo?».</p>
+				<p>«No. Non so chi sia. Mi par di averle sempre sapute. Ma forse è uno che me le dice e che io non vedo. Forse uno degli angeli che Dio manda a parlare agli uomini che son buoni.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 3">
+				<p><hi type="super">3 </hi>Mamma, me ne racconti ancora?…».</p>
+				<p>«Oh! figlia mia! Quale fatto vuoi sapere?».</p>
+				<p>Maria pensa; seria e raccolta, è da pitturarsi per eternarne l'espressione. Sul visetto infantile si riflettono l'ombre dei suoi pensieri. Sorrisi e sospiri, raggi di sole e ombre di nubi, pensando alla storia d'Israele. Poi sceglie: «Ancora quello di Gabriele a Daniele, in cui è promesso il Cristo».(<reference osisRef="Dan.9.20-Dan.9.27">Dn 9,20-27</reference>)</p>
+				<p>E ascolta ad occhi chiusi, ripetendo piano le parole che la madre le dice, come per ricordarle meglio. Quando Anna termina, chiede: «Quanto manca ancora ad aver l'Emmanuele?».</p>
+				<p>«Trent'anni circa, diletta».</p>
+				<p>«Quanto ancora! E io sarò nel Tempio… Dimmi, se io pregassi <hi type="italic">tanto, tanto, tanto,</hi> giorno e notte, notte e giorno, e volessi esser solo di Dio, per tutta la vita, per questo scopo, l'Eterno mi farebbe grazia di dare prima il Messia al suo popolo?».</p>
+				<p>«Non lo so, cara. Il Profeta dice: "Settanta settimane". Credo che profezia non erri. Ma è tanto buono il Signore», si affretta ad aggiungere Anna, vedendo imperlarsi di un pianto le ciglia d'oro della sua bambina, «che io credo che se tu pregherai <hi type="italic">tanto, tanto, tanto,</hi> Egli ti esaudirà».</p>
+				<p>Il sorriso torna sul visetto che è lievemente alzato verso la madre, e un occhiellino di sole che passa fra due pampini fa brillare le stille del già cessato pianto, come fossero goccioline di rugiada sospese agli steli esilissimi del musco alpino.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 4">
+				<p><hi type="super">4 </hi>«E allora io pregherò e mi farò vergine per questo».</p>
+				<p>«Ma sai tu che vuol dire tal cosa?».</p>
+				<p>«Vuol dire non conoscere amore d'uomo ma solo di Dio. Vuol dire non aver altro pensiero che per il Signore. Vuol dire rimanere bambine nella carne e angeli nel cuore. Vuol dire non avere occhi altro che per guardare Dio, orecchie per udirlo, bocca per lodarlo, mani per offrirsi ostie, piedi per seguirlo veloci, e cuore e vita per darli a Lui».</p>
+				<p>«Te benedetta! Ma allora non avrai mai bambini, tu che ami tanto i bambini e gli agnellini e le tortorine… Sai? Un bambino per una donna è come un agnellino bianco e ricciuto, è come una colombina dalle piume di seta e la bocca di corallo che si possono amare, baciare e sentirsi dire: "Mamma"».</p>
+				<p>«Non importa. Io sarò di Dio. Nel Tempio pregherò. E forse un giorno vedrò l'Emmanuele. La Vergine che gli deve esser Madre, come dice il gran Profeta, già deve esser nata ed è nel Tempio… Io le sarò compagna… e ancella… Oh! sì! Se la potessi conoscere, per luce di Dio, la vorrei servire, quella beata! E, dopo, ella mi porterebbe il Figlio, mi porterebbe al suo Figlio, e servirei Lui pure. Pensa, mamma!… Servire il Messia!!…». Maria è sopraffatta da questo pensiero, che la sublima e la annienta insieme. Con le manine incrociate sul piccolo seno e la testolina un poco curva in avanti e accesa d'emozione, pare una infantile riproduzione dell'Annunciata che io vidi. Riprende: «Ma me lo permetterà il Re d'Israele, l'Unto di Dio, di servirlo?».</p>
+				<p>«Non ne aver dubbi. Non dice re Salomone: "Sessanta son le regine e ottanta le altre mogli <hi type="italic">e le fanciulle son senza numero"</hi> ? (<reference osisRef="Song.6.8">Ct 6,8</reference>) Tu vedi che nella reggia del Re saranno senza numero le fanciulle vergini che serviranno il loro Signore».</p>
+				<p>«Oh! vedi allora che <hi type="italic">devo</hi> esser vergine? <hi type="italic">Lo devo</hi>. Se Egli per madre vuole una vergine, è segno che ama sopra ogni cosa la verginità. Voglio mi ami, me, sua serva, per la verginità che mi farà un poco simile alla sua Madre diletta… Questo voglio…</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 5">
+				<p><hi type="super">5 </hi>Vorrei anche esser peccatrice, tanto peccatrice, se non temessi di offendere il Signore… Dimmi, mamma. Si può esser peccatrici <hi type="italic">per amore di Dio</hi>?».</p>
+				<p>«Ma che dici, tesoro? Io non comprendo».</p>
+				<p>«Voglio dire: peccare per poter essere amata da Dio che diviene Salvatore. Si salva chi è perduto. Non è vero? Io vorrei esser salvata dal Salvatore per avere il suo sguardo d'amore. Per questo vorrei peccare, ma non fare peccato che lo disgusti. Come può salvarmi se non mi perdo?».</p>
+				<p>Anna è sbalordita. Non sa più che dire. La soccorre Gioacchino che, camminando sull'erba, si è avvicinato senza rumore dietro la siepe dei tralci bassi.</p>
+				<p>«Ti ha salvata avanti, perché sa che tu lo ami e vuoi amare Lui solo. Per questo tu sei già redenta e puoi esser vergine come tu vuoi», dice Gioacchino.</p>
+				<p>«Davvero, padre mio?». Maria gli si stringe ai ginocchi e lo guarda con le chiare stelle dei suoi occhi, così simili a quelli paterni e così felici per questa speranza che il padre le dà.</p>
+				<p>«In verità, piccolo amore. Guarda. Io ti portavo ora questo piccolo passero volato, al suo primo volo, presso la fonte. Avrei potuto lasciarlo, ma le sue deboli ali e le zampine di seta non avevano forza di sollevarsi a nuovo volo o di rattenerlo sulle pietre muscose che scivolano. Sarebbe caduto nella fonte. Non ho aspettato che avvenisse.</p>
+				<p>L'ho preso e te lo dono. Ne farai ciò che vuoi. Il fatto è che è stato salvato prima di cadere nel pericolo. Lo stesso, Dio ha fatto con te. Ora dimmi, Maria. Ho amato più il passero salvandolo prima, o l'avrei amato di più salvandolo poi?».</p>
+				<p>«<hi type="italic">Ora</hi> l'hai amato, perché non hai permesso si facesse male coll'acqua gelata».</p>
+				<p>«E Dio ti ha amata di più, perché ti ha salvata avanti che tu peccassi».</p>
+				<p>«Ed io allora lo amerò del tutto. <hi type="italic">Del tutto</hi>. Passerino bello, io son come te. Il Signore ci ha amati in modo uguale, dandoci salvezza… Ora io ti alleverò e poi ti lascerò andare. E tu canterai nel bosco e io nel Tempio le lodi di Dio, e diremo: "Manda, manda il tuo Promesso a chi attende".</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 6">
+				<p><hi type="super">6 </hi>Oh! papà mio! Quando mi conduci al Tempio?».</p>
+				<p>«Presto, mia perla. Ma non ti duole lasciare il padre tuo?».</p>
+				<p>«Tanto! Ma tu verrai… e poi, se non facesse male, che sacrificio sarebbe?».</p>
+				<p>«E ti ricorderai di noi?».</p>
+				<p>«Sempre. Dopo la preghiera per l'Emmanuele io pregherò per voi. Che Dio vi dia gioia e lunga vita… sino al giorno in cui Egli sarà Salvatore. Poi dirò che vi prenda per portarvi alla Gerusalemme del Cielo».</p>
+				<p>La visione mi cessa con Maria stretta nel laccio delle braccia paterne…</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 7">
+				<p><hi type="super">7 </hi><hi type="bold">Dice Gesù:</hi></p>
+				<p>«Sento già i commenti dei dottori del cavillo: "Come può una bambina di non ancora tre anni parlare così? È una esagerazione". E non riflettono che loro mi fanno mostruoso alterando la mia infanzia ad atti da adulto.</p>
+				<p>L'intelligenza non viene a tutti nello stesso modo e tempo. La Chiesa ha fissato la responsabilità delle azioni a sei anni, perché quella è l'età in cui anche un tardivo può distinguere, almeno rudimentalmente, il bene e il male. Ma vi sono bambini che molto prima sono capaci di <hi type="italic">discernere</hi> e <hi type="italic">intendere</hi> e <hi type="italic">volere</hi> con ragione già sufficientemente sviluppata. La piccola Imelde Lambertini, Rosa da Viterbo, Nellie Organ, Nennolina, vi diano base, o dottori difficili, per credere che mia Madre potesse pensare e parlare così. Non ho preso che quattro nomi a caso nelle migliaia di santi bambini che popolano il mio Paradiso dopo aver ragionato da adulti sulla Terra per più o meno anni.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 8">
+				<p><hi type="super">8 </hi>Cosa è la ragione? Un dono di Dio. Dio la può dunque dare nella misura che vuole, a chi vuole e quando vuole darla. La ragione è, anzi, una delle cose che più vi fanno somiglianti a Dio, Spirito intelligente e ragionante. La ragione e l'intelligenza furono grazie date da Dio all'Uomo nel Paradiso terrestre. E come erano vive quando la Grazia era viva, ancora intatta e operante nello spirito dei due Primi!</p>
+				<p>Nel libro di Gesù Bar Sirac è detto: Ogni sapienza viene dal Signore Iddio ed è stata sempre con Lui anche avanti i secoli". (<reference osisRef="Sir.1.1-Sir.1.8">Sir 1,1-8</reference>) Quale sapienza avrebbero perciò avuto gli uomini se fossero rimasti figli a Dio?"Ogni sapienza viene dal Signore Iddio ed è stata sempre con Lui anche avanti i secoli". Quale sapienza avrebbero perciò avuto gli uomini se fossero rimasti figli a Dio?</p>
+				<p>Le vostre lacune nell'intelligenza sono il frutto naturale del vostro decadimento nella Grazia e nell'onestà. Perdendo la Grazia vi siete allontanata, per secoli, la Sapienza. Come meteora che si nasconde dietro a nebulosità di chilometri, la Sapienza non vi è più giunta coi suoi netti bagliori, ma attraverso foschie che le prevaricazioni vostre rendevano sempre più gravi.</p>
+				<p>Poi è venuto il Cristo e vi ha reso la Grazia, dono supremo dell'amore di Dio. Ma voi la sapete custodire, questa gemma, netta e pura? No. Quando non la frantumate con individuale volontà di peccato, la sporcate con le continue colpe minori, le debolezze, le simpatie al vizio, anche le simpatie, che, se non sono veri coniugi col vizio settiforme, sono indebolimento della luce della Grazia e della sua attività. Avete poi, a indebolire la magnifica luce dell'intelligenza che Dio aveva dato ai Primi, secoli e secoli di corruzioni, che si ripercuotono deleterie sul fisico e sulla mente.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 9">
+				<p><hi type="super">9 </hi>Ma Maria era non solo la Pura, la nuova Eva ricreata per gioia di Dio: <hi type="italic">era la super Eva</hi>, era il Capolavoro dell'Altissimo, era la Piena di Grazia, era la Madre del Verbo nella mente di Dio.</p>
+				<p>"<hi type="italic">Fonte della Sapienza</hi>" dice Gesù Bar Sirac "<hi type="italic">è il Verbo</hi>". Il Figlio non avrà, dunque, messo sul labbro della Madre la sua sapienza? Se a un profeta (<reference osisRef="Isa.6.6-Isa.6.7">Is 6,6-7</reference>), che doveva dire le parole che il Verbo, la Sapienza, gli affidava per dirle agli uomini, fu mondata la bocca coi carboni ardenti, non avrà l'Amore, alla sua Sposa infante che doveva portare la Parola, nettata ed esaltata la favella, perché non più parlasse da bambina e poi da donna, ma solo e sempre da creatura celeste, fusa alla gran luce e sapienza di Dio?</p>
+				<p>Il miracolo non è nell'intelligenza superiore mostrata in puerile età da Maria, come poi da Me. Il miracolo è nel contenere la Intelligenza infinita, che vi abitava, negli argini atti a non trasecolare le folle e a non svegliare l'attenzione satanica.</p>
+				<p>Ancora parlerò su questo, che rientra nel "ricordarsi" che i santi hanno di Dio».</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+		</div>
+
+		<div type="chapter" osisID="Capitolo 8">
+			<title>Maria accolta nel Tempio. Ella, nella sua umiltà, non sapeva di essere la Piena di Sapienza.</title>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+				<p>30 agosto 1944.</p>
+			<div type="section" osisID="Sezione 1">
+				<p><hi type="super">1 </hi>Vedo Maria fra mezzo al padre e alla madre camminare per le vie di Gerusalemme.</p>
+				<p>I passanti si fermano a guardare la bella Bambina, tutta vestita di un bianco di neve e avvolta in un leggerissimo tessuto che per i suoi disegni, a rami e fiori, più opachi fra il tenue dello sfondo, mi pare sia lo stesso che aveva Anna il giorno della sua Purificazione. Soltanto che, mentre ad Anna esso non sorpassava la cintura, a Maria, piccolina, scende fin quasi a terra e l'avvolge in una nuvoletta leggera e lucida di una vaghezza rara.</p>
+				<p>Il biondo dei capelli sciolti sulle spalle, meglio, sulla nuca gentile, traspare là dove non vi è damascatura nel velo, ma unicamente il fondo leggerissimo. Il velo è trattenuto sulla fronte da un nastro di un azzurro pallidissimo, su cui, certamente per opera della mamma, sono ricamati in argento dei piccoli gigli.</p>
+				<p>L'abito, come ho detto, candidissimo, scende fino a terra, e i piedini appena si mostrano nel passo, coi loro sandaletti bianchi. Le manine sembrano due petali di magnolia che escano dalla lunga manica. Tolto il cerchio azzurro del nastro, non vi è altro punto di colore. Tutto è bianco. Maria pare vestita di neve.</p>
+				<p>Gioacchino ed Anna sono vestiti, lui con lo stesso abito della Purificazione, e Anna invece di viola scurissimo. Anche il mantello, che le copre anche il capo, è viola scuro. Ella se lo tiene molto calato sugli occhi. Due poveri occhi di mamma, rossi di pianto, che non vorrebbero piangere e non vorrebbero, soprattutto, esser visti piangere, ma che non possono non piangere sotto la protezione del manto. Protezione che serve per i passanti, e anche per Gioacchino, che del resto ha il suo occhio, sempre sereno, oggi arrossato e opaco di lacrime già scese e ancora scendenti, e che va molto curvo sotto il suo velo messo a quasi turbante, con le ali laterali che scendono lungo il viso. Un vecchio affatto, ora, Gioacchino. Chi lo vede deve pensarlo nonno e forse bisnonno della piccolina che egli ha per mano. La pena di perderla dà al povero padre un passo strascicante, una lassezza di tutto il portamento che lo invecchia di un vent'anni, e il viso pare quello di un malato oltre che vecchio, tanto è stanco e triste, con la bocca che ha un lieve tremito fra le due rughe, che sono così marcate oggi, ai lati del naso.</p>
+				<p>Cercano i due di celare il pianto. Ma, se possono farlo per molti, non lo possono per Maria, che per la sua statura li vede dal basso in alto e, alzando il piccolo capo, guarda alternativamente il padre e la madre. Ed essi si sforzano di sorriderle con la bocca che trema, e aumentano la stretta della loro mano sulla manina minuta ogni volta che la loro figliolina li guarda e sorride. Devono pensare: «Ecco. Un'altra volta di meno da vedere questo sorriso».</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 2">
+				<p><hi type="super">2 </hi>Vanno piano. A rilento. Pare vogliano protrarre il più a lungo il loro cammino. Tutto serve a fermarsi… Ma una strada deve pur finire! E questa sta per finire. Ecco là, in cima a questo ultimo pezzo di strada che sale, le mura di cinta del Tempio. Anna ha un gemito e stringe più forte la manina di Maria.</p>
+				<p>«Anna, cara, io sono con te!», dice una voce uscendo dal­l'ombra di un basso arco gettato su un incrocio di strade. E Elisabetta, che certo era in attesa, la raggiunge e stringe al cuore. E, posto che Anna piange, le dice: «Vieni, vieni in questa casa amica per un poco. Poi andremo insieme. Vi è anche Zaccaria». Entrano tutti in una stanza bassa e scura, in cui è lume un vasto fuoco. La padrona, certo amica di Elisabetta, ma estranea ad Anna, cortesemente si ritira lasciando liberi i sopraggiunti.</p>
+				<p>«Non credere che io sia pentita, o che dia con mala volontà il mio tesoro al Signore», spiega Anna fra le lacrime… «ma è che il cuore… oh! il mio cuore come duole, il mio vecchio cuore che torna nella sua solitudine di senza figli!… Se sentissi…».</p>
+				<p>«Lo capisco, Anna mia… Ma tu sei buona e Dio ti conforterà nella tua solitudine. Maria pregherà per la pace della sua mamma. Non è vero?».</p>
+				<p>Maria carezza le mani materne e le bacia, se le passa sul viso per esserne carezzata, e Anna serra fra le sue quel visino e lo bacia, lo bacia. Non si sazia di baciare.</p>
+				<p>Entra Zaccaria e saluta: «Ai giusti la pace del Signore».</p>
+				<p>«Sì», dice Gioacchino, «supplicaci pace, perché le nostre viscere tremano nell'offerta come quelle di padre Abramo(<reference osisRef="Gen.22.1-Gen.22.18">Gn 22,1-18</reference>) mentre saliva il monte, e noi non troveremo altra offerta per riscattare questa. Né lo vorremmo fare, perché siamo fedeli a Dio. Ma soffriamo, Zaccaria. Sacerdote di Dio, comprendici e non ti scandalizzare di noi».</p>
+				<p>«Mai. Anzi, il vostro dolore, che sa non soverchiare il lecito e portarvi all'infedeltà, mi è scuola nell'amare l'Altissimo. Ma fatevi cuore.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 3">
+				<p><hi type="super">3 </hi>Anna profetessa avrà molta cura di questo fiore di Davide e Aronne. In questo momento è l'unico giglio della sua stirpe santa che Davide abbia nel Tempio, e sarà curato come perla regale. Per quanto i tempi volgano al termine e dovrebbe esser cura delle madri della stirpe di consacrare le figlie al Tempio, poiché da una vergine di Davide uscirà il Messia, pure, per rilassamento di fede, i posti delle vergini sono vuoti. Troppo poche nel Tempio, e di questa stirpe regale nessuna, dopo che ne uscì sposa, or sono tre anni, Sara di Eliseo. Vero che ancora sei lustri mancano al termine, ma… Ebbene, speriamo che Maria sia la prima di molte vergini di Davide davanti al Sacro Velo. E poi… chissà…».</p>
+				<p>Zaccaria non dice altro. Ma guarda pensoso Maria. Poi riprende: «Io pure veglierò su Lei. Sono sacerdote ed ho il mio potere là dentro. Lo userò per quest'angelo. E Elisabetta verrà sovente a trovarla…».</p>
+				<p>«Oh! di certo! Io ho tanto bisogno di Dio e verrò a dirlo a questa Bambina, perché lo dica all'Eterno».</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 4">
+				<p><hi type="super">4 </hi>Anna si è rinfrancata. Elisabetta, per sollevarla più ancora, chiede: «Non è il tuo velo di sposa questo? Oppure hai filato del nuovo bisso?».</p>
+				<p>«È quello. Lo consacro con Essa al Signore. Non ho più occhi… E anche le ricchezze sono molto scemate per tasse e sventure… Non mi era lecito fare gravi spese. Ho provveduto solo ad un ricco corredo per il suo tempo nella Casa di Dio e per poi… perché penso che non sarò io quella che la vestirà per le nozze… e voglio sia sempre la mano di sua mamma, anche se fredda e immota, che la para alle nozze e le fila i lini e le vesti da sposa».</p>
+				<p>«Oh! perché pensare così?!».</p>
+				<p>«Sono vecchia, cugina. Mai come sotto questo dolore me lo sento. L'ultime forze della mia vita le ho date a questo fiore, per portarlo e nutrirlo, ed ora… ed ora… sulle estreme soffia il dolore di perderlo e le disperde».</p>
+				<p>«Non dire così, per Gioacchino».</p>
+				<p>«Hai ragione. Vedrò di vivere per il mio uomo».</p>
+				<p>Gioacchino ha fatto mostra di non sentire, intento ad ascoltare Zaccaria, ma ha udito e sospira forte con gli occhi lucidi di pianto.</p>
+				<p>«Siamo a mezzo fra terza e sesta. Credo sarebbe bene andare», dice Zaccaria.</p>
+				<p>Si alzano tutti per rimettersi i mantelli e andare.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 5">
+				<p><hi type="super">5 </hi>Ma, prima di uscire, Maria si inginocchia sulla soglia a braccia aperte: un piccolo cherubino implorante. «Padre! Madre! La vostra benedizione!».</p>
+				<p>Non piange, la piccola forte. Ma le labbruzze tremano e la voce, spezzata da un interno singulto, ha più che mai il trepido gemito della tortorina. Il visetto è più pallido e l'occhio ha quello sguardo di rassegnata angoscia che, più forte sino a divenire inguardabile senza soffrirne profondamente, le vedrò sul Calvario e nel Sepolcro.</p>
+				<p>I genitori la benedicono e la baciano. Una, due, dieci volte. Non se ne sanno saziare… Elisabetta piange silenziosamente e Zaccaria, per quanto voglia non mostrarlo, è commosso.</p>
+				<p>Escono. Maria fra il padre e la madre, come prima. Davanti, Zaccaria e la moglie. Eccoli dentro le mura del Tempio.</p>
+				<p>«Vado dal Sommo Sacerdote. Voi salite sino alla grande terrazza».</p>
+				<p>Valicano tre cortili e tre atri sovrapposti. Eccoli ai piedi del vasto cubo di marmo incoronato d'oro. Ogni cupola, convessa come una mezza arancia enorme, sfolgora al sole che ora, sul mezzodì, cade a perpendicolo sul vasto cortile che circonda il fabbricato solenne, ed empie il vasto piazzale e l'ampia scalinata che conduce al Tempio. Solo il portico che fronteggia la scalinata, lungo la facciata, è in ombra, e la porta altissima di bronzo e oro è ancor più scura e solenne in tanta luce.</p>
+				<p>Maria pare ancor più di neve fra il gran sole. Eccola ai piedi della scalinata. Fra padre e madre. Come deve battere il cuore a quei tre! Elisabetta è a fianco di Anna, ma un poco indietro, di un mezzo passo.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 6">
+				<p><hi type="super">6 </hi>Uno squillo di trombe argentine e la porta gira sui cardini, che pare diano suono di cetra nel girare sulle sfere di bronzo. Appare l'interno con le sue lampade nel profondo, ed un corteo viene dall'interno verso l'esterno. Un pomposo corteo fra suoni di trombe argentee, nuvole d'incenso e luci.</p>
+				<p>Eccolo sulla soglia. Davanti, colui che deve essere il Sommo Sacerdote. Un vecchio solenne, vestito di lino finissimo, e sul lino una più corta tunica pure di lino, e su questa una specie di pianeta, qualcosa fra la pianeta e la veste dei diaconi, multicolore: porpora e oro, violaceo e bianco vi si alternano e brillano come gemme al sole; due gemme vere brillano su esso ancor più vivamente al sommo delle spalle. Forse sono fibbie con il loro castone prezioso. Sul petto, una larga placca splendente di gemme, sostenuta da una catena d'oro. E pendagli e ornamenti splendono alla base della tunica corta, e oro splende sulla fronte al disopra del copricapo, che mi ricorda quello dei preti ortodossi, la loro mitra fatta a cupola anziché a punta come quella cattolica.</p>
+				<p>Il solenne personaggio viene avanti, da solo, sino al principio della scalinata, nell'oro del sole che lo fa ancora più splendido. Gli altri attendono stesi a corona fuor dalla porta, sotto il portico ombroso. A sinistra è un gruppo candido di fanciulle con Anna profetessa e altre anziane, certo maestre.</p>
+				<p>Il Sommo Sacerdote guarda la Piccola e sorride. Le deve parere ben piccina ai piedi di quella scalinata degna di un tempio egizio! Alza le braccia al cielo in una preghiera. Tutti curvano il capo, come annichiliti davanti alla maestà sacerdotale in comunione con la Maestà eterna.</p>
+				<p>Poi, ecco. Un cenno a Maria.</p>
+				<p>E Lei si stacca dalla madre e dal padre e sale, come affascinata sale. E sorride. Sorride all'ombra del Tempio, là dove scende il Velo prezioso… È in alto della scalinata, ai piedi del Sommo Sacerdote che le impone le mani sul capo. La vittima è accettata. Quale ostia più pura aveva mai avuto il Tempio? Poi si volge e, tenendole la mano sulla spalla come a condurla all'ara, l'Agnellina senza macchia, la conduce presso la porta del Tempio.</p>
+				<p>Prima di farla entrare chiede: «Maria di David, sai il tuo voto?».</p>
+				<p>Al «sì» argentino, che gli risponde, egli grida: «Entra, allora. Cammina in mia presenza e <hi type="italic">sii perfetta</hi>».</p>
+				<p>E Maria entra e l'ombra l'inghiotte, e lo stuolo delle vergini e delle maestre, poi quello dei leviti, sempre più la nascondono, la separano… Non c'è più… Ora anche la porta gira sui suoi cardini armoniosi. Uno spiraglio sempre più stretto permette vedere il corteo che inoltra verso il Santo. Ora è proprio un filo. Ora non è più niente. Chiusa. All'ultimo accordo dei sonori cardini risponde un singhiozzo dei due vecchi e un grido unico: «Maria! Figlia!»; e poi due gemiti che si invocano: «Anna!», «Gioacchino!»; e terminano: «Diamo gloria al Signore, che la riceve nella sua Casa e la conduce sulla sua via».</p>
+				<p>E tutto finisce così.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 7">
+				<p><hi type="super">7 </hi><hi type="bold">Dice Gesù:</hi></p>
+				<p>«Il Sommo Sacerdote aveva detto: "Cammina in mia presenza e sii perfetta". Il Sommo Sacerdote non sapeva che parlava alla Donna solo a Dio inferiore in perfezione. Ma parlava in nome di Dio e perciò sacro era il suo ordine. Sempre sacro, ma specie alla Ripiena di Sapienza.</p>
+				<p>Maria aveva meritato che la "Sapienza la prevenisse e le si mostrasse per prima", perché "dal principio del suo giorno Ella aveva vegliato alla sua porta e, desiderando d'istruirsi, <hi type="italic">per amore,</hi> volle esser pura per conseguire l'amore perfetto e meritare d'averla a maestra".</p>
+				<p>Nella sua umiltà non sapeva di possederla da prima d'esser nata e che l'unione con la Sapienza non era che un continuare i divini palpiti del Paradiso. Non poteva immaginare questo. E quando nel silenzio del cuore Dio le diceva parole sublimi, Ella umilmente pensava fossero pensieri di orgoglio e, levando a Dio un cuore innocente, supplicava: "Pietà della tua serva, Signore!". Oh! veramente che la vera Sapiente, la eterna Vergine, ha avuto un sol pensiero sin dall'alba del suo giorno: "Rivolgere a Dio il suo cuore sin dal mattino della vita e vegliare per il Signore, pregando davanti all'Altissimo", chiedendo perdono per la debolezza del suo cuore, come la sua umiltà le suggeriva di credere, e non sapeva di anticipare le richieste di perdono per i peccatori, che avrebbe fatto ai piedi della Croce insieme al Figlio morente.</p>
+				<p>"Quando(<reference osisRef="Sir.39.6">Sir 39,6</reference>, <reference osisRef="Prov.8">Pr 8</reference>) poi il gran Signore lo vorrà, Ella sarà riempita dello Spirito d'intelligenza" e comprenderà allora la sua sublime missione. Per ora non è che una pargola, che nella pace sacra del Tempio allaccia, "riallaccia" sempre più stretti i suoi conversari, i suoi affetti, i suoi ricordi con Dio.</p>
+				<p>Questo è per tutti.</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+			<div type="section" osisID="Sezione 8">
+				<p><hi type="super">8 </hi>Ma per te, piccola Maria, non ha nulla di particolare da dire il tuo Maestro? "Cammina in mia presenza, sii perciò perfetta". Modifico lievemente la sacra frase e te la dò per ordine. Perfetta nell'amore, perfetta nella generosità, perfetta nel soffrire. Guarda una volta di più la Mamma. E medita su quello che tanti ignorano, o <hi type="italic">vogliono ignorare</hi>, perché il dolore è materia troppo ostica al loro palato e al loro spirito. Il dolore. Maria lo ha avuto dalle prime ore della vita. Esser perfetta come Ella era, era possedere anche una perfetta sensibilità. Perciò più acuto doveva esserle il sacrificio. Ma per questo più meritorio. Chi possiede purezza possiede amore, chi possiede amore possiede sapienza, chi possiede sapienza possiede generosità ed eroismo, perché <hi type="italic">sa</hi> il perché per cui si sacrifica.</p>
+				<p>In alto il tuo spirito anche se la croce ti curva, ti spezza, ti uccide. Dio è con te».</p>
+				<reference osisRef="evangelovaltorta:Volume 1/Indice">Torna all'Indice del Volume 1</reference>
+			</div>
+		</div>
+
+
 
 	</div>
 </div>
