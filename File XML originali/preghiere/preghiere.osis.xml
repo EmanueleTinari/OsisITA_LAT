@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<osis xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace 
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd" 
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace">
+
+<osisText osisRefWork="GenBook" xml:lang="en" osisIDWork="preghiere">
+<header>
+<work osisWork="preghiere">
+<title>Preghiere</title>
+</work>
+<work osisWork="Bible">
+<refSystem>Bible</refSystem>
+</work>
+</header>
+
+	<div type="book" osisID="Preghiere">
+		<title>Preghiere</title>
+
+		<div type="index" osisID="Indice">
+		<index index="topic" level1="Indice"/>
+			<title>Indice</title>
+			<list>
+				<item><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></item>
+				<item><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></item>
+				<item><reference osisRef="preghiere:Preghiere/Credo Niceno-Costantinopolitano">Credo Niceno-Costantinopolitano</reference></item>
+				<item><reference osisRef="preghiere:Preghiere/Simbolo degli Apostoli">Simbolo degli Apostoli</reference></item>
+				<item><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></item>
+				<item><reference osisRef="preghiere:Preghiere/Eterno riposo">Eterno riposo</reference></item>
+				<item><reference osisRef="preghiere:Preghiere/Angelo di Dio">Angelo di Dio</reference></item>
+				<item><reference osisRef="preghiere:Preghiere/Salve Regina">Salve Regina</reference></item>
+				<item><reference osisRef="preghiere:Preghiere/Le quindici orazioni di Santa Brigida, la corona brigidina">Le quindici orazioni di Santa Brigida, la corona brigidina</reference></item>
+				<item><reference osisRef="preghiere:9">Capitolo 9</reference></item>
+			</list>
+		</div>
+
+		<div type="chapter" osisID="Padre nostro">
+			<reference osisRef="preghiere:Indice">Torna all'Indice delle preghiere</reference>
+				<lg>
+					<l level="1"><title>Padre nostro</title></l>
+					<p></p>
+					<l level="1"><hi type="bold">«Padre nostro che sei nei cieli,</hi></l>
+					<l level="1"><hi type="bold">sia santificato il tuo nome,</hi></l>
+					<l level="1"><hi type="bold">venga il tuo regno,</hi></l>
+					<l level="1"><hi type="bold">sia fatta la tua volontà,</hi></l>
+					<l level="1"><hi type="bold">come in cielo così in terra.</hi></l>
+					<l level="1"><hi type="bold">Dacci oggi il nostro pane quotidiano,</hi></l>
+					<l level="1"><hi type="bold">e rimetti a noi i nostri debiti</hi></l>
+					<l level="1"><hi type="bold">come anche noi li rimettiamo ai nostri debitori,</hi></l>
+					<l level="1"><hi type="bold">e non abbandonarci alla tentazione,</hi></l>
+					<l level="1"><hi type="bold">ma liberaci dal male.</hi></l>
+					<l level="1"><hi type="bold">✟ Amen.»</hi></l>
+					<l level="1"><title type="sub"><hi type="italic">Pater Noster</hi></title></l>
+					<p></p>
+					<l level="1"><hi type="italic">«Pater Noster qui es in cælis:</hi></l>
+					<l level="1"><hi type="italic">sanctificétur Nomen Tuum,</hi></l>
+					<l level="1"><hi type="italic">advéniat Regnum Tuum,</hi></l>
+					<l level="1"><hi type="italic">fiat volúntas Tua,</hi></l>
+					<l level="1"><hi type="italic">sicut in cælo, et in terra.</hi></l>
+					<l level="1"><hi type="italic">Panem nostrum cotidiánum da nobis hódie,</hi></l>
+					<l level="1"><hi type="italic">et dimítte nobis débita nostra,</hi></l>
+					<l level="1"><hi type="italic">sicut et nos dimittimus debitóribus nostris,</hi></l>
+					<l level="1"><hi type="italic">et ne nos indúcas in tentatiónem,</hi></l>
+					<l level="1"><hi type="italic">sed líbera nos a Malo.</hi></l>
+					<l level="1"><hi type="italic">✟ Amen.»</hi></l>
+				</lg>
+			<reference osisRef="preghiere:Indice">Torna all'Indice delle preghiere</reference>
+		</div>
+
+		<div type="chapter" osisID="Gloria al Padre">
+			<reference osisRef="preghiere:Indice">Torna all'Indice delle preghiere</reference>
+				<lg>
+					<l level="1"><title>Gloria al Padre</title></l>
+					<p></p>
+					<l level="1"><hi type="bold">«Gloria al Padre</hi></l>
+					<l level="1"><hi type="bold">e al Figlio</hi></l>
+					<l level="1"><hi type="bold">e allo Spirito Santo.</hi></l>
+					<l level="1"><hi type="bold">Come era nel principio,</hi></l>
+					<l level="1"><hi type="bold">ora e sempre,</hi></l>
+					<l level="1"><hi type="bold">nei secoli dei secoli.</hi></l>
+					<l level="1"><hi type="bold">✟ Amen.»</hi></l>
+					<l level="1"><title type="sub"><hi type="italic">Glória Patri</hi></title></l>
+					<p></p>
+					<l level="1"><hi type="italic">«Glória Patri</hi></l>
+					<l level="1"><hi type="italic">et Fílio</hi></l>
+					<l level="1"><hi type="italic">et Spirítui Sancto.</hi></l>
+					<l level="1"><hi type="italic">Sicut erat in princípio,</hi></l>
+					<l level="1"><hi type="italic">et nunc et semper</hi></l>
+					<l level="1"><hi type="italic">et in sǽcula sæculórum.</hi></l>
+					<l level="1"><hi type="italic">✟ Amen.»</hi></l>
+				</lg>
+			<reference osisRef="preghiere:Indice">Torna all'Indice delle preghiere</reference>
+		</div>
+
+		<div type="chapter" osisID="Credo Niceno-Costantinopolitano">
+			<reference osisRef="preghiere:Indice">Torna all'Indice delle preghiere</reference>
+				<lg>
+					<l level="1"><title>Credo Niceno-Costantinopolitano</title></l>
+					<p></p>
+					<l level="1"><hi type="bold">«Credo in un solo Dio</hi></l>
+					<l level="1"><hi type="bold">Padre onnipotente,</hi></l>
+					<l level="1"><hi type="bold">Creatore del cielo e della terra,</hi></l>
+					<l level="1"><hi type="bold">di tutte le cose visibili e invisibili.</hi></l>
+					<l level="1"><hi type="bold">Credo in un solo Signore, Gesù Cristo,</hi></l>
+					<l level="1"><hi type="bold">unigenito Figlio di Dio,</hi></l>
+					<l level="1"><hi type="bold">nato dal Padre prima di tutti i secoli:</hi></l>
+					<l level="1"><hi type="bold">Dio da Dio, Luce da Luce,</hi></l>
+					<l level="1"><hi type="bold">Dio vero da Dio vero,</hi></l>
+					<l level="1"><hi type="bold">generato, non creato,</hi></l>
+					<l level="1"><hi type="bold">della stessa sostanza del Padre;</hi></l>
+					<l level="1"><hi type="bold">per mezzo di lui tutte le cose sono state create.</hi></l>
+					<l level="1"><hi type="bold">Per noi uomini e per la nostra salvezza discese dal cielo,</hi></l>
+					<l level="1"><hi type="bold">e per opera dello Spirito Santo</hi></l>
+					<l level="1"><hi type="bold">si è incarnato nel seno della Vergine Maria</hi></l>
+					<l level="1"><hi type="bold">e si è fatto uomo.</hi></l>
+					<l level="1"><hi type="bold">Fu crocifisso per noi sotto Ponzio Pilato,</hi></l>
+					<l level="1"><hi type="bold">morì e fu sepolto.</hi></l>
+					<l level="1"><hi type="bold">Il terzo giorno è risuscitato, secondo le Scritture,</hi></l>
+					<l level="1"><hi type="bold">è salito al cielo, siede alla destra del Padre.</hi></l>
+					<l level="1"><hi type="bold">E di nuovo verrà, nella gloria,</hi></l>
+					<l level="1"><hi type="bold">per giudicare i vivi e i morti,</hi></l>
+					<l level="1"><hi type="bold">e il suo regno non avrà fine.</hi></l>
+					<l level="1"><hi type="bold">Credo nello Spirito Santo,</hi></l>
+					<l level="1"><hi type="bold">che è Signore e dà la vita,</hi></l>
+					<l level="1"><hi type="bold">e procede dal Padre e dal Figlio.</hi></l>
+					<l level="1"><hi type="bold">Con il Padre e il Figlio è adorato e glorificato,</hi></l>
+					<l level="1"><hi type="bold">e ha parlato per mezzo dei profeti.</hi></l>
+					<l level="1"><hi type="bold">Credo la Chiesa,</hi></l>
+					<l level="1"><hi type="bold">una santa cattolica e apostolica.</hi></l>
+					<l level="1"><hi type="bold">Professo un solo Battesimo</hi></l>
+					<l level="1"><hi type="bold">per il perdono dei peccati.</hi></l>
+					<l level="1"><hi type="bold">Aspetto la risurrezione dei morti</hi></l>
+					<l level="1"><hi type="bold">e la vita del mondo che verrà.</hi></l>
+					<l level="1"><hi type="bold">✟ Amen.»</hi></l>
+					<l level="1"><title type="sub"><hi type="italic">Symbolum Nicænum Costantinopolitanum</hi></title></l>
+					<p></p>
+					<l level="1"><hi type="italic">«Credo in unum Deum,</hi></l>
+					<l level="1"><hi type="italic">Patrem omnipoténtem,</hi></l>
+					<l level="1"><hi type="italic">Factorem cæli et terræ,</hi></l>
+					<l level="1"><hi type="italic">visibílium ómnium et invisibilium.</hi></l>
+					<l level="1"><hi type="italic">Et in unum Dóminum Iesum Christum,</hi></l>
+					<l level="1"><hi type="italic">Filium Dei unigénitum</hi></l>
+					<l level="1"><hi type="italic">et ex Patre natum ante ómnia sǽcula:</hi></l>
+					<l level="1"><hi type="italic">Deum de Deo, Lumen de Lúmine,</hi></l>
+					<l level="1"><hi type="italic">Deum verum de Deo vero,</hi></l>
+					<l level="1"><hi type="italic">génitum, non factum,</hi></l>
+					<l level="1"><hi type="italic">consubstantiálem Patri:</hi></l>
+					<l level="1"><hi type="italic">per quem ómnia facta sunt;</hi></l>
+					<l level="1"><hi type="italic">qui propter nos hómines</hi></l>
+					<l level="1"><hi type="italic">et propter nostram salútem,</hi></l>
+					<l level="1"><hi type="italic">descéndit de cælis,</hi></l>
+					<l level="1"><hi type="italic">et incarnátus est de Spíritu Sancto</hi></l>
+					<l level="1"><hi type="italic">ex Maria Vírgine et homo factus est,</hi></l>
+					<l level="1"><hi type="italic">crucifíxus étiam pro nobis sub Póntio Piláto,</hi></l>
+					<l level="1"><hi type="italic">passus et sepúltus est,</hi></l>
+					<l level="1"><hi type="italic">et resurréxit tértia die secúndum Scriptúras,</hi></l>
+					<l level="1"><hi type="italic">et ascéndit in cælum,</hi></l>
+					<l level="1"><hi type="italic">sedet ad déxteram Patris,</hi></l>
+					<l level="1"><hi type="italic">et íterum ventúrus est cum glória,</hi></l>
+					<l level="1"><hi type="italic">iudicáre vivos et mórtuos,</hi></l>
+					<l level="1"><hi type="italic">cuius regni non erit finis.</hi></l>
+					<br />
+					<l level="1"><hi type="italic">Credo in Spíritum Sanctum,</hi></l>
+					<l level="1"><hi type="italic">Dominum et vivificántem,</hi></l>
+					<l level="1"><hi type="italic">qui ex Patre Filióque procédit,</hi></l>
+					<l level="1"><hi type="italic">qui cum Patre et Fílio simul adorátur et conglorificátur,</hi></l>
+					<l level="1"><hi type="italic">qui locútus est per prophétas.</hi></l>
+					<br />
+					<l level="1"><hi type="italic">Et unam sanctam cathólicam</hi></l>
+					<l level="1"><hi type="italic">et apostólicam Ecclésiam.</hi></l>
+					<br />
+					<l level="1"><hi type="italic">Confíteor unum Baptísma</hi></l>
+					<l level="1"><hi type="italic">in remissiónem peccatórum.</hi></l>
+					<l level="1"><hi type="italic">Et exspécto resurrectiónem mortuórum,</hi></l>
+					<l level="1"><hi type="italic">et vitam ventúri sæculi.</hi></l>
+					<l level="1"><hi type="italic">✟ Amen.»</hi></l>
+				</lg>
+			<reference osisRef="preghiere:1/Indice">Torna all'Indice delle preghiere</reference>
+		</div>
+
+		<div type="chapter" osisID="Simbolo degli Apostoli">
+			<reference osisRef="preghiere:Indice">Torna all'Indice delle preghiere</reference>
+				<lg>
+					<l level="1"><title>Simbolo degli Apostoli</title></l>
+					<p></p>
+					<l level="1"><hi type="bold">«Io credo in Dio, Padre onnipotente,</hi></l>
+					<l level="1"><hi type="bold">Creatore del cielo e della terra.</hi></l>
+					<l level="1"><hi type="bold">E in Gesù Cristo,</hi></l>
+					<l level="1"><hi type="bold">Suo unico Figlio, nostro Signore,</hi></l>
+					<l level="1"><hi type="bold">il quale fu concepito di Spirito Santo,</hi></l>
+					<l level="1"><hi type="bold">nacque da Maria Vergine,</hi></l>
+					<l level="1"><hi type="bold">patì sotto Ponzio Pilato,</hi></l>
+					<l level="1"><hi type="bold">fu crocifisso, morì e fu sepolto;</hi></l>
+					<l level="1"><hi type="bold">discese agli inferi;</hi></l>
+					<l level="1"><hi type="bold">il terzo giorno risuscitò da morte;</hi></l>
+					<l level="1"><hi type="bold">salì al cielo,</hi></l>
+					<l level="1"><hi type="bold">siede alla destra di Dio Padre onnipotente:</hi></l>
+					<l level="1"><hi type="bold">di là verrà a giudicare i vivi e i morti.</hi></l>
+					<br />
+					<l level="1"><hi type="bold">Credo nello Spirito Santo,</hi></l>
+					<l level="1"><hi type="bold">la santa Chiesa cattolica,</hi></l>
+					<l level="1"><hi type="bold">la comunione dei santi,</hi></l>
+					<l level="1"><hi type="bold">la remissione dei peccati,</hi></l>
+					<l level="1"><hi type="bold">la risurrezione della carne,</hi></l>
+					<l level="1"><hi type="bold">la vita eterna.</hi></l>
+					<l level="1"><hi type="bold">✟ Amen.»</hi></l>
+					<l level="1"><title type="sub"><hi type="italic">Symbolum Apostolicum</hi></title></l>
+					<p></p>
+					<l level="1"><hi type="italic">«Credo in Deum Patrem omnipoténtem</hi></l>
+					<l level="1"><hi type="italic">Creatorem cæli et terræ,</hi></l>
+					<l level="1"><hi type="italic">et in Iesum Christum,</hi></l>
+					<l level="1"><hi type="italic">Filium Eius unicum, Dominum nostrum,</hi></l>
+					<l level="1"><hi type="italic">qui concéptus est de Spíritu Sancto,</hi></l>
+					<l level="1"><hi type="italic">natus ex Maria Virgine,</hi></l>
+					<l level="1"><hi type="italic">passus sub Póntio Piláto,</hi></l>
+					<l level="1"><hi type="italic">crucifixus, mórtuus, et sepúltus,</hi></l>
+					<l level="1"><hi type="italic">descéndit ad ínferos,</hi></l>
+					<l level="1"><hi type="italic">tértia die resurréxit a mórtuis,</hi></l>
+					<l level="1"><hi type="italic">ascéndit ad cælos,</hi></l>
+					<l level="1"><hi type="italic">sedet ad déxteram Dei Patris omnipoténtis,</hi></l>
+					<l level="1"><hi type="italic">inde ventúrus est iudicáre vivos et mórtuos.</hi></l>
+					<br />
+					<l level="1"><hi type="italic">Et in Spíritum Sanctum,</hi></l>
+					<l level="1"><hi type="italic">sanctam Ecclésiam cathólicam,</hi></l>
+					<l level="1"><hi type="italic">sanctórum communiónem,</hi></l>
+					<l level="1"><hi type="italic">remissiónem peccatórum,</hi></l>
+					<l level="1"><hi type="italic">carnis resurrectiónem,</hi></l>
+					<l level="1"><hi type="italic">vitam ætérnam.</hi></l>
+					<l level="1"><hi type="italic">✟ Amen.»</hi></l>
+				</lg>
+			<reference osisRef="preghiere:1/Indice">Torna all'Indice delle preghiere</reference>
+		</div>
+
+		<div type="chapter" osisID="Ave Maria">
+			<reference osisRef="preghiere:Indice">Torna all'Indice delle preghiere</reference>
+				<lg>
+					<l level="1"><title>Ave Maria</title></l>
+					<p></p>
+					<l level="1"><hi type="bold">«Ave, o Maria, piena di grazia, il Signore è con te.</hi></l>
+					<l level="1"><hi type="bold">Tu sei benedetta fra le donne</hi></l>
+					<l level="1"><hi type="bold">e benedetto è il frutto del tuo seno, Gesù.</hi></l>
+					<l level="1"><hi type="bold">Santa Maria, Madre di Dio,</hi></l>
+					<l level="1"><hi type="bold">prega per noi peccatori,</hi></l>
+					<l level="1"><hi type="bold">adesso e nell'ora della nostra morte.</hi></l>
+					<l level="1"><hi type="bold">✟ Amen.»</hi></l>
+					<l level="1"><title type="sub"><hi type="italic">Ave Maria</hi></title></l>
+					<p></p>
+					<l level="1"><hi type="italic">«Ave Maria, gratia plena, Dominus tecum.</hi></l>
+					<l level="1"><hi type="italic">Benedicta tu in mulieribus,</hi></l>
+					<l level="1"><hi type="italic">et benedictus fructus ventris tui, Iesus.</hi></l>
+					<l level="1"><hi type="italic">Sancta Maria, mater Dei,</hi></l>
+					<l level="1"><hi type="italic">ora pro nobis peccatoribus,</hi></l>
+					<l level="1"><hi type="italic">nunc et in hora mortis nostrae.</hi></l>
+					<l level="1"><hi type="italic">✟ Amen.»</hi></l>
+				</lg>
+			<reference osisRef="preghiere:Indice">Torna all'Indice delle preghiere</reference>
+		</div>
+
+		<div type="chapter" osisID="Eterno riposo">
+			<reference osisRef="preghiere:Indice">Torna all'Indice delle preghiere</reference>
+				<lg>
+					<l level="1"><title>L'eterno riposo</title></l>
+					<p></p>
+					<l level="1"><hi type="bold">«L'eterno riposo dona loro, o Signore,</hi></l>
+					<l level="1"><hi type="bold">e splenda ad essi la luce perpetua.</hi></l>
+					<l level="1"><hi type="bold">Riposino in pace.</hi></l>
+					<l level="1"><hi type="bold">✟ Amen.»</hi></l>
+					<l level="1"><title type="sub"><hi type="italic">Requiem aeternam</hi></title></l>
+					<p></p>
+					<l level="1"><hi type="italic">«Réquiem aetérnam dona eis, Dómine,</hi></l>
+					<l level="1"><hi type="italic">et lux perpétua lúceat eis.</hi></l>
+					<l level="1"><hi type="italic">Requiéscant in pace.</hi></l>
+					<l level="1"><hi type="italic">✟ Amen.»</hi></l>
+				</lg>
+			<reference osisRef="preghiere:1/Indice">Torna all'Indice delle preghiere</reference>
+		</div>
+
+		<div type="chapter" osisID="Angelo di Dio">
+			<reference osisRef="preghiere:Indice">Torna all'Indice delle preghiere</reference>
+				<lg>
+					<l level="1"><title>Angelo di Dio</title></l>
+					<p></p>
+					<l level="1"><hi type="bold">«Angelo di Dio,</hi></l>
+					<l level="1"><hi type="bold">che sei il mio custode</hi></l>
+					<l level="1"><hi type="bold">illumina, custodisci,</hi></l>
+					<l level="1"><hi type="bold">reggi e governa me</hi></l>
+					<l level="1"><hi type="bold">che ti fui affidato</hi></l>
+					<l level="1"><hi type="bold">dalla Pietà Celeste.</hi></l>
+					<l level="1"><hi type="bold">✟ Amen.»</hi></l>
+					<l level="1"><title type="sub"><hi type="italic">Angele Dei</hi></title></l>
+					<p></p>
+					<l level="1"><hi type="italic">«Angele Dei</hi></l>
+					<l level="1"><hi type="italic">qui custos es mei,</hi></l>
+					<l level="1"><hi type="italic">me, tibi commíssum Pietáte Supérna,</hi></l>
+					<l level="1"><hi type="italic">illúmina, custódi,</hi></l>
+					<l level="1"><hi type="italic">rege et gubérna.</hi></l>
+					<l level="1"><hi type="italic">✟ Amen.»</hi></l>
+				</lg>
+			<reference osisRef="preghiere:1/Indice">Torna all'Indice delle preghiere</reference>
+		</div>
+
+		<div type="chapter" osisID="Salve Regina">
+			<reference osisRef="preghiere:Indice">Torna all'Indice delle preghiere</reference>
+				<lg>
+					<l level="1"><title>Salve Regina</title></l>
+					<p></p>
+					<l level="1"><hi type="bold">Salve, Regina</hi></l>
+					<l level="1"><hi type="bold">Madre di misericordia,</hi></l>
+					<l level="1"><hi type="bold">vita, dolcezza e speranza nostra, salve.</hi></l>
+					<l level="1"><hi type="bold">A Te ricorriamo,</hi></l>
+					<l level="1"><hi type="bold">esuli figli di Eva;</hi></l>
+					<l level="1"><hi type="bold">a Te sospiriamo, gementi e</hi></l>
+					<l level="1"><hi type="bold">piangenti in questa valle di lacrime.</hi></l>
+					<l level="1"><hi type="bold">Orsù dunque, Avvocata nostra,</hi></l>
+					<l level="1"><hi type="bold">rivolgi a noi gli occhi</hi></l>
+					<l level="1"><hi type="bold">Tuoi misericordiosi.</hi></l>
+					<l level="1"><hi type="bold">E mostraci, dopo questo esilio, Gesù,</hi></l>
+					<l level="1"><hi type="bold">il Frutto benedetto del Tuo Seno.</hi></l>
+					<l level="1"><hi type="bold">O clemente, o pia, o dolce Vergine Maria!</hi></l>
+					<l level="1"><title type="sub"><hi type="italic">Salve, Regína</hi></title></l>
+					<p></p>
+					<l level="1"><hi type="italic">Salve, Regína</hi></l>
+					<l level="1"><hi type="italic">Mater misericórdiae,</hi></l>
+					<l level="1"><hi type="italic">vita, dulcédo et spes nostra, salve.</hi></l>
+					<l level="1"><hi type="italic">Ad Te clamámus,</hi></l>
+					<l level="1"><hi type="italic">éxsules filii Evae.</hi></l>
+					<l level="1"><hi type="italic">Ad Te suspirámus geméntes et flentes</hi></l>
+					<l level="1"><hi type="italic">in hac lacrimárum valle.</hi></l>
+					<l level="1"><hi type="italic">Eia ergo, Advocáta nostra,</hi></l>
+					<l level="1"><hi type="italic">illos Tuos misericórdes óculos</hi></l>
+					<l level="1"><hi type="italic">ad nos convérte.</hi></l>
+					<l level="1"><hi type="italic">Et Iesum, benedíctum Fructum</hi></l>
+					<l level="1"><hi type="italic">Ventris Tui,</hi></l>
+					<l level="1"><hi type="italic">nobis, post hoc exsílium, osténde.</hi></l>
+					<l level="1"><hi type="italic">O clemens, o pia, o dulcis Virgo María!</hi></l>
+				</lg>
+			<reference osisRef="preghiere:1/Indice">Torna all'Indice delle preghiere</reference>
+		</div>
+
+		<div type="chapter" osisID="Le quindici orazioni di Santa Brigida, la corona brigidina">
+			<reference osisRef="preghiere:Indice">Torna all'Indice delle preghiere</reference>
+				<p></p>
+				<title>Le quindici orazioni di Santa Brigida, la corona brigidina</title>
+				<p></p>
+
+			<div type="section" osisID="Prima orazione">
+				<lg><title>Prima orazione</title></lg>
+				<p>Signore Gesù Cristo, eterna dolcezza di coloro che ti amano, felicità che sorpassa ogni gioia ed ogni desiderio, salvezza di coloro che si pentono, ai quali hai detto: “Le mie delizie sono con i figli degli uomini”, poiché ti sei fatto uomo per la loro salvezza, ricordati dell’amore che ti ha spinto ad assumere la nostra natura umana e di tutto quello che hai sopportato dall’inizio della tua incarnazione fino al momento della tua passione, a compimento del disegno di Dio, stabilito fin dall’eternità.</p>
+				<p>Ricordati del dolore che hai sofferto nella tua anima quando hai detto: “La mia anima è triste fino alla morte” e quando, durante l’Ultima Cena, hai dato ai tuoi discepoli il tuo corpo come cibo ed il tuo sangue, come bevanda, hai lavato i loro piedi e li hai consolati amorevolmente predicendo la tua passione ormai vicina. Ricordati del timore, dell’angoscia e del dolore che hai sopportato nel tuo santissimo corpo, prima di salire sul legno della croce quando dopo aver pregato per tre volte il Padre, sudando sangue, ti sei visto tradito da uno dei tuoi discepoli, arrestato dal tuo popolo eletto, accusato da falsi testimoni e ingiustamente condannato a morte da tre giudici. Nel solenne tempo della Pasqua, sei stato tradito, deriso, spogliato dei tuoi vestiti, bendato e schiaffeggiato, legato alla colonna, flagellato e coronato di spine.</p>
+				<p>In memoria di queste tue sofferenze, ti prego di concedermi, dolcissimo Gesù, prima della mia morte, il vero pentimento, una sincera Confessione e la remissione di tutti i miei peccati. Amen</p>
+				<p>Signore Gesù Cristo, abbi misericordia di me peccatore. Gesù, Figlio di Dio, nato da Maria Vergine, per la nostra salvezza crocifisso, re del cielo, abbi pietà di noi.</p>
+				<p><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></p>
+			</div>
+
+			<div type="section" osisID="Seconda orazione">
+				<lg><title>Seconda orazione</title></lg>
+				<p>Gesù, vera gioia degli angeli e paradiso di delizie, ricordati degli orribili tormenti che hai provato quando i tuoi nemici, come leoni feroci, ti hanno circondato e colpendoti con schiaffi, sputi, graffi ed altri crudeli supplizi, ti hanno lacerato.</p>
+				<p>Per le parole offensive, le violente percosse e i durissimi tormenti, con i quali i tuoi nemici ti hanno fatto soffrire, ti supplico, liberami dai miei nemici sia visibili che invisibili, e concedimi di ritrovare, all’ombra delle tue ali, la protezione della salvezza eterna. Amen.</p>
+				<p>Signore Gesù Cristo, abbi misericordia di me peccatore. Gesù, Figlio di Dio, nato da Maria Vergine, per la nostra salvezza crocifisso, re del cielo, abbi pietà di noi.</p>
+				<p><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></p>
+			</div>
+			<div type="section" osisID="Terza orazione">
+				<lg><title>Terza orazione</title></lg>
+				<p>Verbo incarnato, Creatore onnipotente del mondo, tu che sei infinito, incomprensibile e puoi racchiudere l’universo intero nel palmo della tua mano, ricordati dell’amarissimo dolore che hai sopportato quando le tue santissime mani e i tuoi santissimi piedi sono stati inchiodati al legno della croce. Quale dolore hai provato, o Gesù, quando i tuoi crocifissori hanno dilaniato le tue membra e slogato le tue ossa, tirando il tuo corpo per ogni verso, a loro piacere.</p>
+				<p>Per la memoria di questi dolori da te sopportati sulla croce, ti prego di concedermi di amarti e di nutrire il giusto timore di Dio. Amen.</p>
+				<p>Signore Gesù Cristo, abbi misericordia di me peccatore. Gesù, Figlio di Dio, nato da Maria Vergine, per la nostra salvezza crocifisso, re del cielo, abbi pietà di noi.</p>
+				<p><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></p>
+			</div>
+
+			<div type="section" osisID="Quarta orazione">
+				<lg><title>Quarta orazione</title></lg>
+				<p>Gesù, medico celeste, ricordati delle sofferenze e dei dolori che hai provato nel tuo corpo, già ferito e dolorante, mentre si levava in alto la croce. Dalla testa ai piedi, eri tutto un cumulo di dolore e, tuttavia, ti sei dimenticato di tanta sofferenza e hai offerto pietosamente al Padre preghiere per i tuoi nemici, dicendo: “Padre, perdona loro, perché non sanno quello che fanno”. Per questa smisurata carità e misericordia e per la memoria di questi dolori, concedimi di ricordare la tua amatissima passione, affinché essa mi giovi per una piena remissione di tutti i miei peccati. Amen.</p>
+				<p>Signore Gesù Cristo, abbi misericordia di me peccatore. Gesù, Figlio di Dio, nato da Maria Vergine, per la nostra salvezza crocifisso, re del cielo, abbi pietà di noi.</p>
+				<p><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></p>
+			</div>
+
+			<div type="section" osisID="Quinta orazione">
+				<lg><title>Quinta orazione</title></lg>
+				<p>Gesù, specchio di eterna chiarezza, ricordati dell’afflizione che hai provato quando, prevedendo la salvezza degli eletti mediante la tua passione hai visto anche che molti non l’avrebbero accolta.</p>
+				<p>Per la profondità della misericordia che hai mostrato, non solo nel provare dolore dei perduti e dei disperati, ma anche verso il ladrone quando gli hai detto: “Oggi sarai con me nel Paradiso”, ti chiedo, pietoso Gesù, di riversarla sopra di me nell’ora della mia morte. Amen.</p>
+				<p>Signore Gesù Cristo, abbi misericordia di me peccatore. Gesù, Figlio di Dio, nato da Maria Vergine, per la nostra salvezza crocifisso, re del cielo, abbi pietà di noi.</p>
+				<p><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></p>
+			</div>
+
+			<div type="section" osisID="Sesta orazione">
+				<lg><title>Sesta orazione</title></lg>
+				<p>Gesù, Re amabile, ricordati del dolore che hai provato quando, nudo e disprezzato, pendevi dalla croce; senza avere, fra tanti amici e conoscenti che ti erano accanto, chi ti consolasse, eccetto la tua diletta Madre; a lei hai raccomandato il tuo discepolo prediletto, dicendo: “Donna, ecco il tuo figlio!” ed al discepolo: “Ecco la tua Madre!”.Per la spada di dolore che le ha trapassato l’anima, pietosissimo Gesù, fiducioso ti prego di aver compassione di me in ogni afflizione e tribolazione sia fisica che spirituale e di consolarmi porgendomi aiuto e gioia in ogni prova ed avversità. Amen.</p>
+				<p>Signore Gesù Cristo, abbi misericordia di me peccatore. Gesù, Figlio di Dio, nato da Maria Vergine, per la nostra salvezza crocifisso, re del cielo, abbi pietà di noi.</p>
+				<p><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></p>
+			</div>
+
+			<div type="section" osisID="Settima orazione">
+				<lg><title>Settima orazione</title></lg>
+				<p>Signore Gesù Cristo, Fonte di dolcezza senza fine, che, mosso da un amore immenso, quando eri in Croce hai detto: “Ho sete”, cioè “Desidero sommamente la salvezza del genere umano”, ti preghiamo di accendere in noi il desiderio di operare santamente, spegnendo del tutto la sete dei nostri desideri peccaminosi e la ricerca dei piaceri del mondo. Amen.</p>
+				<p>Signore Gesù Cristo, abbi misericordia di me peccatore. Gesù, Figlio di Dio, nato da Maria Vergine, per la nostra salvezza crocifisso, re del cielo, abbi pietà di noi.</p>
+				<p><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></p>
+			</div>
+
+			<div type="section" osisID="Ottava orazione">
+				<lg><title>Ottava orazione</title></lg>
+				<p>Signore Gesù Cristo, dolcezza dei cuori e soavità grandissima dello spirito, per l’amarezza dell’aceto e del fiele che hai bevuto per amore nostro, sulla Croce, concedi a noi peccatori, di cibarci degnamente del tuo corpo e del tuo sangue, rimedio e consolazione delle nostre anime, per tutta la vita e specialmente nell’ora della morte. Amen.</p>
+				<p>Signore Gesù Cristo, abbi misericordia di me peccatore. Gesù, Figlio di Dio, nato da Maria Vergine, per la nostra salvezza crocifisso, re del cielo, abbi pietà di noi.</p>
+				<p><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></p>
+			</div>
+
+			<div type="section" osisID="Nona orazione">
+				<lg><title>Nona orazione</title></lg>
+				<p>Signore Gesù Cristo, gioia della mente, ricordati dell’angoscia e del dolore che hai provato quando, per l’amarezza della morte e l’insulto dei Giudei, gridasti al Padre tuo: “Dio Mio, Dio Mio, perché Mi hai abbandonato?”. Per questo ti chiedo, mio Signore e mio Dio, di non abbandonarmi nell’ora della mia morte. Amen.</p>
+				<p>Signore Gesù Cristo, abbi misericordia di me peccatore. Gesù, Figlio di Dio, nato da Maria Vergine, per la nostra salvezza crocifisso, re del cielo, abbi pietà di noi.</p>
+				<p><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></p>
+			</div>
+
+			<div type="section" osisID="Decima orazione">
+				<lg><title>Decima orazione</title></lg>
+				<p>Signore Gesù Cristo, principio e termine ultimo del nostro amore, dalla pianta dei piedi alla cima del capo, ti sei completamente immerso nel mare delle sofferenze.</p>
+				<p>Per le tue larghe e profondissime piaghe, ti prego di insegnarmi ad operare santamente, con vera carità e seguendo la tua legge e i tuoi precetti. Amen.</p>
+				<p>Signore Gesù Cristo, abbi misericordia di me peccatore. Gesù, Figlio di Dio, nato da Maria Vergine, per la nostra salvezza crocifisso, re del cielo, abbi pietà di noi.</p>
+				<p><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></p>
+			</div>
+
+			<div type="section" osisID="Undicesima orazione">
+				<lg><title>Undicesima orazione</title></lg>
+				<p>Signore Gesù Cristo, abisso profondo di pietà e di misericordia, per la profondità delle piaghe che trapassarono non solo la tua carne e le midolla delle ossa, ma anche le più intime viscere, ti domando di sollevarmi dai peccati e nascondermi nelle aperture delle tue ferite. Amen.</p>
+				<p>Signore Gesù Cristo, abbi misericordia di me peccatore. Gesù, Figlio di Dio, nato da Maria Vergine, per la nostra salvezza crocifisso, re del cielo, abbi pietà di noi.</p>
+				<p><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></p>
+			</div>
+
+			<div type="section" osisID="Dodicesima orazione">
+				<lg><title>Dodicesima orazione</title></lg>
+				<p>Signore Gesù Cristo, specchio di verità, segno di unità e legame di carità, ricorda le innumerevoli ferite di cui è stato ricoperto il tuo corpo, lacerato e imporporato del tuo stesso preziosissimo sangue. Ti prego, con quello stesso sangue, scrivi nel mio cuore le tue ferite, affinché, nella meditazione del tuo dolore e del tuo amore, ogni giorno si rinnovi in me il dolore del tuo soffrire. Ciò accresca in me l’amore e la continua perseveranza nel renderti grazie, sino alla fine della mia vita; quando pieno di tutti i beni e di tutti i meriti che ti sei degnato donarmi dal tesoro della tua passione, verrò da te. Amen.</p>
+				<p>Signore Gesù Cristo, abbi misericordia di me peccatore. Gesù, Figlio di Dio, nato da Maria Vergine, per la nostra salvezza crocifisso, re del cielo, abbi pietà di noi.</p>
+				<p><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></p>
+			</div>
+
+			<div type="section" osisID="Tredicesima orazione">
+				<lg><title>Tredicesima orazione</title></lg>
+				<p>Signore Gesù Cristo, Re invincibile ed immortale, ricordati del dolore che hai provato, quando venute meno tutte le forze del tuo corpo e del tuo Cuore, chinando il capo hai detto: “Tutto è compiuto!”.Per tale angoscia e dolore, ti prego di avere misericordia di me nell’ultima ora della mia vita, quando la mia anima sarà turbata dall’ansia dell’agonia. Amen.</p>
+				<p>Signore Gesù Cristo, abbi misericordia di me peccatore. Gesù, Figlio di Dio, nato da Maria Vergine, per la nostra salvezza crocifisso, re del cielo, abbi pietà di noi.</p>
+				<p><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></p>
+			</div>
+
+			<div type="section" osisID="Quattordicesima orazione">
+				<lg><title>Quattordicesima orazione</title></lg>
+				<p>Signore Gesù Cristo, unigenito del Padre altissimo, splendore e immagine della sua sostanza, ricordati dell’umile preghiera con la quale hai raccomandato il tuo spirito dicendo: “Padre, nelle tue mani consegno il mio Spirito”. E, dopo aver chinato il capo e aperte le viscere della misericordia per riscattarci, gridando hai emesso l’ultimo respiro.</p>
+				<p>Per questa preziosissima morte ti prego, Re dei santi, dammi la forza di resistere alle tentazioni del diavolo, del mondo e della carne, affinché, morto al mondo, viva solo in te e, nell’ultima ora della mia vita, tu riceva il mio spirito che, dopo lungo esilio e pellegrinaggio, desidera ritornare alla sua patria. Amen.</p>
+				<p>Signore Gesù Cristo, abbi misericordia di me peccatore. Gesù, Figlio di Dio, nato da Maria Vergine, per la nostra salvezza crocifisso, re del cielo, abbi pietà di noi.</p>
+				<p><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></p>
+			</div>
+
+			<div type="section" osisID="Quindicesima orazione">
+				<lg><title>Quindicesima orazione</title></lg>
+				<p>Signore Gesù Cristo, vera e feconda vita, ricordati dell’abbondante effusione del tuo sangue, quando chinato il capo sulla croce, il soldato ti ha squarciato il costato da cui sono uscite le ultime gocce di sangue ed acqua.</p>
+				<p>Per la tua amarissima passione, ti prego, dolcissimo Gesù, ferisci il mio cuore, affinché, giorno e notte io versi lacrime di penitenza e di amore. Convertimi totalmente a te perché il mio cuore sia tua stabile abitazione, la mia conversione ti sia gradita ed il termine della mia vita sia così lodevole da meritare di lodarti in eterno insieme con tutti i santi. Amen.</p>
+				<p>Signore Gesù Cristo, abbi misericordia di me peccatore. Gesù, Figlio di Dio, nato da Maria Vergine, per la nostra salvezza crocifisso, re del cielo, abbi pietà di noi.</p>
+				<p><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				<p><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></p>
+			</div>
+
+			<div type="section" osisID="Preghiera">
+				<lg><title>Preghiera</title></lg>
+				<p>"Signore Gesù Cristo, Figlio di Dio vivo, accetta questa preghiera con lo stesso immenso amore, con il quale hai sopportato tutte le piaghe del tuo Santissimo Corpo; abbi misericordia di noi, ed a tutti i fedeli, vivi e defunti, concedi la tua Misericordia, la tua Grazia, la remissione di tutte le colpe e le pene, e la Vita Eterna. Amen".</p>
+				<p></p>
+				<reference osisRef="preghiere:Indice">Torna all'Indice delle preghiere</reference>
+			</div>
+		</div>
+
+	</div>
+</osisText>
+</osis>
