@@ -26,6 +26,7 @@
 			A
 				<item><reference osisRef="preghiere:Preghiere/Angelo di Dio">Angelo di Dio</reference></item>
 				<item><reference osisRef="preghiere:Preghiere/Angelus">Angelus</reference></item>
+				<item><reference osisRef="preghiere:Preghiere/Anima di Cristo">Anima di Cristo</reference></item>
 				<item><reference osisRef="preghiere:Preghiere/Ave Maria">Ave Maria</reference></item>
 			B
 				<item><reference osisRef="preghiere:Preghiere/Benedictus">Benedictus (Cantico di Zaccaria)</reference></item>
@@ -186,6 +187,53 @@
 					<p>Per eúndem Christum Dóminum nostrum.</p>
 					<p>✟ Amen.»</p>
 					<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				</lg>
+			<reference osisRef="preghiere:1/Indice">Torna all'Indice delle preghiere</reference>
+		</div>
+
+
+										<!--
+
+									ANIMA DI CRISTO
+
+										-->
+
+
+		<div type="chapter" osisID="Anima di Cristo">
+			<reference osisRef="preghiere:Indice">Torna all'Indice delle preghiere</reference>
+				<lg>
+					<l level="1"><title>Anima di Cristo</title></l>
+					<p></p>
+					<l level="1"><hi type="bold">Anima di Cristo, santificami.</hi></l>
+					<l level="1"><hi type="bold">Corpo di Cristo, salvami.</hi></l>
+					<l level="1"><hi type="bold">Sangue di Cristo, inebriami.</hi></l>
+					<l level="1"><hi type="bold">Acqua del costato di Cristo, lavami.</hi></l>
+					<l level="1"><hi type="bold">Passione di Cristo, confortami.</hi></l>
+					<l level="1"><hi type="bold">O buon Gesù, esaudiscimi.</hi></l>
+					<l level="1"><hi type="bold">Dentro le tue ferite nascondimi.</hi></l>
+					<l level="1"><hi type="bold">Non permettere che io mi separi da te.</hi></l>
+					<l level="1"><hi type="bold">Dal nemico maligno difendimi.</hi></l>
+					<l level="1"><hi type="bold">Nell'ora della mia morte chiamami.</hi></l>
+					<l level="1"><hi type="bold">Comandami di venire a te,</hi></l>
+					<l level="1"><hi type="bold">perché con i tuoi Santi io ti lodi,</hi></l>
+					<l level="1"><hi type="bold">nei secoli dei secoli.»</hi></l>
+					<l level="1"><hi type="bold">✟ Amen.»</hi></l>
+					<l level="1"><title type="sub"><hi type="italic">Anima Christi</hi></title></l>
+					<p></p>
+					<l level="1"><hi type="italic">Ánima Christi, sanctífica me.</hi></l>
+					<l level="1"><hi type="italic">Corpus Christi, salva me.</hi></l>
+					<l level="1"><hi type="italic">Sanguis Christi, inébria me.</hi></l>
+					<l level="1"><hi type="italic">Aqua láteris Christi, lava me.</hi></l>
+					<l level="1"><hi type="italic">Pássio Christi, confórta me.</hi></l>
+					<l level="1"><hi type="italic">O bone Iesu, exáudi me.</hi></l>
+					<l level="1"><hi type="italic">Intra tua vúlnera abscónde me.</hi></l>
+					<l level="1"><hi type="italic">Ne permíttas me separári a te.</hi></l>
+					<l level="1"><hi type="italic">Ab hoste malígno defénde me.</hi></l>
+					<l level="1"><hi type="italic">In hora mortis meæ voca me.</hi></l>
+					<l level="1"><hi type="italic">Et iube me veníre ad te,</hi></l>
+					<l level="1"><hi type="italic">ut cum Sanctis tuis laudem te,</hi></l>
+					<l level="1"><hi type="italic">in sǽcula sæculórum.</hi></l>
+					<l level="1"><hi type="italic">✟ Amen.»</hi></l>
 				</lg>
 			<reference osisRef="preghiere:1/Indice">Torna all'Indice delle preghiere</reference>
 		</div>
