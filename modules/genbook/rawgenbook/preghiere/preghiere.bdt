@@ -23,6 +23,7 @@
 				<item><reference osisRef="preghiere:Preghiere/Litanie Lauretane">Litanie Lauretane</reference></item>
 			M
 				<item><reference osisRef="preghiere:Preghiere/Magnificat">Magnificat</reference></item>
+				<item><reference osisRef="preghiere:Preghiere/Memorare">Memorare</reference></item>
 			P
 				<item><reference osisRef="preghiere:Preghiere/Padre nostro">Padre nostro</reference></item>
 				<item><reference osisRef="preghiere:Preghiere/Preghiera a san Michele">Preghiera a san Michele Arcangelo</reference></item>
@@ -742,6 +743,37 @@
 					<l level="1"><hi type="italic">sicut locútus est ad patres nostros,</hi></l>
 					<l level="1"><hi type="italic">Àbraham et sémini eius in sǽcula.»</hi></l>
 					<p><reference osisRef="preghiere:Preghiere/Gloria al Padre">Gloria al Padre</reference></p>
+				</lg>
+			<reference osisRef="preghiere:1/Indice">Torna all'Indice delle preghiere</reference>
+		
+			<reference osisRef="preghiere:Indice">Torna all'Indice delle preghiere</reference>
+				<lg>
+					<l level="1"><title>Memorare</title></l>
+					<p></p>
+					<l level="1"><hi type="bold">Ricordati, o piissima Vergine Maria,</hi></l>
+					<l level="1"><hi type="bold">non essersi mai udito al mondo che alcuno</hi></l>
+					<l level="1"><hi type="bold">abbia ricorso al tuo patrocinio,</hi></l>
+					<l level="1"><hi type="bold">implorato il tuo aiuto,</hi></l>
+					<l level="1"><hi type="bold">chiesto la tua protezione e sia stato abbandonato.</hi></l>
+					<l level="1"><hi type="bold">Animato da tale confidenza, a te ricorro,</hi></l>
+					<l level="1"><hi type="bold">o Madre, Vergine delle Vergini, a te vengo e,</hi></l>
+					<l level="1"><hi type="bold">peccatore contrito, innanzi a te mi prostro.</hi></l>
+					<l level="1"><hi type="bold">Non volere, o Madre del Verbo, disprezzare le mie preghiere,</hi></l>
+					<l level="1"><hi type="bold">ma ascoltami propizia ed esaudiscimi.</hi></l>
+					<l level="1"><hi type="bold">✟ Amen.»</hi></l>
+					<l level="1"><title type="sub"><hi type="italic">Memoráre</hi></title></l>
+					<p></p>
+					<l level="1"><hi type="italic">Memoráre, o piíssima Virgo María,</hi></l>
+					<l level="1"><hi type="italic">non esse audítum a sǽculo, quemquam ad</hi></l>
+					<l level="1"><hi type="italic">tua curréntem præsidia,</hi></l>
+					<l level="1"><hi type="italic">tua implorantem auxília,</hi></l>
+					<l level="1"><hi type="italic">tua peténtem suffrágia, esse derelíctum.</hi></l>
+					<l level="1"><hi type="italic">Ego tali animátus confidéntia, ad te,</hi></l>
+					<l level="1"><hi type="italic">Virgo Vírginum, Mater, curro,</hi></l>
+					<l level="1"><hi type="italic">ad te vénio, coram te gemens peccátor assisto.</hi></l>
+					<l level="1"><hi type="italic">Noli, Mater Verbi, verba mea despícere,</hi></l>
+					<l level="1"><hi type="italic">sed áudi propítia et exáudi.</hi></l>
+					<l level="1"><hi type="italic">✟ Amen.»</hi></l>
 				</lg>
 			<reference osisRef="preghiere:1/Indice">Torna all'Indice delle preghiere</reference>
 		
