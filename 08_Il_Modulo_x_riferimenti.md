@@ -27,7 +27,7 @@ che stai editando.
 Questo è solo l'inizio, naturalmente, se il versetto non è "semplice", ovvero costituito da un solo capitolo e versetto.
 
 Però tuttavia è un'ottima base di partenza da modificare in caso il riferimento sia di più versetti contigui o anche non, come indicato
-nel [punto 03](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/03_Istruzioni_x_editare_un_capitolo.md)
+nel [punto 03](https://github.com/EmanueleTinari/OsisITA_LAT/blob/OSIS_ITA_and_LAT_books/03_Istruzioni_x_editare_un_capitolo.md)
 
 Un'ultima precisazione riguarda i riferimenti allo stesso libro il cui capitolo stai editando.
 
@@ -48,4 +48,4 @@ nella nota o lungo il testo dell'introduzione (gli unici punti in cui vi sono ri
 i riferimenti non solo diventano cliccabili (permettendoti così di saltare nel punto in questione, ma anche di vedere nel pop-up stesso o nel
 riquadro delle note) ma è anche possibile avvicinando il mouse al riferimento stesso così formattato di poter leggere il riiferimento in questione.
 
-Torna all'elenco delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
+Torna all'elenco delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/OsisITA_LAT)
