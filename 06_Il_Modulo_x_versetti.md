@@ -13,7 +13,7 @@ Le colonne di colore rosina/arancione chiaro **NON** vanno assolutamente toccate
 Le colonne invece verdine sono quelle in cui inserire i dati del capitolo e versetto da te scelti.
 
 La prima colonna **B** è quella dell'abbreviazione del libro in inglese. Ricordi? Ne ho parlato al
-[punto 03](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/03_Istruzioni_x_editare_un_capitolo.md)
+[punto 03](https://github.com/EmanueleTinari/OsisITA_LAT/blob/OSIS_ITA_and_LAT_books/03_Istruzioni_x_editare_un_capitolo.md)
 
 Metti il dato nella colonna **B** quindi.
 
@@ -55,4 +55,4 @@ e via di seguito, fino ad arrivare al versetto 41 del nostro esempio. Incollato 
 
 Ora la colonna **W** conterrà tutti e 41 i versetti, una riga sotto l'altra e una per ogni versetto, già belli e formattati e pronti da essere copiati ed incollati.
 
-Torna all'elenco delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
+Torna all'elenco delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/OsisITA_LAT)
