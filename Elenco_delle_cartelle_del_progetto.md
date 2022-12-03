@@ -17,4 +17,4 @@ tilc ------------------------------->Cartella contenente il file tilc.osis.xml d
 
 ElencoCartelleProgetto.md ----->Questo file che stai leggendo
 
-Torna all'elenco delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
+Torna all'elenco delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/OsisITA_LAT)
