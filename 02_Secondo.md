@@ -27,7 +27,7 @@ di sito "Vedi il risultato di ciò che stai digitando, immediatamente".
 Una volta aperto l'editor Xml online, clicca sempre destro il seguente link dove potrai vedere il file base di xml col modello per creare e formattare
 un capitolo della Bibbia:
 
-https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/base.xml
+https://github.com/EmanueleTinari/OsisITA_LAT/blob/OSIS_ITA_and_LAT_books/base.xml
 
 Ora che sei a questo punto proseguiamo finalmente col [punto 03](https://github.com/EmanueleTinariOsisITA_LAT/blob/OSIS_ITA_and_LAT_books/03_Istruzioni_x_editare_un_capitolo.md), dove finalmente ti spiegherò dettagliatamente come editare il tuo capitolo, descrivendoti
 riga per riga il file base.xml
