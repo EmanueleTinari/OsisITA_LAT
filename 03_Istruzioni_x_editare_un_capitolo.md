@@ -67,7 +67,7 @@ non va formattato in alcuna maniera e il testo risulterà continuo.
 
 In caso di presenza di riferimenti nel testo dell'introduzione, questi dovranno essere formattati come segue:
 
-(per semplificare ed aiutarti ho creato la scheda Modulo x riferimenti nel [Foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing). Le istruzioni per come usare tale foglio sono indicate nel file [08_Il Modulo_x_Riferimenti](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/08_Il_Modulo_x_riferimenti.md).
+(per semplificare ed aiutarti ho creato la scheda Modulo x riferimenti nel [Foglio di Google](https://docs.google.com/spreadsheets/d/1Uge8LUyCOSvNaqvxR5Uss9EsBBgO8DgnApFgWN5Nt_8/edit?usp=sharing). Le istruzioni per come usare tale foglio sono indicate nel file [08_Il Modulo_x_Riferimenti](https://github.com/EmanueleTinari/OsisITA_LAT/blob/OSIS_ITA_and_LAT_books/08_Il_Modulo_x_riferimenti.md).
 
 ## Formattazione di un riferimento di un capitolo, un versetto ##
 
@@ -236,8 +236,8 @@ Mentre il codice completo, senza testo dei versetti sarà:
 			</div>
 ```
 
-Altra cosa che raccomando sono le tabulazioni. Per questo fate riferimento al file [base.xml](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/base.xml) e [Tabulazioni](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/tabulazioni.md) qui su Github.
+Altra cosa che raccomando sono le tabulazioni. Per questo fate riferimento al file [base.xml](https://github.com/EmanueleTinari/OsisITA_LAT/blob/OSIS_ITA_and_LAT_books/base.xml) e [Tabulazioni](https://github.com/EmanueleTinari/OsisITA_LAT/blob/OSIS_ITA_and_LAT_books/tabulazioni.md) qui su Github.
 
-Se non hai un editor nel tuo pc e vuoi utilizzare il servizio gratuito di [jsonformatter](https://jsonformatter.org/xml-editor), al [punto 04](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/04_Quattro_parole_su_Jsonformatter.md) ti spiego quattro cose su come usarlo.
+Se non hai un editor nel tuo pc e vuoi utilizzare il servizio gratuito di [jsonformatter](https://jsonformatter.org/xml-editor), al [punto 04](https://github.com/EmanueleTinari/OsisITA_LAT/blob/OSIS_ITA_and_LAT_books/04_Quattro_parole_su_Jsonformatter.md) ti spiego quattro cose su come usarlo.
 
-Vuoi, invece, tornare all'elenco delle cartelle e dei file del progetto? Clicca [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
+Vuoi, invece, tornare all'elenco delle cartelle e dei file del progetto? Clicca [QUI](https://github.com/EmanueleTinari/OsisITA_LAT)
