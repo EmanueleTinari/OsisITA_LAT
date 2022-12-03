@@ -41,4 +41,4 @@ Avrai modo, se lo vorrai, di vedere se scaricherai (come suggerisco) uno dei pro
 (a seconda del numero di nota) piccolo, carino, in apice all'inizio del versetto sta veramente bene, soprattutto perchè la scritta della stessa nota 
 comparirà di lato o nel pop-up!!!
 
-Torna all'elenco delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
+Torna all'elenco delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/OsisITA_LAT)
