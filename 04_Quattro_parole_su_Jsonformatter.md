@@ -11,7 +11,7 @@ la scritta fullscreen, premi lì. Nella foto ho indicato con una freccia rossa i
 3. Copia ed incolla il codice completo del [file base.xml](https://github.com/EmanueleTinari/OsisITA_LAT/blob/OSIS_ITA_and_LAT_books/base.xml)
 nella schermata di jsonformatter.
 
-4. Se il capitolo ha un'introduzione copiala ed incollala nel relativo spazio come già spiegato al [punto 04](https://github.com/EmanueleTinari/OsisITA_LAT/blob/OSIS_ITA_and_LAT_books/04_Istruzioni_x_editare_un_capitolo.md)
+4. Se il capitolo ha un'introduzione copiala ed incollala nel relativo spazio come già spiegato al [punto 03](https://github.com/EmanueleTinari/OsisITA_LAT/blob/OSIS_ITA_and_LAT_books/03_Istruzioni_x_editare_un_capitolo.md)
 
 5. Una volta finito premi l'icona per copiare in automatico tutto il codice nella tua clipboard, avvicinando il mouse comparirà la scritta Copy to clipboard.
 Nella foto ho indicato l'icona con una freccia rossa.
@@ -42,10 +42,10 @@ con le tue ultime modifiche. Scegli File dal menù in alto e quindi Salva per st
 
 13. Sistema eventuali **Titoli di sezioni** se presenti nel capitolo del sito della CEI.
 
-14. Ora la parte più spinosa, sistema ogni riferimento, formattandolo sempre come spiegato al [punto 04](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/04_Istruzioni_x_editare_un_capitolo.md)
+14. Ora la parte più spinosa, sistema ogni riferimento, formattandolo sempre come spiegato al [punto 03](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/03_Istruzioni_x_editare_un_capitolo.md)
 
 15. Dovresti aver finito. Copia sempre nella clipboard il tutto, torna sul tuo desktop, seleziona dal menù Modifica tutto ed incolla il nuovo codice, completo.
 
 16. Salva dal menù file. Ora dovresti aver finito. Inviami pure il file txt appena salvato come allegato.
 
-Vuoi, invece, tornare all'elenco delle cartelle e dei file del progetto? Clicca [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
+Vuoi, invece, tornare all'elenco delle cartelle e dei file del progetto? Clicca [QUI](https://github.com/EmanueleTinari/OsisITA_LAT)
