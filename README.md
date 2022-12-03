@@ -34,12 +34,12 @@ lo stesso sito della CEI non l'ha e ha solo un collegamento al sito del Vaticano
 
 Disponibilità ad editare almeno un capitolo (non è una GARA! Chi volesse partecipare editando più di un capitolo, tanto meglio: nei Ringraziamenti finali
 per ogni persona che vorrà darmi Nome/Cognome o Pseudonimo, verrà anche indicato quale o quali capitoli ha editato); 
-Buona padronanza con le funzioni base del PC (copia/incolla, uso della tastiera e del mouse, navigazione in rete, uso del browser)
+Buona padronanza con le funzioni base del PC (copia/incolla, uso della tastiera e del mouse, navigazione in rete, uso del browser).
 
 ### QUALITA FACOLTATIVE:
 
 Uso e padronanza di Excel, anche il suo clone nel cloud di Google quale è Google Spreadsheet (copia/incolla di celle, trascinamento e formattazione delle stesse...);
-Uso e padronanza di Notepad++ o altro editor evoluto di testi (NO Microsoft Word, meglio in caso Visual Studio Code con plugin per xml a questo punto)
+Uso e padronanza di Notepad++ o altro editor evoluto di testi (NO Microsoft Word, meglio in caso Visual Studio Code con plugin per xml a questo punto).
 
 Pronto? Bene cominciamo col [punto 01](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/01_Comincia_da_qui.md)
 
