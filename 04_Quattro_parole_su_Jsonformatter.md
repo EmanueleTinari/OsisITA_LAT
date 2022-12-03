@@ -6,17 +6,17 @@ dei versetti del capitolo che stai elaborando dal sito della CEI alla colonna **
 2. Metti a schermo intero l'editor, premendo l'ultima icona sulla destra della barra in alto degli strumenti, è come una specie di x, avvicinando il mouse comparirà 
 la scritta fullscreen, premi lì. Nella foto ho indicato con una freccia rossa il punto.
 
-![Qui](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/immagini/Schermo_intero.jpg) 
+![Qui](https://github.com/EmanueleTinari/OsisITA_LAT/blob/OSIS_ITA_and_LAT_books/immagini/Schermo_intero.jpg) 
 
-3. Copia ed incolla il codice completo del [file base.xml](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/base.xml)
+3. Copia ed incolla il codice completo del [file base.xml](https://github.com/EmanueleTinari/OsisITA_LAT/blob/OSIS_ITA_and_LAT_books/base.xml)
 nella schermata di jsonformatter.
 
-4. Se il capitolo ha un'introduzione copiala ed incollala nel relativo spazio come già spiegato al [punto 04](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/04_Istruzioni_x_editare_un_capitolo.md)
+4. Se il capitolo ha un'introduzione copiala ed incollala nel relativo spazio come già spiegato al [punto 04](https://github.com/EmanueleTinari/OsisITA_LAT/blob/OSIS_ITA_and_LAT_books/04_Istruzioni_x_editare_un_capitolo.md)
 
 5. Una volta finito premi l'icona per copiare in automatico tutto il codice nella tua clipboard, avvicinando il mouse comparirà la scritta Copy to clipboard.
 Nella foto ho indicato l'icona con una freccia rossa.
 
-![Qui](https://github.com/EmanueleTinari/EmanueleTinari/blob/OSIS_ITA_and_LAT_books/immagini/CopiaNellaClipboard.jpg)
+![Qui](https://github.com/EmanueleTinari/OsisITA_LAT/blob/OSIS_ITA_and_LAT_books/immagini/CopiaNellaClipboard.jpg)
 
 6. Clicca col tasto destro del mouse sul tuo desktop e scegli Nuovo e poi File di testo. sul tuo desktop. Verrà creato un nuovo file
 sul tuo desktop chiamato Nuovo file di testo.txt. Tieni tale nome o rinominalo come meglio credi. Apri il file di testo ed incolla dal menù Modifica,
