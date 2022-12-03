@@ -51,4 +51,4 @@ Elimina lo spazio iniziale e finale in questo modo:
 
 Nei programmi i due spazi iniziale e finale risultano essere troppo.
 
-Torna all'elenco delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/EmanueleTinari)
+Torna all'elenco delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/OsisITA_LAT)
